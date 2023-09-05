@@ -67,6 +67,11 @@ description
 - [walls](https://github.com/dharmx/walls) - by dharmx
 
 
+### Utilities
+
+- [swww](https://github.com/Horus645/swww)
+
+
 ## ([Nerd](https://github.com/ryanoasis/nerd-fonts)) Fonts
 
 - [FiraCode](https://github.com/tonsky/FiraCode) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode) - ligatures
