@@ -1,6 +1,8 @@
 # Ricing Resources
 
-description
+This meticulously curated list is designed to assist users in personalizing their Linux desktop, a practice often referred to as 'ricing'. This resource compiles a carefully selected list of themes, tools, and customization options, offering users a comprehensive starting point for customizing their computers. Whether you seek common themes and tools or have specific preferences in mind, this repository provides a structured approach to explore and tailor your Linux desktop to your liking.
+
+*On how to install, see: [Installation](#installation)*
 
 ## Table of Contents
 
@@ -50,7 +52,7 @@ description
 
 - [Dracula](https://github.com/dracula/dracula-theme)
 - [Catppuccin](https://github.com/catppuccin/catppuccin)
-- [Tokyo Night](https://github.com/folke/tokyonight.nvim)
+- [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme#other-ports)
 - [Rosé Pine](https://github.com/rose-pine/rose-pine-theme)
 - [Gruvbox](https://github.com/morhetz/gruvbox)
 - [Nord](https://github.com/nordtheme/nord)
@@ -69,7 +71,7 @@ description
 
 ### Utilities
 
-- [swww](https://github.com/Horus645/swww)
+- [swww](https://github.com/Horus645/swww) - Efficient animated wallpaper daemon for wayland, controlled at runtime.
 
 
 ## ([Nerd](https://github.com/ryanoasis/nerd-fonts)) Fonts
@@ -104,13 +106,14 @@ description
 ### Prompt
 
 - [Starship](https://github.com/starship/starship)
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - only for zsh
 
 
 ### Multiplexer
   - [tmux](https://github.com/tmux/tmux)
 
 
-### Tools
+### Apps and Tools
 
 - File Managers
   - [ranger](https://github.com/ranger/ranger)
@@ -130,11 +133,13 @@ description
   - [mutt](https://gitlab.com/muttmua/mutt)
 - Screenshot
   - [scrot](https://github.com/resurrecting-open-source-projects/scrot)
-- Network
-  - [evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
 - Directory Listing
   - [lsd](https://github.com/Peltoche/lsd)
   - [exa](https://github.com/ogham/exa)
+- Misc
+  - [evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
+  - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
+  - [nvm](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions
 - more:
   - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps.
   - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
@@ -160,17 +165,88 @@ description
 - [Rofi](https://github.com/davatorium/rofi)
 
 
-## File Managers
+## UI Apps/Tools
+
+### Web Browsers
+
+- [Firefox](https://www.mozilla.org/firefox)
+- [chromium](https://github.com/chromium/chromium)
+- [Brave](https://github.com/brave/brave-browser)
+- [Tor](https://www.torproject.org/)
+
+### File Managers
 
 - [Nemo](https://github.com/linuxmint/nemo)
 - [Nautilus](https://gitlab.gnome.org/GNOME/nautilus)
 - [Dolphin](https://invent.kde.org/system/dolphin)
 
+### Image Viewers
 
-## Firefox
+### Music Players
+
+### Video Streamers
+
+### Document Readers
+
+### Text Editors
+
+- [gedit](https://gitlab.gnome.org/GNOME/gedit)
+- [geany](https://github.com/geany/geany)
+- [kate](https://github.com/KDE/kate)
+- [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+
+### Archive Managers
+
+### Email
+
+- [Thunderbird](https://github.com/mozilla/releases-comm-central)
+
+### Calculators
+
+### Workstations - Content Creation
+
+- Image Editors
+  - [GIMP](https://gitlab.gnome.org/GNOME/gimp)
+- Video Editors
+- Music
+- 3D
+  - [blender](https://github.com/blender/blender)
+- Office
+  - [LibreOffice](https://github.com/LibreOffice/core)
+- Screen Recording / Live Streaming
+  - [OBS Studio](https://github.com/obsproject/obs-studio)
+
+### Gaming
+
+- Steam - Proton
+- Lutris
+
+
+## App Theming
+
+### Firefox
 
 - [Sweet](https://github.com/EliverLara/firefox-sweet-theme)
 - [Nord](https://github.com/EliverLara/firefox-nordic-theme)
+- [Cascade](https://github.com/andreasgrafen/cascade)
+
+
+### Spotify
+
+- [Spicetify](https://github.com/spicetify/spicetify-cli) - [themes](https://github.com/spicetify/spicetify-themes)
+
+### Discord
+
+### VSCode
+
+- [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme)
 
 ---
+
+## Installation
+
+## Contribution
+
+<!-- ### Thanks -->
+
 
