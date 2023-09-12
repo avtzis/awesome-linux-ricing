@@ -6,6 +6,57 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ## Table of Contents
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [GRUB](#grub)
+- [Display Managers](#display-managers)
+  - [sddm](#sddm)
+  - [lightdm](#lightdm)
+  - [gdm](#gdm)
+- [Desktop Environments / Window Managers](#desktop-environments--window-managers)
+  - [Classic/Stacking](#classicstacking)
+  - [Tiling](#tiling)
+  - [Dynamic (Stacking + Tiling)](#dynamic-stacking--tiling)
+- [Themes](#themes)
+  - [Utilities](#utilities)
+- [Wallpapers](#wallpapers)
+  - [Utilities](#utilities-1)
+- [(Nerd) Fonts](#nerd-fonts)
+- [Bar / Panel](#bar--panel)
+- [Terminal](#terminal)
+  - [Emulators](#emulators)
+  - [Shell](#shell)
+  - [Prompt](#prompt)
+  - [Multiplexer](#multiplexer)
+  - [Apps and Tools](#apps-and-tools)
+  - [Fetchers](#fetchers)
+  - [Fancies](#fancies)
+- [Icons](#icons)
+- [App Launchers](#app-launchers)
+- [UI Apps/Tools](#ui-appstools)
+  - [Web Browsers](#web-browsers)
+  - [File Managers](#file-managers)
+  - [Image Viewers](#image-viewers)
+  - [Music Players](#music-players)
+  - [Video Streamers](#video-streamers)
+  - [Document Readers](#document-readers)
+  - [Text Editors](#text-editors)
+  - [Archive Managers](#archive-managers)
+  - [Email](#email)
+  - [Calculators](#calculators)
+  - [Workstations - Content Creation](#workstations---content-creation)
+  - [Gaming](#gaming)
+- [App Theming](#app-theming)
+  - [Firefox](#firefox)
+  - [Spotify](#spotify)
+  - [Discord](#discord)
+  - [VSCode](#vscode)
+- [Installation](#installation)
+- [Contribution](#contribution)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ---
 
 ## GRUB
