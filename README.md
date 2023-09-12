@@ -10,6 +10,14 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ## GRUB
 
+- [grub2-themes](https://github.com/vinceliuice/grub2-themes) - by vinceliuice
+- [Matter](https://github.com/mateosss/matter)
+- [Tartarus](https://github.com/AllJavi/tartarus-grub) -gruvbox style
+- [Dracula](https://github.com/dracula/grub)
+- [Tokyo Night](https://github.com/mino29/tokyo-night-grub)
+- [Poly dark](https://github.com/shvchk/poly-dark)
+- [Dark Matter](https://github.com/VandalByte/darkmatter-grub2-theme)
+
 
 ## Display Managers
 
@@ -153,6 +161,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [lolcrab](https://github.com/mazznoer/lolcrab) - Like lolcat but with noise and more colorful.
 - [unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal.
+- [lovesay](https://github.com/dotzenith/lovesay.rs) - Cowsay, but full of love.
+- 
 
 
 ## Icons
@@ -229,6 +239,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Sweet](https://github.com/EliverLara/firefox-sweet-theme)
 - [Nord](https://github.com/EliverLara/firefox-nordic-theme)
 - [Cascade](https://github.com/andreasgrafen/cascade)
+- [Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
 
 
 ### Spotify
