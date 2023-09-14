@@ -116,6 +116,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Gruvbox](https://github.com/morhetz/gruvbox)
 - [Nord](https://github.com/nordtheme/nord)
 - [Sweet](https://github.com/EliverLara/Sweet)
+- [BlackLotus](https://github.com/PoisonIsBestType/BlackLotus)
 
 ### Utilities
 
