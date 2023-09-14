@@ -63,7 +63,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [grub2-themes](https://github.com/vinceliuice/grub2-themes) - by vinceliuice
 - [Matter](https://github.com/mateosss/matter)
-- [Tartarus](https://github.com/AllJavi/tartarus-grub) -gruvbox style
+- [Tartarus](https://github.com/AllJavi/tartarus-grub) - gruvbox style
 - [Dracula](https://github.com/dracula/grub)
 - [Tokyo Night](https://github.com/mino29/tokyo-night-grub)
 - [Poly dark](https://github.com/shvchk/poly-dark)
@@ -214,7 +214,6 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [lolcrab](https://github.com/mazznoer/lolcrab) - Like lolcat but with noise and more colorful.
 - [unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal.
 - [lovesay](https://github.com/dotzenith/lovesay.rs) - Cowsay, but full of love.
-- 
 
 
 ## Icons
@@ -225,6 +224,9 @@ This meticulously curated list is designed to assist users in personalizing thei
 ## App Launchers
 
 - [Rofi](https://github.com/davatorium/rofi)
+
+
+## Notifications
 
 
 ## UI Apps/Tools
@@ -288,10 +290,13 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ### Firefox
 
-- [Sweet](https://github.com/EliverLara/firefox-sweet-theme)
-- [Nord](https://github.com/EliverLara/firefox-nordic-theme)
-- [Cascade](https://github.com/andreasgrafen/cascade)
-- [Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
+- Themes
+  - [Sweet](https://github.com/EliverLara/firefox-sweet-theme)
+  - [Nord](https://github.com/EliverLara/firefox-nordic-theme)
+  - [Cascade](https://github.com/andreasgrafen/cascade)
+  - [Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
+- Startpage
+  - [dawn](https://github.com/b-coimbra/dawn)
 
 
 ### Spotify
