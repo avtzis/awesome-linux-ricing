@@ -216,6 +216,11 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [lovesay](https://github.com/dotzenith/lovesay.rs) - Cowsay, but full of love.
 
 
+## Cursors
+
+- [Bibata](https://github.com/ful1e5/Bibata_Cursor)
+
+
 ## Icons
 
 - [Candy](https://github.com/EliverLara/candy-icons)
