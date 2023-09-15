@@ -252,6 +252,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ### Document Readers
 
+- [zathura](https://git.pwmt.org/pwmt/zathura)
+
 ### Text Editors
 
 - [gedit](https://gitlab.gnome.org/GNOME/gedit)
