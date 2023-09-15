@@ -243,6 +243,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Nemo](https://github.com/linuxmint/nemo)
 - [Nautilus](https://gitlab.gnome.org/GNOME/nautilus)
 - [Dolphin](https://invent.kde.org/system/dolphin)
+- [thunar](https://gitlab.xfce.org/xfce/thunar)
 
 ### Image Viewers
 
