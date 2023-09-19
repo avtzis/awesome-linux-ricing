@@ -117,6 +117,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Nord](https://github.com/nordtheme/nord)
 - [Sweet](https://github.com/EliverLara/Sweet)
 - [BlackLotus](https://github.com/PoisonIsBestType/BlackLotus)
+- [Whale](https://github.com/anufrievroman/whale)
 
 ### Utilities
 
@@ -249,6 +250,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Nautilus](https://gitlab.gnome.org/GNOME/nautilus)
 - [Dolphin](https://invent.kde.org/system/dolphin)
 - [thunar](https://gitlab.xfce.org/xfce/thunar)
+- [PCmanFM](https://github.com/lxde/pcmanfm)
 
 ### Image Viewers
 
