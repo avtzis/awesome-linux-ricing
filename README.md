@@ -256,6 +256,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ### Music Players
 
+- [Amberol](https://gitlab.gnome.org/World/amberol)
+
 ### Video Streamers
 
 ### Document Readers
