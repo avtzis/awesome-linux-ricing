@@ -126,8 +126,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ## Wallpapers
 
-- [aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - by D3Ext
-- [walls](https://github.com/dharmx/walls) - by dharmx
+- [aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - Collection by D3Ext.
+- [walls](https://github.com/dharmx/walls) - Collection by dharmx.
 
 
 ### Utilities
@@ -184,7 +184,8 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [feh](https://github.com/derf/feh)
 - Music Streamers
   - [cmus](https://github.com/cmus/cmus)
-  - [spotify-tui](https://github.com/Rigellute/spotify-tui)
+  - [spotify-tui](https://github.com/Rigellute/spotify-tui) - spotify
+  - [spotify_player](https://github.com/aome510/spotify-player) - spotify
 - System Monitors
   - [btop](https://github.com/aristocratos/btop)
 - IRC Clients
@@ -200,7 +201,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - Misc
   - [evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
   - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
-  - [nvm](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions
+  - [nvm](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions.
 - more:
   - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps.
   - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
@@ -234,6 +235,10 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ## Notifications
 
+## Widgets
+
+- [conky](https://github.com/brndnmtthws/conky) - System monitoring.
+- [GLava](https://github.com/jarcode-foss/glava) - Audio spectrum visualizer.
 
 ## UI Apps/Tools
 
@@ -270,7 +275,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [gedit](https://gitlab.gnome.org/GNOME/gedit)
 - [geany](https://github.com/geany/geany)
 - [kate](https://github.com/KDE/kate)
-- [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- [vscodium](https://github.com/VSCodium/vscodium) - VSCode without spying.
 
 ### Archive Managers
 
