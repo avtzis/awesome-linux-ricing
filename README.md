@@ -195,6 +195,8 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [mutt](https://gitlab.com/muttmua/mutt)
 - Screenshot
   - [scrot](https://github.com/resurrecting-open-source-projects/scrot)
+- Recording
+  - [wf-recorder](https://github.com/ammen99/wf-recorder) 
 - Directory Listing
   - [lsd](https://github.com/Peltoche/lsd)
   - [exa](https://github.com/ogham/exa)
