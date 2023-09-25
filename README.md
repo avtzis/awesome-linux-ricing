@@ -238,6 +238,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ## Notifications
 
+- [Dunst](https://github.com/dunst-project/dunst)
+
 ## Widgets
 
 - [conky](https://github.com/brndnmtthws/conky) - System monitoring.
