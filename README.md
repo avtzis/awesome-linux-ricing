@@ -231,6 +231,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 ## App Launchers
 
 - [Rofi](https://github.com/davatorium/rofi)
+- [Ulauncher](https://github.com/Ulauncher/Ulauncher/)
 
 
 ## Notifications
@@ -239,6 +240,11 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [conky](https://github.com/brndnmtthws/conky) - System monitoring.
 - [GLava](https://github.com/jarcode-foss/glava) - Audio spectrum visualizer.
+
+
+## Logout Menu
+
+- [wlogout](https://github.com/ArtsyMacaw/wlogout)
 
 ## UI Apps/Tools
 
