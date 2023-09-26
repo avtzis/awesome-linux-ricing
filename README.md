@@ -148,6 +148,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Polybar](https://github.com/polybar/polybar)
 - [Waybar](https://github.com/Alexays/Waybar)
 - [Eww](https://github.com/elkowar/eww)
+- [lemonbar](https://github.com/LemonBoy/bar)
 
 
 ## Terminal
