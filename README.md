@@ -126,7 +126,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ### Utilities
 
-- [pywall](https://github.com/dylanaraps/pywal) - Generate and change color-schemes on the fly.
+- [pywall](https://github.com/dylanaraps/pywal) - Generate and change color-schemes according to your wallpaper.
 
 
 ## Wallpapers
@@ -217,15 +217,19 @@ This meticulously curated list is designed to assist users in personalizing thei
 - File Managers
   - [ranger](https://github.com/ranger/ranger)
 - Editors
-  - [neovim](https://github.com/neovim/neovim)
+  - [vim](https://github.com/vim/vim) - [neovim](https://github.com/neovim/neovim)
+  - [nano](https://github.com/madnight/nano)
 - Image Viewers
-  - [feh](https://github.com/derf/feh)
+  - [Catimg](https://github.com/posva/catimg)
 - Music Streamers
   - [cmus](https://github.com/cmus/cmus)
+  - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - [MPD](https://github.com/MusicPlayerDaemon/MPD)
   - [spotify-tui](https://github.com/Rigellute/spotify-tui) - spotify
   - [spotify_player](https://github.com/aome510/spotify-player) - spotify
-- System Monitors
+- System Monitoring
   - [btop](https://github.com/aristocratos/btop)
+  - [htop](https://github.com/htop-dev/htop)
+  - [Glances](https://github.com/nicolargo/glances)
 - IRC Clients
   - [WeeChat](https://github.com/weechat/weechat)
   - [irssi](https://github.com/irssi/irssi)
@@ -245,8 +249,8 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
   - [nvm](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions.
 - more:
-  - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - A curated list of command line apps.
-  - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
+  - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+  - [awesome-shell](https://github.com/alebcay/awesome-shell)
 
 ### Fetchers
 
@@ -279,11 +283,17 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ### Image Viewers
 
+- [imv](https://git.sr.ht/~exec64/imv)
+- [feh](https://github.com/derf/feh)
+- [Eye of GNOME](https://gitlab.gnome.org/GNOME/eog)
+
 ### Music Players
 
 - [Amberol](https://gitlab.gnome.org/World/amberol)
 
 ### Video Streamers
+
+- [VLC](https://github.com/videolan/vlc)
 
 ### Document Readers
 
@@ -299,18 +309,26 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ### Archive Managers
 
+- [File Roller](https://gitlab.gnome.org/GNOME/file-roller)
+
 ### Email
 
 - [Thunderbird](https://github.com/mozilla/releases-comm-central)
 
 ### Calculators
 
-### Workstations - Content Creation
+- [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator)
+
+### Workstation - Content Creation
 
 - Image Editors
   - [GIMP](https://gitlab.gnome.org/GNOME/gimp)
 - Video Editors
+  - [Kdenlive](https://invent.kde.org/multimedia/kdenlive)
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - NOT open-source
 - Music
+  - [Blue](https://github.com/kunstmusik/blue)
+  - [MuseScore](https://github.com/musescore/MuseScore)
 - 3D
   - [blender](https://github.com/blender/blender)
 - Office
@@ -320,8 +338,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ### Gaming
 
-- Steam - Proton
-- Lutris
+- [Steam](https://github.com/ValveSoftware/steam-for-linux) - [Proton](https://github.com/ValveSoftware/Proton) - [Wine](https://github.com/ValveSoftware/wine)
+- [Lutris](https://github.com/lutris/lutris)
 
 
 ## App Theming
@@ -342,6 +360,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Spicetify](https://github.com/spicetify/spicetify-cli) - [themes](https://github.com/spicetify/spicetify-themes)
 
 ### Discord
+
+- [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - [themes](https://betterdiscord.app/themes)
 
 ### VSCode
 
