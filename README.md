@@ -118,6 +118,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Sweet](https://github.com/EliverLara/Sweet)
 - [BlackLotus](https://github.com/PoisonIsBestType/BlackLotus)
 - [Whale](https://github.com/anufrievroman/whale)
+- [Everblush](https://github.com/Everblush/everblush)
 
 ### Utilities
 
@@ -151,12 +152,44 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [lemonbar](https://github.com/LemonBoy/bar)
 
 
+## Cursors
+
+- [Bibata](https://github.com/ful1e5/Bibata_Cursor)
+
+
+## Icons
+
+- [Candy](https://github.com/EliverLara/candy-icons)
+
+
+## App Launchers
+
+- [Rofi](https://github.com/davatorium/rofi)
+- [Ulauncher](https://github.com/Ulauncher/Ulauncher/)
+
+
+## Notifications
+
+- [Dunst](https://github.com/dunst-project/dunst)
+
+## Widgets
+
+- [conky](https://github.com/brndnmtthws/conky) - System monitoring.
+- [GLava](https://github.com/jarcode-foss/glava) - Audio spectrum visualizer.
+
+
+## Logout Menu
+
+- [wlogout](https://github.com/ArtsyMacaw/wlogout)
+
+
 ## Terminal
 
 ### Emulators
 
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [alacritty](https://github.com/alacritty/alacritty)
+- [st](https://github.com/siduck/st)
 
 
 ### Shell
@@ -201,6 +234,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 - Directory Listing
   - [lsd](https://github.com/Peltoche/lsd)
   - [exa](https://github.com/ogham/exa)
+  - [logo-ls](https://github.com/Yash-Handa/logo-ls)
+  - [Color LS](https://github.com/athityakumar/colorls)
 - Misc
   - [evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
   - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
@@ -220,36 +255,6 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal.
 - [lovesay](https://github.com/dotzenith/lovesay.rs) - Cowsay, but full of love.
 
-
-## Cursors
-
-- [Bibata](https://github.com/ful1e5/Bibata_Cursor)
-
-
-## Icons
-
-- [Candy](https://github.com/EliverLara/candy-icons)
-
-
-## App Launchers
-
-- [Rofi](https://github.com/davatorium/rofi)
-- [Ulauncher](https://github.com/Ulauncher/Ulauncher/)
-
-
-## Notifications
-
-- [Dunst](https://github.com/dunst-project/dunst)
-
-## Widgets
-
-- [conky](https://github.com/brndnmtthws/conky) - System monitoring.
-- [GLava](https://github.com/jarcode-foss/glava) - Audio spectrum visualizer.
-
-
-## Logout Menu
-
-- [wlogout](https://github.com/ArtsyMacaw/wlogout)
 
 ## UI Apps/Tools
 
