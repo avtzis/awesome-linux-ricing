@@ -123,6 +123,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [BlackLotus](https://github.com/PoisonIsBestType/BlackLotus)
 - [Whale](https://github.com/anufrievroman/whale)
 - [Everblush](https://github.com/Everblush/everblush)
+- [Shades of purple](https://github.com/EliverLara/Shades-of-purple-gtk)
 
 ### Utilities
 
