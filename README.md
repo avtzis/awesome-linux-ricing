@@ -196,6 +196,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [alacritty](https://github.com/alacritty/alacritty)
 - [st](https://github.com/siduck/st)
+- [foot](https://codeberg.org/dnkl/foot)
 
 
 ### Shell
