@@ -146,6 +146,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [FiraCode](https://github.com/tonsky/FiraCode) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode) - ligatures
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode) - ligatures
 - [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono) - ligatures
+- [Iosevka](https://github.com/be5invis/Iosevka) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka) - ligatures
 - [DejaVu](https://github.com/dejavu-fonts/dejavu-fonts) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/DejaVuSansMono)
 
 
