@@ -354,6 +354,7 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [Nord](https://github.com/EliverLara/firefox-nordic-theme)
   - [Cascade](https://github.com/andreasgrafen/cascade)
   - [Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
+  - [Onebar](https://codeberg.org/Freeplay/Firefox-Onebar)
 - Startpage
   - [dawn](https://github.com/b-coimbra/dawn)
 
