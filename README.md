@@ -189,6 +189,11 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [wlogout](https://github.com/ArtsyMacaw/wlogout)
 
 
+## Screen Lock
+
+- [swaylock](https://github.com/swaywm/swaylock) - for Wayland
+
+
 ## Terminal
 
 ### Emulators
