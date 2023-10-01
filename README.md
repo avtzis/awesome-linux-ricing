@@ -327,6 +327,12 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator)
 
+
+### Notes
+
+- [Obsidian](https://obsidian.md/) - NOT open-source
+
+
 ### Workstation - Content Creation
 
 - Image Editors
