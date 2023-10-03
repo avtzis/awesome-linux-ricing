@@ -299,6 +299,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [Amberol](https://gitlab.gnome.org/World/amberol)
 - [DeaDBeeF](https://github.com/DeaDBeeF-Player/deadbeef)
+- [Sunamu](https://github.com/NyaomiDEV/Sunamu)
 
 ### Video Streamers
 
