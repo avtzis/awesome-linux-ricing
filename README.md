@@ -134,6 +134,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - Collection by D3Ext.
 - [walls](https://github.com/dharmx/walls) - Collection by dharmx.
+- [nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - Nord themed collection by linuxdotexe.
 
 
 ### Utilities
@@ -270,6 +271,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [lolcrab](https://github.com/mazznoer/lolcrab) - Like lolcat but with noise and more colorful.
 - [unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal.
 - [lovesay](https://github.com/dotzenith/lovesay.rs) - Cowsay, but full of love.
+- [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - A collection of terminal color scripts.
+- [Peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock for the terminal.
 
 
 ## UI Apps/Tools
