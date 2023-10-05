@@ -167,6 +167,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 ## Icons
 
 - [Candy](https://github.com/EliverLara/candy-icons)
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 
 
 ## App Launchers
@@ -228,6 +229,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - Editors
   - [vim](https://github.com/vim/vim) - [neovim](https://github.com/neovim/neovim)
   - [nano](https://github.com/madnight/nano)
+  - [Helix](https://github.com/helix-editor/helix)
 - Image Viewers
   - [Catimg](https://github.com/posva/catimg)
 - Music Streamers
@@ -373,6 +375,7 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [Onebar](https://codeberg.org/Freeplay/Firefox-Onebar)
 - Startpage
   - [dawn](https://github.com/b-coimbra/dawn)
+  - [Excalith](https://github.com/excalith/excalith-start-page)
 
 
 ### Spotify
