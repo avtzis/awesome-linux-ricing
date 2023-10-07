@@ -135,6 +135,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - Collection by D3Ext.
 - [walls](https://github.com/dharmx/walls) - Collection by dharmx.
 - [nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - Nord themed collection by linuxdotexe.
+- [gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox themed collection by AngelJumbo.
 
 
 ### Utilities
@@ -149,6 +150,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono) - ligatures
 - [Iosevka](https://github.com/be5invis/Iosevka) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka) - ligatures
 - [DejaVu](https://github.com/dejavu-fonts/dejavu-fonts) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/DejaVuSansMono)
+- [Gohufont](https://github.com/hchargois/gohufont)
 
 
 ## Bar / Panel
@@ -157,6 +159,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Waybar](https://github.com/Alexays/Waybar)
 - [Eww](https://github.com/elkowar/eww)
 - [lemonbar](https://github.com/LemonBoy/bar)
+- [ags](https://github.com/Aylur/ags)
 
 
 ## Cursors
@@ -174,6 +177,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [Rofi](https://github.com/davatorium/rofi)
 - [Ulauncher](https://github.com/Ulauncher/Ulauncher/)
+- [Anyrun](https://github.com/Kirottu/anyrun)
 
 
 ## Notifications
