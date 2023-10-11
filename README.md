@@ -141,6 +141,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 ### Utilities
 
 - [swww](https://github.com/Horus645/swww) - Efficient animated wallpaper daemon for wayland, controlled at runtime.
+- [swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
 
 
 ## ([Nerd](https://github.com/ryanoasis/nerd-fonts)) Fonts
@@ -279,6 +280,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [lovesay](https://github.com/dotzenith/lovesay.rs) - Cowsay, but full of love.
 - [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - A collection of terminal color scripts.
 - [Peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock for the terminal.
+- [Musializer](https://github.com/tsoding/musializer) - Music Visualizer
 
 
 ## UI Apps/Tools
@@ -313,6 +315,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 ### Video Streamers
 
 - [VLC](https://github.com/videolan/vlc)
+- [mpv](https://github.com/mpv-player/mpv)
 
 ### Document Readers
 
@@ -389,6 +392,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 ### Discord
 
 - [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - [themes](https://betterdiscord.app/themes)
+- [Vencord](https://github.com/Vendicated/Vencord)
 
 ### VSCode
 
