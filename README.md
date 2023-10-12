@@ -1,4 +1,4 @@
-# Ricing Resources
+# Linux Ricing Resources
 
 This meticulously curated list is designed to assist users in personalizing their Linux desktop, a practice often referred to as 'ricing'. This resource compiles a carefully selected list of themes, tools, and customization options, offering users a comprehensive starting point for customizing their computers. Whether you seek common themes and tools or have specific preferences in mind, this repository provides a structured approach to explore and tailor your Linux desktop to your liking.
 
@@ -124,6 +124,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Whale](https://github.com/anufrievroman/whale)
 - [Everblush](https://github.com/Everblush/everblush)
 - [Shades of purple](https://github.com/EliverLara/Shades-of-purple-gtk)
+- [Everforest](https://github.com/sainnhe/everforest)
 
 ### Utilities
 
@@ -136,6 +137,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [walls](https://github.com/dharmx/walls) - Collection by dharmx.
 - [nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - Nord themed collection by linuxdotexe.
 - [gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox themed collection by AngelJumbo.
+- [everforest-walls](https://github.com/Apeiros-46B/everforest-walls) - Everforest themed collection by Apeiros-46B.
 
 
 ### Utilities
@@ -231,6 +233,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - File Managers
   - [ranger](https://github.com/ranger/ranger)
+    - [devicons](https://github.com/alexanderjeurissen/ranger_devicons)
 - Editors
   - [vim](https://github.com/vim/vim) - [neovim](https://github.com/neovim/neovim)
   - [nano](https://github.com/madnight/nano)
