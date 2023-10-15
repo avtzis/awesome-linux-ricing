@@ -179,6 +179,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 ## App Launchers
 
 - [Rofi](https://github.com/davatorium/rofi)
+  - [custom configs](https://github.com/adi1090x/rofi) - by adi1090x
 - [Ulauncher](https://github.com/Ulauncher/Ulauncher/)
 - [Anyrun](https://github.com/Kirottu/anyrun)
 
