@@ -133,11 +133,14 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ## Wallpapers
 
-- [aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - Collection by D3Ext.
-- [walls](https://github.com/dharmx/walls) - Collection by dharmx.
-- [nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - Nord themed collection by linuxdotexe.
-- [gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox themed collection by AngelJumbo.
-- [everforest-walls](https://github.com/Apeiros-46B/everforest-walls) - Everforest themed collection by Apeiros-46B.
+- [D3Ext](https://github.com/D3Ext/aesthetic-wallpapers)
+- [dharmx](https://github.com/dharmx/walls)
+- [gboncoffee](https://github.com/gboncoffee/wallpapers)
+- [FrenzyExists](https://github.com/FrenzyExists/wallpapers)
+- [jorgeloopzz](https://github.com/jorgeloopzz/Wallpapers)
+- [linuxdotexe](https://github.com/linuxdotexe/nordic-wallpapers) - Nord themed.
+- [AngelJumbo](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox themed.
+- [Apeiros-46B](https://github.com/Apeiros-46B/everforest-walls) - Everforest themed.
 
 
 ### Utilities
