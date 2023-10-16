@@ -177,6 +177,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [Candy](https://github.com/EliverLara/candy-icons)
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+- [Tela](https://github.com/vinceliuice/Tela-icon-theme)
 
 
 ## App Launchers
