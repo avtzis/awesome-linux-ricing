@@ -391,6 +391,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - Startpage
   - [dawn](https://github.com/b-coimbra/dawn)
   - [Excalith](https://github.com/excalith/excalith-start-page)
+  - [yags](https://github.com/PrettyCoffee/yet-another-generic-startpage)
 
 
 ### Spotify
