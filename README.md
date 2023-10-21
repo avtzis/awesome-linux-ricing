@@ -157,6 +157,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Iosevka](https://github.com/be5invis/Iosevka) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka) - ligatures
 - [DejaVu](https://github.com/dejavu-fonts/dejavu-fonts) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/DejaVuSansMono)
 - [Gohufont](https://github.com/hchargois/gohufont)
+- [Operator-caska Cursive](https://github.com/Anant-mishra1729/Operator-caska-Font#operator-caska-cursive-font)
 
 
 ## Bar / Panel
@@ -388,10 +389,12 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [Cascade](https://github.com/andreasgrafen/cascade)
   - [Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
   - [Onebar](https://codeberg.org/Freeplay/Firefox-Onebar)
+  - [penguinFox](https://github.com/p3nguin-kun/penguinFox)
 - Startpage
   - [dawn](https://github.com/b-coimbra/dawn)
   - [Excalith](https://github.com/excalith/excalith-start-page)
   - [yags](https://github.com/PrettyCoffee/yet-another-generic-startpage)
+  - [Bento-next](https://github.com/lewisdoesstuff/bento-next)
 
 
 ### Spotify
