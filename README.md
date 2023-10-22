@@ -83,6 +83,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 ### [lightdm](https://github.com/canonical/lightdm)
 
 - [Shikai](https://github.com/TheWisker/Shikai)
+- [Web Greeter](https://github.com/JezerM/web-greeter)
 
 ### [gdm](https://gitlab.gnome.org/GNOME/gdm)
 
