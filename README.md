@@ -74,6 +74,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Tokyo Night](https://github.com/mino29/tokyo-night-grub)
 - [Poly dark](https://github.com/shvchk/poly-dark)
 - [Dark Matter](https://github.com/VandalByte/darkmatter-grub2-theme)
+- [Minegrub](https://github.com/Lxtharia/minegrub-theme)
 
 
 ## Display Managers
