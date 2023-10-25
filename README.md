@@ -129,6 +129,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Everblush](https://github.com/Everblush/everblush)
 - [Shades of purple](https://github.com/EliverLara/Shades-of-purple-gtk)
 - [Everforest](https://github.com/sainnhe/everforest)
+- [opulo](https://github.com/kewmine/opulo)
 
 ### Utilities
 
