@@ -130,6 +130,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Shades of purple](https://github.com/EliverLara/Shades-of-purple-gtk)
 - [Everforest](https://github.com/sainnhe/everforest)
 - [opulo](https://github.com/kewmine/opulo)
+- [Kanagawa](https://github.com/Fausto-Korpsvart/Kanagawa-GKT-Theme)
 
 ### Utilities
 
@@ -197,6 +198,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 ## Notifications
 
 - [Dunst](https://github.com/dunst-project/dunst)
+- [SwayNC](https://github.com/ErikReider/SwayNotificationCenter)
 
 ## Widgets
 
