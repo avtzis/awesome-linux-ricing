@@ -425,6 +425,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 The majority of these items are linked to their corresponding repositories. Please endeavor to find installation instructions within these repositories. Additionally, it's *strongly* advisable to explore your distribution's package manager to see if a pre-packaged solution is available. **PROTIP**: It's best to refrain from using the "download" button on Linux.
 
 ## Contribution
+Any helpful contribution is welcome, especially for original content!
 
 <!-- ### Thanks -->
 
