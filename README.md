@@ -173,6 +173,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Eww](https://github.com/elkowar/eww)
 - [lemonbar](https://github.com/LemonBoy/bar)
 - [ags](https://github.com/Aylur/ags)
+- [gBar](https://github.com/scorpion-26/gBar)
 
 
 ## Cursors
