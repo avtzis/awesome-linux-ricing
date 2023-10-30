@@ -144,6 +144,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [gboncoffee](https://github.com/gboncoffee/wallpapers)
 - [FrenzyExists](https://github.com/FrenzyExists/wallpapers)
 - [jorgeloopzz](https://github.com/jorgeloopzz/Wallpapers)
+- [Axenide](https://github.com/Axenide/Wallpapers)
+- [Gingeh](https://github.com/Gingeh/wallpapers) - Catpuccin themed.
 - [linuxdotexe](https://github.com/linuxdotexe/nordic-wallpapers) - Nord themed.
 - [AngelJumbo](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox themed.
 - [Apeiros-46B](https://github.com/Apeiros-46B/everforest-walls) - Everforest themed.
