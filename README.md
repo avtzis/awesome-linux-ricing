@@ -1,4 +1,4 @@
-# Linux Ricing Resources
+# Linux Ricing Resources
 
 This meticulously curated list is designed to assist users in personalizing their Linux desktop, a practice often referred to as 'ricing'. This resource compiles a carefully selected list of themes, tools, and customization options, offering users a comprehensive starting point for customizing their computers. Whether you seek common themes and tools or have specific preferences in mind, this repository provides a structured approach to explore and tailor your Linux desktop to your liking.
 
@@ -82,6 +82,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 ### [sddm](https://github.com/sddm/sddm)
 
 - [Tokyo Night](https://github.com/rototrash/tokyo-night-sddm)
+- [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy)
+- [LentenRose](https://github.com/theoisdumb/lentenrose)
 
 ### [lightdm](https://github.com/canonical/lightdm)
 
@@ -155,6 +157,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [swww](https://github.com/Horus645/swww) - Efficient animated wallpaper daemon for wayland, controlled at runtime.
 - [swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
+- [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors. 
 
 
 ## ([Nerd](https://github.com/ryanoasis/nerd-fonts)) Fonts
