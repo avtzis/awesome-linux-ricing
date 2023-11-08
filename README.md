@@ -405,6 +405,7 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
   - [Onebar](https://codeberg.org/Freeplay/Firefox-Onebar)
   - [penguinFox](https://github.com/p3nguin-kun/penguinFox)
+  - [FlyingFox](https://github.com/akshat46/FlyingFox)
 - Startpage
   - [dawn](https://github.com/b-coimbra/dawn)
   - [Excalith](https://github.com/excalith/excalith-start-page)
