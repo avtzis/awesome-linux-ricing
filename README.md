@@ -210,6 +210,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [conky](https://github.com/brndnmtthws/conky) - System monitoring.
 - [GLava](https://github.com/jarcode-foss/glava) - Audio spectrum visualizer.
+- [Kando](https://github.com/kando-menu/kando) - The Cross-Platform Pie Menu.
 
 
 ## Logout Menu
