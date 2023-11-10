@@ -269,6 +269,7 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [btop](https://github.com/aristocratos/btop)
   - [htop](https://github.com/htop-dev/htop)
   - [Glances](https://github.com/nicolargo/glances)
+  - [s-tui](https://github.com/amanusk/s-tui)
 - IRC Clients
   - [WeeChat](https://github.com/weechat/weechat)
   - [irssi](https://github.com/irssi/irssi)
