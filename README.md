@@ -2,14 +2,23 @@
 <div align='center'>
   <img src='media/awesome_tux.png'>
   <h1>Awesome Linux Ricing</h1>
+  <h4>Carefully curated list of awesome Linux customization resources</h4>
 </div>
 <br/>
+<p align="center">
+	<a href="installation.md">Installation</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution</a>&nbsp;&nbsp;&nbsp;
+	<a href="LICENCE">License</a>&nbsp;&nbsp;&nbsp;
+	<a href="code-of-conduct.md">Code of Conduct</a>
+</p>
+<br/>
+
+## Description
 
 This meticulously curated list is designed to assist users in personalizing their Linux desktop, a practice often referred to as 'ricing'. This resource compiles a carefully selected list of themes, tools, and customization options, offering users a comprehensive starting point for customizing their computers. Whether you seek common themes and tools or have specific preferences in mind, this repository provides a structured approach to explore and tailor your Linux desktop to your liking.
 
-*On how to install, see: [Installation](#installation)*
 
-## Table of Contents
+## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
