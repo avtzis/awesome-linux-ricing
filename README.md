@@ -10,7 +10,7 @@
 	<a href="installation.md">Installation</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution</a>&nbsp;&nbsp;&nbsp;
 	<a href="LICENCE">License</a>&nbsp;&nbsp;&nbsp;
-	<a href="code-of-conduct.md">Code of Conduct</a>
+	<a href="code_of_conduct.md">Code of Conduct</a>
 </p>
 <br/>
 
