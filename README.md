@@ -3,7 +3,7 @@
   <img src='media/awesome_tux.png'>
   <h1>Awesome Linux Ricing</h1>
   <h4>Carefully curated list of awesome Linux customization resources</h4>
-  <img src="https://awesome.re/badge.svg" alt="Awesome Badage">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome Badage"></a>
 </div>
 <br/>
 <p align="center">
