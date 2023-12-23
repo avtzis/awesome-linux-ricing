@@ -220,6 +220,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [Dunst](https://github.com/dunst-project/dunst)
 - [SwayNC](https://github.com/ErikReider/SwayNotificationCenter)
+- [mako](https://github.com/emersion/mako)
 
 ## Widgets
 
