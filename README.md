@@ -184,6 +184,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [DejaVu](https://github.com/dejavu-fonts/dejavu-fonts) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/DejaVuSansMono)
 - [Gohufont](https://github.com/hchargois/gohufont)
 - [Operator-caska Cursive](https://github.com/Anant-mishra1729/Operator-caska-Font#operator-caska-cursive-font)
+- [Victor Mono](https://github.com/rubjo/victor-mono) - ligatures
 
 
 ## Bar / Panel
