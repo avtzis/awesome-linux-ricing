@@ -324,6 +324,27 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock for the terminal.
 - [Musializer](https://github.com/tsoding/musializer) - Music Visualizer
 - [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+- [FIGlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree
+- [cowsay](https://github.com/piuccio/cowsay) - A configurable talking cow
+- [fortune](http://bxr.su/OpenBSD/games/fortune/) - Random poignant, inspirational, silly or snide phrases.
+- [CMatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation.
+- [ascii-rain](https://github.com/nkleemann/ascii-rain) - Ncurses rain effect
+- [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
+- [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
+- [boxes](https://github.com/ascii-boxes/boxes/) - Command line ASCII boxes unlimited!
+- [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Grow bonsai trees in your terminal.
+- [neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix".
+- [Nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences.
+- [toilet](https://github.com/cacalabs/toilet) - The Other Implementation of figLET.
+- [tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses.
+- [SL](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping.
+- [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
+- [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - CLI utility to print out images of pokemon to terminal.
+- [pokeget-rs](https://github.com/talwat/pokeget-rs) - A bash script you can use to display cool sprites of pokemon in your terminal.
+- [pokeshell](https://github.com/acxz/pokeshell) - A featureful shell program to show pokemon sprites in the terminal.
+- [krabby](https://github.com/yannjor/krabby) - Print pokemon sprites in your terminal.
+- [ReVidia](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) - A highly customizable real time audio visualizer.
+- [ReCidia](https://github.com/GhostNaN/recidia-audio-visualizer) - A highly customizable real time audio visualizer on Linux.
 
 
 ## UI Apps/Tools
