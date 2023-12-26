@@ -1,4 +1,4 @@
-<br/> 
+<br/>
 <div align='center'>
   <img src='media/awesome_tux.png'>
   <h1>Awesome Linux Ricing</h1>
@@ -172,7 +172,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [swww](https://github.com/Horus645/swww) - Efficient animated wallpaper daemon for wayland, controlled at runtime.
 - [swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
-- [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors. 
+- [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors.
 
 
 ## ([Nerd](https://github.com/ryanoasis/nerd-fonts)) Fonts
@@ -295,7 +295,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - Screenshot
   - [scrot](https://github.com/resurrecting-open-source-projects/scrot)
 - Recording
-  - [wf-recorder](https://github.com/ammen99/wf-recorder) 
+  - [wf-recorder](https://github.com/ammen99/wf-recorder)
 - Directory Listing
   - [lsd](https://github.com/Peltoche/lsd)
   - [exa](https://github.com/ogham/exa)
@@ -323,6 +323,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - A collection of terminal color scripts.
 - [Peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock for the terminal.
 - [Musializer](https://github.com/tsoding/musializer) - Music Visualizer
+- [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 
 
 ## UI Apps/Tools
