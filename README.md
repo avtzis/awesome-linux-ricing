@@ -82,15 +82,23 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ## GRUB
 
-- [grub2-themes](https://github.com/vinceliuice/grub2-themes) - by vinceliuice
-- [Matter](https://github.com/mateosss/matter)
-- [Tartarus](https://github.com/AllJavi/tartarus-grub) - gruvbox style
-- [Dracula](https://github.com/dracula/grub)
-- [Tokyo Night](https://github.com/mino29/tokyo-night-grub)
-- [Poly dark](https://github.com/shvchk/poly-dark)
-- [Dark Matter](https://github.com/VandalByte/darkmatter-grub2-theme)
-- [Minegrub](https://github.com/Lxtharia/minegrub-theme)
+<details>
+  <summary><b>What is GRUB and why customize it</b></summary>
+    GRUB (GRand Unified Bootloader) is a versatile bootloader commonly used in Linux distributions. It's the software that you first see when your computer starts, allowing you to select which operating system or kernel to boot into. Customizing GRUB not only enhances the aesthetic appeal of the boot process but can also improve usability, especially in systems with multiple operating systems.
+</details>
+<br/>
 
+- [grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern design GRUB theme collection.
+- [Matter](https://github.com/mateosss/matter) - Customizable GRUB theme inspired by Material Design.
+- [Dark Matter](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme.
+- [Tartarus](https://github.com/AllJavi/tartarus-grub) - Basic grub theme with material gruvbox style.
+- [Dracula](https://github.com/dracula/grub) - Dracula GRUB theme.
+- [Tokyo Night](https://github.com/mino29/tokyo-night-grub) - A GRUB theme using Tokyo Night color scheme based on Dracula GRUB.
+- [Poly dark](https://github.com/shvchk/poly-dark) -  Poly dark GRUB theme.
+- [Minegrub](https://github.com/Lxtharia/minegrub-theme) -  A GRUB theme in Minecraft style.
+
+> [!NOTE]
+> To install the themes, follow the instructions provided in each theme's  repo.
 
 ## Display Managers
 
