@@ -52,7 +52,7 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [Prompt](#prompt)
   - [Multiplexer](#multiplexer)
   - [Apps and Tools](#apps-and-tools)
-  - [Fetchers](#fetchers)
+  - [Fetches](#fetches)
   - [Fancies](#fancies)
 - [UI Apps/Tools](#ui-appstools)
   - [Web Browsers](#web-browsers)
@@ -310,41 +310,58 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
   - [awesome-shell](https://github.com/alebcay/awesome-shell)
 
-### Fetchers
+### Fetches
 
 - [neofetch](https://github.com/dylanaraps/neofetch) - [themes](https://github.com/Chick2D/neofetch-themes)
 - [pfetch](https://github.com/dylanaraps/pfetch)
+- [ufetch](https://gitlab.com/jschx/ufetch)
+- [Bunnyfetch](https://github.com/Rosettea/bunnyfetch)
 
 ### Fancies
 
-- [lolcrab](https://github.com/mazznoer/lolcrab) - Like lolcat but with noise and more colorful.
-- [unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal.
-- [lovesay](https://github.com/dotzenith/lovesay.rs) - Cowsay, but full of love.
-- [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - A collection of terminal color scripts.
-- [Peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock for the terminal.
-- [Musializer](https://github.com/tsoding/musializer) - Music Visualizer
-- [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
-- [FIGlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree
-- [cowsay](https://github.com/piuccio/cowsay) - A configurable talking cow
-- [fortune](http://bxr.su/OpenBSD/games/fortune/) - Random poignant, inspirational, silly or snide phrases.
-- [CMatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation.
-- [ascii-rain](https://github.com/nkleemann/ascii-rain) - Ncurses rain effect
-- [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
+#### Terminal Visuals
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
-- [boxes](https://github.com/ascii-boxes/boxes/) - Command line ASCII boxes unlimited!
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Grow bonsai trees in your terminal.
-- [neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix".
+- [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - A collection of terminal color scripts.
+- [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
+- [ascii-rain](https://github.com/nkleemann/ascii-rain) - Ncurses rain effect.
 - [Nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences.
-- [toilet](https://github.com/cacalabs/toilet) - The Other Implementation of figLET.
-- [tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses.
 - [SL](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping.
+
+#### Clocks
+- [tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses.
+- [Peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock for the terminal.
+
+#### Audio Visualizers
+- [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer.
+- [Musializer](https://github.com/tsoding/musializer) - Music Visualizer.
+- [ReVidia](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) - A highly customizable real time audio visualizer.
+- [ReCidia](https://github.com/GhostNaN/recidia-audio-visualizer) - A highly customizable real time audio visualizer on Linux.
+
+#### Matrix
+- [CMatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation.
+- [neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix".
+- [unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal.
+
+#### Character Play
+- [cowsay](https://github.com/piuccio/cowsay) - A configurable talking cow.
+- [lovesay](https://github.com/dotzenith/lovesay.rs) - Cowsay, but full of love.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
+- [boxes](https://github.com/ascii-boxes/boxes/) - Command line ASCII boxes unlimited!
+- [fortune](http://bxr.su/OpenBSD/games/fortune/) - Random poignant, inspirational, silly or snide phrases.
+
+#### Pokemon-Themed
 - [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - CLI utility to print out images of pokemon to terminal.
 - [pokeget-rs](https://github.com/talwat/pokeget-rs) - A bash script you can use to display cool sprites of pokemon in your terminal.
 - [pokeshell](https://github.com/acxz/pokeshell) - A featureful shell program to show pokemon sprites in the terminal.
 - [krabby](https://github.com/yannjor/krabby) - Print pokemon sprites in your terminal.
-- [ReVidia](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) - A highly customizable real time audio visualizer.
-- [ReCidia](https://github.com/GhostNaN/recidia-audio-visualizer) - A highly customizable real time audio visualizer on Linux.
+
+#### Text and Fonts
+- [FIGlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree.
+- [toilet](https://github.com/cacalabs/toilet) - The Other Implementation of figLET.
+- [lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+- [lolcrab](https://github.com/mazznoer/lolcrab) - Like lolcat but with noise and more colorful.
+
 
 
 ## UI Apps/Tools
