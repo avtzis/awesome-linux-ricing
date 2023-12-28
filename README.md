@@ -104,6 +104,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ### [sddm](https://github.com/sddm/sddm)
 
+- [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark)
 - [Tokyo Night](https://github.com/rototrash/tokyo-night-sddm)
 - [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy)
 - [LentenRose](https://github.com/theoisdumb/lentenrose)
