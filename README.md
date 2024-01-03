@@ -459,6 +459,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [Steam](https://github.com/ValveSoftware/steam-for-linux) - [Proton](https://github.com/ValveSoftware/Proton) - [Wine](https://github.com/ValveSoftware/wine)
 - [Lutris](https://github.com/lutris/lutris)
+- [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 
 
 ## App Theming
