@@ -365,6 +365,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [pokeget-rs](https://github.com/talwat/pokeget-rs) - A bash script you can use to display cool sprites of pokemon in your terminal.
 - [pokeshell](https://github.com/acxz/pokeshell) - A featureful shell program to show pokemon sprites in the terminal.
 - [krabby](https://github.com/yannjor/krabby) - Print pokemon sprites in your terminal.
+- [Poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
 
 #### Text and Fonts
 - [FIGlet](https://github.com/cmatsuoka/figlet) - Claudio's FIGlet tree.
