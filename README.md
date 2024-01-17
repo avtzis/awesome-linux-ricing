@@ -383,6 +383,8 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [chromium](https://github.com/chromium/chromium)
 - [Brave](https://github.com/brave/brave-browser)
 - [Tor](https://www.torproject.org/)
+- [thorium](https://github.com/Alex313031/Thorium)
+- [Floorp](https://github.com/Floorp-Projects/Floorp/)
 
 ### File Managers
 
