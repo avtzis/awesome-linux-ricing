@@ -217,6 +217,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 - [Tela](https://github.com/vinceliuice/Tela-icon-theme)
 - [BeautyLine](https://github.com/gvolpe/BeautyLine)
+- [Flat Remix](https://github.com/daniruiz/Flat-Remix)
 
 
 ## App Launchers
