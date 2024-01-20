@@ -209,6 +209,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 ## Cursors
 
 - [Bibata](https://github.com/ful1e5/Bibata_Cursor)
+- [BreezeX](https://github.com/ful1e5/BreezeX_Cursor)
 
 
 ## Icons
