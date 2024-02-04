@@ -210,6 +210,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [Bibata](https://github.com/ful1e5/Bibata_Cursor)
 - [BreezeX](https://github.com/ful1e5/BreezeX_Cursor)
+- [Qogir](https://github.com/vinceliuice/Qogir-icon-theme)
 
 
 ## Icons
@@ -219,6 +220,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Tela](https://github.com/vinceliuice/Tela-icon-theme)
 - [BeautyLine](https://github.com/gvolpe/BeautyLine)
 - [Flat Remix](https://github.com/daniruiz/Flat-Remix)
+- [Qogir](https://github.com/vinceliuice/Qogir-icon-theme)
 
 
 ## App Launchers
