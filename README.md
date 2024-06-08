@@ -274,6 +274,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 - [Starship](https://github.com/starship/starship)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - only for zsh
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 
 
 ### Multiplexer
