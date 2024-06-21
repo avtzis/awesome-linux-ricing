@@ -292,6 +292,7 @@ Collections by:
 - File Managers
   - [ranger](https://github.com/ranger/ranger)
     - [devicons](https://github.com/alexanderjeurissen/ranger_devicons)
+  - [yazi](https://github.com/sxyazi/yazi)
 - Editors
   - [vim](https://github.com/vim/vim) - [neovim](https://github.com/neovim/neovim)
   - [nano](https://github.com/madnight/nano)
