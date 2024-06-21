@@ -494,6 +494,7 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [Excalith](https://github.com/excalith/excalith-start-page)
   - [yags](https://github.com/PrettyCoffee/yet-another-generic-startpage)
   - [Bento-next](https://github.com/lewisdoesstuff/bento-next)
+  - [Starter Tab](https://github.com/allister-grange/startertab)
 
 
 ### Spotify
