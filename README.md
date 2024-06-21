@@ -108,6 +108,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Tokyo Night](https://github.com/rototrash/tokyo-night-sddm)
 - [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy)
 - [LentenRose](https://github.com/theoisdumb/lentenrose)
+- [corners](https://github.com/aczw/sddm-theme-corners)
 
 ### [lightdm](https://github.com/canonical/lightdm)
 
