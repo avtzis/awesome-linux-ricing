@@ -171,7 +171,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [FrenzyExists](https://github.com/FrenzyExists/wallpapers)
 - [jorgeloopzz](https://github.com/jorgeloopzz/Wallpapers)
 - [Axenide](https://github.com/Axenide/Wallpapers)
-- [Gingeh](https://github.com/Gingeh/wallpapers) - Catpuccin themed.
+- [Gingeh](https://github.com/Gingeh/wallpapers) - Catppuccin themed.
 - [linuxdotexe](https://github.com/linuxdotexe/nordic-wallpapers) - Nord themed.
 - [AngelJumbo](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox themed.
 - [Apeiros-46B](https://github.com/Apeiros-46B/everforest-walls) - Everforest themed.
@@ -211,6 +211,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Bibata](https://github.com/ful1e5/Bibata_Cursor)
 - [BreezeX](https://github.com/ful1e5/BreezeX_Cursor)
 - [Qogir](https://github.com/vinceliuice/Qogir-icon-theme)
+- [Apple](https://github.com/ful1e5/apple_cursor)
 
 
 ## Icons
