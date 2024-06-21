@@ -84,7 +84,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 <details>
   <summary><b>What is GRUB and why customize it</b></summary>
-    GRUB (GRand Unified Bootloader) is a versatile bootloader commonly used in Linux distributions. It's the software that you first see when your computer starts, allowing you to select which operating system or kernel to boot into. Customizing GRUB not only enhances the aesthetic appeal of the boot process but can also improve usability, especially in systems with multiple operating systems.
+    GRUB (GRand Unified Bootloader) is a versatile bootloader commonly used in Linux distributions. It's the software that you first see when your computer starts, allowing you to select which operating system or kernel to boot into. GRUB is very customizable and there is already a collection of creative themes made by users. 
 </details>
 <br/>
 
@@ -98,7 +98,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Minegrub](https://github.com/Lxtharia/minegrub-theme) -  A GRUB theme in Minecraft style.
 
 > [!NOTE]
-> To install the themes, follow the instructions provided in each theme's  repo.
+> To install a theme, follow the instructions provided in the respective theme's  repo.
 
 ## Display Managers
 
