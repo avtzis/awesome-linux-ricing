@@ -165,12 +165,14 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ## Wallpapers
 
+Collections by:
 - [D3Ext](https://github.com/D3Ext/aesthetic-wallpapers)
 - [dharmx](https://github.com/dharmx/walls)
 - [gboncoffee](https://github.com/gboncoffee/wallpapers)
 - [FrenzyExists](https://github.com/FrenzyExists/wallpapers)
 - [jorgeloopzz](https://github.com/jorgeloopzz/Wallpapers)
 - [Axenide](https://github.com/Axenide/Wallpapers)
+- [zDyanTB](https://github.com/zDyanTB/aesthetic-wallpapers)
 - [Gingeh](https://github.com/Gingeh/wallpapers) - Catppuccin themed.
 - [linuxdotexe](https://github.com/linuxdotexe/nordic-wallpapers) - Nord themed.
 - [AngelJumbo](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox themed.
