@@ -497,6 +497,7 @@ Collections by:
   - [yags](https://github.com/PrettyCoffee/yet-another-generic-startpage)
   - [Bento-next](https://github.com/lewisdoesstuff/bento-next)
   - [Starter Tab](https://github.com/allister-grange/startertab)
+  - [nightTab](https://github.com/zombieFox/nightTab)
 
 
 ### Spotify
