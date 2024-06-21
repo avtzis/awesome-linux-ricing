@@ -343,6 +343,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [ascii-rain](https://github.com/nkleemann/ascii-rain) - Ncurses rain effect.
 - [Nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences.
 - [SL](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping.
+- [arttime](https://github.com/poetaman/arttime) - text art with functionality of clock / timer / pattern-based time manager
 
 #### Clocks
 - [tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses.
