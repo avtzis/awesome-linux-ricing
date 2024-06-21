@@ -247,6 +247,7 @@ Collections by:
 - [conky](https://github.com/brndnmtthws/conky) - System monitoring.
 - [GLava](https://github.com/jarcode-foss/glava) - Audio spectrum visualizer.
 - [Kando](https://github.com/kando-menu/kando) - The Cross-Platform Pie Menu.
+- [wallpaper-cava](https://github.com/rs-pro0/wallpaper-cava) - Display cava on top of your wallpaper.
 
 
 ## Logout Menu
