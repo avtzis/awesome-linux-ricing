@@ -485,6 +485,7 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [penguinFox](https://github.com/p3nguin-kun/penguinFox)
   - [FlyingFox](https://github.com/akshat46/FlyingFox)
   - [SimpleFox](https://github.com/migueravila/SimpleFox)
+  - [ShyFox](https://github.com/Naezr/ShyFox)
 - Startpage
   - [dawn](https://github.com/b-coimbra/dawn)
   - [Excalith](https://github.com/excalith/excalith-start-page)
