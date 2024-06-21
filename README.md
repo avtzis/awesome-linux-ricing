@@ -327,6 +327,7 @@ Collections by:
   - [nvm](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions.
   - [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
   - [ncdu](https://code.blicky.net/yorhel/ncdu) - A disk usage analyzer with an ncurses interface.
+  - [arch-update](https://github.com/Antiz96/arch-update) - An update applier for Arch Linux that assists you with important pre/post update tasks. 
 - more:
   - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
   - [awesome-shell](https://github.com/alebcay/awesome-shell)
