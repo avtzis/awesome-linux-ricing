@@ -342,7 +342,8 @@ Some great collections by:
   - [Helix](https://github.com/helix-editor/helix)
   - [micro](https://github.com/zyedidia/micro)
 - Image Viewers
-  - [Catimg](https://github.com/posva/catimg)
+  - [catimg](https://github.com/posva/catimg)
+  - [timg](https://github.com/hzeller/timg)
 - Music Streamers
   - [cmus](https://github.com/cmus/cmus)
   - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - [MPD](https://github.com/MusicPlayerDaemon/MPD)
