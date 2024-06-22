@@ -302,7 +302,7 @@ Some great collections by:
 
 ### Shell
 
-- [zsh](https://sourceforge.net/p/zsh/code/ci/master/tree/)
+- [zsh](https://zsh.sourceforge.io/)
   - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
   - [prezto](https://github.com/sorin-ionescu/prezto)
   - [Antigen](https://github.com/zsh-users/antigen)
@@ -336,9 +336,11 @@ Some great collections by:
   - [yazi](https://github.com/sxyazi/yazi)
   - [superfile](https://github.com/yorukot/superfile)
 - Editors
-  - [vim](https://github.com/vim/vim) - [neovim](https://github.com/neovim/neovim)
+  - [vim](https://github.com/vim/vim)
+  - [neovim](https://github.com/neovim/neovim)
   - [nano](https://github.com/madnight/nano)
   - [Helix](https://github.com/helix-editor/helix)
+  - [micro](https://github.com/zyedidia/micro)
 - Image Viewers
   - [Catimg](https://github.com/posva/catimg)
 - Music Streamers
