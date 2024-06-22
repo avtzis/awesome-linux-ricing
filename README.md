@@ -324,6 +324,8 @@ Some great collections by:
 
 ### Multiplexer
   - [tmux](https://github.com/tmux/tmux)
+  - [byobu](https://www.byobu.org/home)
+  - [screen](https://www.gnu.org/software/screen/)
 
 
 ### Apps and Tools
