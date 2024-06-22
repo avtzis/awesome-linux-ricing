@@ -282,6 +282,7 @@ Collections by:
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - zsh
 - [Pure](https://github.com/sindresorhus/pure) - zsh
+- [roundy](https://github.com/nullxception/roundy) - zsh
 
 
 ### Multiplexer
