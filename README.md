@@ -382,8 +382,10 @@ Some great collections by:
 
 ### Fetches
 
-- [neofetch](https://github.com/dylanaraps/neofetch) - [themes](https://github.com/Chick2D/neofetch-themes)
+- [neofetch](https://github.com/dylanaraps/neofetch)
+  - [themes](https://github.com/Chick2D/neofetch-themes)
 - [pfetch](https://github.com/dylanaraps/pfetch)
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [ufetch](https://gitlab.com/jschx/ufetch)
 - [Bunnyfetch](https://github.com/Rosettea/bunnyfetch)
 
