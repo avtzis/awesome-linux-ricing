@@ -84,7 +84,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 <details>
   <summary><b>What is GRUB</b></summary>
-    GRUB (GRand Unified Bootloader) is a versatile bootloader commonly used in Linux distributions. It's the software that you first see when your computer starts, allowing you to select which operating system or kernel to boot into. GRUB is very customizable and there is already a collection of creative themes made by users.
+    <b>GRUB</b> (GRand Unified Bootloader) is a versatile bootloader commonly used in Linux distributions. It's the software that you first see when your computer starts, allowing you to select which operating system or kernel to boot into. <b>GRUB</b> is very customizable and there is plenty of creative themes made by users.
 </details>
 <br/>
 
@@ -387,7 +387,8 @@ Some great collections by:
 - [pfetch](https://github.com/dylanaraps/pfetch)
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [ufetch](https://gitlab.com/jschx/ufetch)
-- [Bunnyfetch](https://github.com/Rosettea/bunnyfetch)
+- [bunnyfetch](https://github.com/Rosettea/bunnyfetch)
+- [uwufetch](https://github.com/ad-oliviero/uwufetch)
 
 ### Fancies
 
