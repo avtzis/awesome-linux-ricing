@@ -166,7 +166,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ## Wallpapers
 
-Collections by:
+Some great collections by:
 - [D3Ext](https://github.com/D3Ext/aesthetic-wallpapers)
 - [dharmx](https://github.com/dharmx/walls)
 - [gboncoffee](https://github.com/gboncoffee/wallpapers)
@@ -183,8 +183,9 @@ Collections by:
 ### Utilities
 
 - [swww](https://github.com/Horus645/swww) - Efficient animated wallpaper daemon for wayland, controlled at runtime.
-- [swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
 - [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors.
+- [swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
+- [hyprpaper](https://github.com/hyprwm/hyprpaper) - A fast Wayland wallpaper utility with IPC controls.
 
 
 ## Fonts
@@ -285,6 +286,7 @@ Collections by:
 ## Screen Lock
 
 - [swaylock](https://github.com/swaywm/swaylock) - for Wayland
+- [hyprlock](https://github.com/hyprwm/hyprlock)
 
 
 ## Terminal
