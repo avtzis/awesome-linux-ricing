@@ -344,6 +344,7 @@ Some great collections by:
 - Image Viewers
   - [catimg](https://github.com/posva/catimg)
   - [timg](https://github.com/hzeller/timg)
+  - [imcat](https://github.com/stolk/imcat)
 - Music Streamers
   - [cmus](https://github.com/cmus/cmus)
   - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - [MPD](https://github.com/MusicPlayerDaemon/MPD)
