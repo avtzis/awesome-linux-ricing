@@ -187,17 +187,44 @@ Collections by:
 - [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors.
 
 
-## ([Nerd](https://github.com/ryanoasis/nerd-fonts)) Fonts
+## Fonts
+<details>
+  <summary><b>What is the difference between Sans, Serif and Mono</b></summary>
+  <ul>
+    <li><b>Serif</b> fonts have decorative lines or strokes at the ends of the letters. They are often used for body text in printed materials.</li>
+    <li><b>Sans-serif</b> fonts are modern and clean, without the decorative flourishes of serif fonts. They are often used for headings and titles.</li>
+    <li><b>Monospace</b> fonts have equal spacing between characters, making them ideal for coding, editors and terminals.</li>
+  </ul>
+    <p><b>Sans</b> and <b>Mono</b> are the ones usually used for ricing, as they are more readable and modern.</p>
+</details>
+<br/>
 
-- [FiraCode](https://github.com/tonsky/FiraCode) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode) - ligatures
-- [Cascadia Code](https://github.com/microsoft/cascadia-code) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode) - ligatures
-- [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono) - ligatures
-- [Iosevka](https://github.com/be5invis/Iosevka) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka) - ligatures
-- [DejaVu](https://github.com/dejavu-fonts/dejavu-fonts) - [Nerd](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/DejaVuSansMono)
+### Sans Fonts
+- [Google Sans](https://font.download/font/google-sans)
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+- [Roboto](https://fonts.google.com/specimen/Roboto)
+- [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
+
+### Monospace Fonts
+- [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) - ligatures
+- [FiraCode](https://github.com/tonsky/FiraCode) - ligatures
+- [Cascadia Code](https://github.com/microsoft/cascadia-code) - ligatures
+- [Iosevka](https://github.com/be5invis/Iosevka) - ligatures
+- [Victor Mono](https://github.com/rubjo/victor-mono) - ligatures
+- [DejaVu](https://github.com/dejavu-fonts/dejavu-fonts)
 - [Gohufont](https://github.com/hchargois/gohufont)
 - [Operator-caska Cursive](https://github.com/Anant-mishra1729/Operator-caska-Font#operator-caska-cursive-font)
-- [Victor Mono](https://github.com/rubjo/victor-mono) - ligatures
 
+### Nerd Fonts
+<details>
+  <summary><b>What are the Nerd Fonts</b></summary>
+    <b>Nerd Fonts</b> are patched fonts that contain additional glyphs, icons, and ligatures. These fonts are designed to be used in terminals and code editors, providing a more visually appealing and functional experience. <b>Nerd Fonts</b> are compatible with most of the font families.
+</details>
+<br/>
+
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of nerd fonts.
+- [font-patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher) - Patch your own fonts.
+- [getnf](https://github.com/getnf/getnf) - A helpful tool to install Nerd Fonts.
 
 ## Bar / Panel
 
