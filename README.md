@@ -297,6 +297,7 @@ Some great collections by:
 - [alacritty](https://github.com/alacritty/alacritty)
 - [st](https://github.com/siduck/st)
 - [foot](https://codeberg.org/dnkl/foot)
+- [wezterm](https://github.com/wez/wezterm)
 
 
 ### Shell
