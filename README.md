@@ -83,7 +83,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 ## GRUB
 
 <details>
-  <summary><b>What is GRUB and why customize it</b></summary>
+  <summary><b>What is GRUB</b></summary>
     GRUB (GRand Unified Bootloader) is a versatile bootloader commonly used in Linux distributions. It's the software that you first see when your computer starts, allowing you to select which operating system or kernel to boot into. GRUB is very customizable and there is already a collection of creative themes made by users. 
 </details>
 <br/>
@@ -279,8 +279,9 @@ Collections by:
 ### Prompt
 
 - [Starship](https://github.com/starship/starship)
-- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - only for zsh
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - zsh
+- [Pure](https://github.com/sindresorhus/pure) - zsh
 
 
 ### Multiplexer
