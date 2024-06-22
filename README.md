@@ -84,7 +84,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 <details>
   <summary><b>What is GRUB</b></summary>
-    GRUB (GRand Unified Bootloader) is a versatile bootloader commonly used in Linux distributions. It's the software that you first see when your computer starts, allowing you to select which operating system or kernel to boot into. GRUB is very customizable and there is already a collection of creative themes made by users. 
+    GRUB (GRand Unified Bootloader) is a versatile bootloader commonly used in Linux distributions. It's the software that you first see when your computer starts, allowing you to select which operating system or kernel to boot into. GRUB is very customizable and there is already a collection of creative themes made by users.
 </details>
 <br/>
 
@@ -272,7 +272,14 @@ Collections by:
 
 ### Shell
 
-- [zsh](https://sourceforge.net/p/zsh/code/ci/master/tree/) - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+- [zsh](https://sourceforge.net/p/zsh/code/ci/master/tree/)
+  - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+  - [prezto](https://github.com/sorin-ionescu/prezto)
+  - [Antigen](https://github.com/zsh-users/antigen)
+  - [zimfw](https://github.com/zimfw/zimfw)
+  - [zinit](https://github.com/zdharma-continuum/zinit)
+  - [zap](https://github.com/zap-zsh/zap)
+  - [zgen](https://github.com/tarjoilija/zgen)
 - [fish](https://github.com/fish-shell/fish-shell)
 
 
@@ -332,7 +339,7 @@ Collections by:
   - [nvm](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions.
   - [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
   - [ncdu](https://code.blicky.net/yorhel/ncdu) - A disk usage analyzer with an ncurses interface.
-  - [arch-update](https://github.com/Antiz96/arch-update) - An update applier for Arch Linux that assists you with important pre/post update tasks. 
+  - [arch-update](https://github.com/Antiz96/arch-update) - An update applier for Arch Linux that assists you with important pre/post update tasks.
 - more:
   - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
   - [awesome-shell](https://github.com/alebcay/awesome-shell)
