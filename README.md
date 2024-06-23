@@ -389,6 +389,10 @@ Some great collections by:
 - [ufetch](https://gitlab.com/jschx/ufetch)
 - [bunnyfetch](https://github.com/Rosettea/bunnyfetch)
 - [uwufetch](https://github.com/ad-oliviero/uwufetch)
+- [rxfetch](https://github.com/Mangeshrex/rxfetch)
+- [nerdfetch](https://github.com/ThatOneCalculator/NerdFetch)
+- [nitch](https://github.com/ssleert/nitch)
+- [macchina](https://github.com/Macchina-CLI/macchina/)
 
 ### Fancies
 
