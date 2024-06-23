@@ -80,66 +80,55 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ---
 
-## GRUB
-
+## Window Managers
 <details>
-  <summary><b>What is GRUB</b></summary>
-    <b>GRUB</b> (GRand Unified Bootloader) is a versatile bootloader commonly used in Linux distributions. It's the software that you first see when your computer starts, allowing you to select which operating system or kernel to boot into. <b>GRUB</b> is very customizable and there is plenty of creative themes made by users.
+  <summary><b>Window Manager (WM) vs Desktop Environment (DE)</b></summary>
+  <p>A <b>WM</b> is a software that manages the windows on your screen. It controls the placement and appearance of windows, and provides basic functionality like window resizing and moving.</p>
+  <p>A <b>DE</b> is a collection of software that provides a complete desktop experience. It includes the <b>window manager</b>, along with a file manager, a bar/panel, and other apps, tools and utilities.</p>
+  <p><b>DEs</b> usually provide a more integrated and user-friendly experience, while <b>WMs</b> are more lightweight and customizable, requiring you to manually configure and install additional software to get the same functionality as a <b>DE</b>, but with more control over the look and feel of your desktop.</p>
+</details>
+<br/>
+<details>
+  <summary><b>Stacking vs Tiling vs Dynamic WMs</b></summary>
+  <ul>
+    <li><b>Stacking WMs</b> are traditional window managers that place windows on top of each other (like MS Windows). They allow you to move and resize windows freely, but they can be cluttered and hard to manage with many windows open.</li>
+    <li><b>Tiling WMs</b> automatically arrange windows in a non-overlapping layout. They are efficient and help you make the most of your screen space, but they can be less flexible than stacking WMs.</li>
+    <li><b>Dynamic WMs</b> combine the best of both worlds. They allow you to switch between tiling and stacking layouts, giving you the flexibility to choose the best layout for your workflow.</li>
+  </ul>
+</details>
+<br/>
+<details>
+  <summary><b>X11 vs Wayland</b></summary>
+  <p><b>X11</b> is the traditional display server protocol used in Linux. It is mature and stable, but it has some limitations in terms of security and performance.</p>
+  <p><b>Wayland</b> is a newer display server protocol that aims to address the limitations of <b>X11</b>. It is more secure and efficient, allowing for better performance, smoother animations, touch gestures, etc. However, it is still under development, and usually Nvidia GPUs have issues with it.</p>
+  <p>All applications with a GUI (as well as WMs) are run under a display server and are usually developed for a specific display server protocol, meaning you can't run a <b>Wayland</b> app on <b>X11</b>, or vice versa. However, it is possible to use a compatibility layer like XWayland to run <b>X11</b> apps on <b>Wayland</b>.</p>
 </details>
 <br/>
 
-- [grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern design GRUB theme collection.
-- [Matter](https://github.com/mateosss/matter) - Customizable GRUB theme inspired by Material Design.
-- [Dark Matter](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme.
-- [Tartarus](https://github.com/AllJavi/tartarus-grub) - Basic grub theme with material gruvbox style.
-- [Dracula](https://github.com/dracula/grub) - Dracula GRUB theme.
-- [Tokyo Night](https://github.com/mino29/tokyo-night-grub) - A GRUB theme using Tokyo Night color scheme based on Dracula GRUB.
-- [Poly dark](https://github.com/shvchk/poly-dark) -  Poly dark GRUB theme.
-- [Minegrub](https://github.com/Lxtharia/minegrub-theme) -  A GRUB theme in Minecraft style.
+### Stacking
 
-> [!NOTE]
-> To install a theme, follow the instructions provided in the respective theme's  repo.
-
-## Display Managers
-
-### [sddm](https://github.com/sddm/sddm)
-
-- [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark)
-- [Tokyo Night](https://github.com/rototrash/tokyo-night-sddm)
-- [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy)
-- [LentenRose](https://github.com/theoisdumb/lentenrose)
-- [corners](https://github.com/aczw/sddm-theme-corners)
-
-### [lightdm](https://github.com/canonical/lightdm)
-
-- [Shikai](https://github.com/TheWisker/Shikai)
-- [Web Greeter](https://github.com/JezerM/web-greeter)
-
-### [gdm](https://gitlab.gnome.org/GNOME/gdm)
-
-## Desktop Environments / Window Managers
-
-### Classic/Stacking
-
-- [GNOME](https://gitlab.gnome.org/GNOME) - X11 + Wayland
-- [KDE](https://github.com/KDE/plasma-desktop) - X11 + Wayland
-- [Xfce](https://gitlab.xfce.org/xfce/xfwm4) - X11
+- [GNOME](https://gitlab.gnome.org/GNOME)<sup>X11 + Wayland</sup> - A modern desktop environment that aims to be simple and easy to use.
+- [KDE](https://kde.org/)<sup>X11 + Wayland</sup> - A feature-rich and versatile desktop environment.
+- [XFCE](https://www.xfce.org/)<sup>X11</sup> - A lightweight desktop environment. It aims to be fast and low on system resources, while still being visually appealing and user-friendly.
 
 
 ### Tiling
 
-- [bspwm](https://github.com/baskerville/bspwm) - X11
-- [i3](https://github.com/i3/i3) - X11
-- [sway](https://github.com/swaywm/sway) - Wayland i3
+- [bspwm](https://github.com/baskerville/bspwm)<sup>X11</sup> - A tiling window manager that represents windows as the leaves of a full binary tree.
+- [i3](https://github.com/i3/i3)<sup>X11</sup> - A tiling window manager for X11.
+- [sway](https://github.com/swaywm/sway)<sup>Wayland</sup> - Α tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
+- [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm)<sup>X11</sup> - A manual tiling window manager for X.
 
 
+### Dynamic
 
-### Dynamic (Stacking + Tiling)
-
-- [awesome](https://github.com/awesomeWM/awesome) - X11
-- [hyprland](https://github.com/hyprwm/Hyprland) - Wayland
-- [QTile](https://github.com/qtile/qtile) - X11 + Wayland
-- [XMonad](https://github.com/xmonad/xmonad) - X11
+- [Ηyprland](https://github.com/hyprwm/Hyprland)<sup>Wayland</sup> - Α highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [awesome](https://github.com/awesomeWM/awesome)<sup>X11</sup> - A highly configurable, next generation framework window manager for X.
+- [QTile](https://github.com/qtile/qtile)<sup>X11 + Wayland</sup> - A full-featured, hackable tiling window manager.
+- [XMonad](https://github.com/xmonad/xmonad)<sup>X11</sup> - Α small but functional ICCCM-compliant tiling window manager.
+- [dwm](https://dwm.suckless.org/)<sup>X11</sup> - Α dynamic window manager for X. It manages windows in tiled, monocle and floating layouts.
+- [river](https://github.com/riverwm/river)<sup>Wayland</sup> - Α dynamic tiling Wayland compositor with flexible runtime configuration.
+- [ragnar](https://github.com/cococry/ragnar)<sup>X11</sup> - Minimal, flexible & user-friendly X tiling window manager.
 
 
 ## Themes
@@ -230,11 +219,11 @@ Some great collections by:
 ## Bar / Panel
 - [Polybar](https://github.com/polybar/polybar)<sup>X11</sup>
 - [Waybar](https://github.com/Alexays/Waybar)<sup>Wayland</sup>
-- [Eww](https://github.com/elkowar/eww)<sup>X11, Wayland</sup>
-- [ags](https://github.com/Aylur/ags)<sup>X11, Wayland</sup>
+- [Eww](https://github.com/elkowar/eww)<sup>X11 + Wayland</sup>
+- [ags](https://github.com/Aylur/ags)<sup>X11 + Wayland</sup>
 - [lemonbar](https://github.com/LemonBoy/bar)<sup>X11</sup>
 - [gBar](https://github.com/scorpion-26/gBar)<sup>Wayland</sup>
-- [fabric](https://github.com/Fabric-Development/fabric/)<sup>X11, Wayland</sup>
+- [fabric](https://github.com/Fabric-Development/fabric/)<sup>X11 + Wayland</sup>
 
 
 ## Cursors
@@ -571,6 +560,45 @@ Some great collections by:
 ### VSCode
 
 - [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme)
+
+
+## Display Managers
+
+### [sddm](https://github.com/sddm/sddm)
+
+- [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark)
+- [Tokyo Night](https://github.com/rototrash/tokyo-night-sddm)
+- [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy)
+- [LentenRose](https://github.com/theoisdumb/lentenrose)
+- [corners](https://github.com/aczw/sddm-theme-corners)
+
+### [lightdm](https://github.com/canonical/lightdm)
+
+- [Shikai](https://github.com/TheWisker/Shikai)
+- [Web Greeter](https://github.com/JezerM/web-greeter)
+
+### [gdm](https://gitlab.gnome.org/GNOME/gdm)
+
+
+## GRUB
+
+<details>
+  <summary><b>What is GRUB</b></summary>
+    <b>GRUB</b> (GRand Unified Bootloader) is a versatile bootloader commonly used in Linux distributions. It's the software that you first see when your computer starts, allowing you to select which operating system or kernel to boot into. <b>GRUB</b> is very customizable and there is plenty of creative themes made by users.
+</details>
+<br/>
+
+- [grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern design GRUB theme collection.
+- [Matter](https://github.com/mateosss/matter) - Customizable GRUB theme inspired by Material Design.
+- [Dark Matter](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme.
+- [Tartarus](https://github.com/AllJavi/tartarus-grub) - Basic grub theme with material gruvbox style.
+- [Dracula](https://github.com/dracula/grub) - Dracula GRUB theme.
+- [Tokyo Night](https://github.com/mino29/tokyo-night-grub) - A GRUB theme using Tokyo Night color scheme based on Dracula GRUB.
+- [Poly dark](https://github.com/shvchk/poly-dark) -  Poly dark GRUB theme.
+- [Minegrub](https://github.com/Lxtharia/minegrub-theme) -  A GRUB theme in Minecraft style.
+
+> [!TIP]
+> To install a theme, follow the instructions provided in the respective theme's  repo.
 
 ---
 
