@@ -7,9 +7,9 @@
 </div>
 <br/>
 <p align="center">
-	<a href="installation.md">Installation</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution</a>&nbsp;&nbsp;&nbsp;
-	<a href="LICENSE">License</a>&nbsp;&nbsp;&nbsp;
+	<a href="installation.md">Installation</a>&nbsp;&nbsp;•&nbsp;
+	<a href="contributing.md">Contribution</a>&nbsp;&nbsp;•&nbsp;
+	<a href="LICENSE">License</a>&nbsp;&nbsp;•&nbsp;
 	<a href="code_of_conduct.md">Code of Conduct</a>
 </p>
 <br/>
@@ -156,26 +156,26 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ## Wallpapers
 
-Some great collections by:
-- [D3Ext](https://github.com/D3Ext/aesthetic-wallpapers)
+Some great repos with wallpaper collections by:
 - [dharmx](https://github.com/dharmx/walls)
-- [gboncoffee](https://github.com/gboncoffee/wallpapers)
+- [linuxdotexe](https://github.com/linuxdotexe/nordic-wallpapers)<sup>Nord</sup>
+- [D3Ext](https://github.com/D3Ext/aesthetic-wallpapers)
 - [FrenzyExists](https://github.com/FrenzyExists/wallpapers)
+- [AngelJumbo](https://github.com/AngelJumbo/gruvbox-wallpapers)<sup>Gruvbox</sup>
+- [Gingeh](https://github.com/Gingeh/wallpapers)<sup>Catppuccin</sup>
+- [Apeiros-46B](https://github.com/Apeiros-46B/everforest-walls)<sup>Everforest</sup>
+- [gboncoffee](https://github.com/gboncoffee/wallpapers)
+- [zDyanTB](https://github.com/zDyanTB/aesthetic-wallpapers)
 - [jorgeloopzz](https://github.com/jorgeloopzz/Wallpapers)
 - [Axenide](https://github.com/Axenide/Wallpapers)
-- [zDyanTB](https://github.com/zDyanTB/aesthetic-wallpapers)
-- [Gingeh](https://github.com/Gingeh/wallpapers) - Catppuccin themed.
-- [linuxdotexe](https://github.com/linuxdotexe/nordic-wallpapers) - Nord themed.
-- [AngelJumbo](https://github.com/AngelJumbo/gruvbox-wallpapers) - Gruvbox themed.
-- [Apeiros-46B](https://github.com/Apeiros-46B/everforest-walls) - Everforest themed.
 
 
 ### Utilities
 
-- [swww](https://github.com/Horus645/swww) - Efficient animated wallpaper daemon for wayland, controlled at runtime.
-- [mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors.
-- [swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
-- [hyprpaper](https://github.com/hyprwm/hyprpaper) - A fast Wayland wallpaper utility with IPC controls.
+- [swww](https://github.com/Horus645/swww)<sup>Wayland</sup> - Efficient animated wallpaper daemon for wayland, controlled at runtime.
+- [mpvpaper](https://github.com/GhostNaN/mpvpaper)<sup>Wayland</sup> - A video wallpaper program for wlroots based wayland compositors.
+- [swaybg](https://github.com/swaywm/swaybg)<sup>Wayland</sup> - Wallpaper tool for Wayland compositors
+- [hyprpaper](https://github.com/hyprwm/hyprpaper)<sup>Wayland</sup> - A fast Wayland wallpaper utility with IPC controls.
 
 
 ## Fonts
