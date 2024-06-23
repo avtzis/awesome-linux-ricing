@@ -311,6 +311,7 @@ Some great collections by:
   - [zap](https://github.com/zap-zsh/zap)
   - [zgen](https://github.com/tarjoilija/zgen)
 - [fish](https://github.com/fish-shell/fish-shell)
+- [nushell](https://github.com/nushell/nushell)
 
 
 ### Prompt
