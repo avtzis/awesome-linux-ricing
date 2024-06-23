@@ -228,13 +228,13 @@ Some great collections by:
 - [getnf](https://github.com/getnf/getnf) - A helpful tool to install Nerd Fonts.
 
 ## Bar / Panel
-
-- [Polybar](https://github.com/polybar/polybar)
-- [Waybar](https://github.com/Alexays/Waybar)
-- [Eww](https://github.com/elkowar/eww)
-- [lemonbar](https://github.com/LemonBoy/bar)
-- [ags](https://github.com/Aylur/ags)
-- [gBar](https://github.com/scorpion-26/gBar)
+- [Polybar](https://github.com/polybar/polybar)<sup>X11</sup>
+- [Waybar](https://github.com/Alexays/Waybar)<sup>Wayland</sup>
+- [Eww](https://github.com/elkowar/eww)<sup>X11, Wayland</sup>
+- [ags](https://github.com/Aylur/ags)<sup>X11, Wayland</sup>
+- [lemonbar](https://github.com/LemonBoy/bar)<sup>X11</sup>
+- [gBar](https://github.com/scorpion-26/gBar)<sup>Wayland</sup>
+- [fabric](https://github.com/Fabric-Development/fabric/)<sup>X11, Wayland</sup>
 
 
 ## Cursors
