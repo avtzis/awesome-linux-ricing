@@ -110,6 +110,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [GNOME](https://gitlab.gnome.org/GNOME)<sup>X11 + Wayland</sup> - A modern desktop environment that aims to be simple and easy to use.
 - [KDE](https://kde.org/)<sup>X11 + Wayland</sup> - A feature-rich and versatile desktop environment.
 - [XFCE](https://www.xfce.org/)<sup>X11</sup> - A lightweight desktop environment. It aims to be fast and low on system resources, while still being visually appealing and user-friendly.
+- [Openbox](http://openbox.org/)<sup>X11</sup> - A highly configurable next generation window manager with extensive standards support.
 
 
 ### Tiling
