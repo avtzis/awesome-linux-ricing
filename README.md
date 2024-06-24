@@ -173,6 +173,7 @@ Some great repos with wallpaper collections by:
 - [Apeiros-46B](https://github.com/Apeiros-46B/everforest-walls)<sup>Everforest</sup>
 - [gboncoffee](https://github.com/gboncoffee/wallpapers)
 - [zDyanTB](https://github.com/zDyanTB/aesthetic-wallpapers)
+- [vctrblck](https://github.com/vctrblck/gruvbox-wallpapers)<sup>Gruvbox</sup>
 - [jorgeloopzz](https://github.com/jorgeloopzz/Wallpapers)
 - [Axenide](https://github.com/Axenide/Wallpapers)
 
