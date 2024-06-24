@@ -304,6 +304,7 @@ Some great repos with wallpaper collections by:
   - [Antigen](https://github.com/zsh-users/antigen)
   - [zimfw](https://github.com/zimfw/zimfw)
   - [zinit](https://github.com/zdharma-continuum/zinit)
+  - [zsh4humans](https://github.com/romkatv/zsh4humans)
   - [zap](https://github.com/zap-zsh/zap)
   - [zgen](https://github.com/tarjoilija/zgen)
 - [fish](https://github.com/fish-shell/fish-shell)
