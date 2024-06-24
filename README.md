@@ -475,6 +475,7 @@ Some great repos with wallpaper collections by:
 - [DeaDBeeF](https://github.com/DeaDBeeF-Player/deadbeef)
 - [Sunamu](https://github.com/NyaomiDEV/Sunamu)
 - [feishin](https://github.com/jeffvli/feishin)
+- [G4Music](https://github.com/neithern/g4music)
 
 ### Video Streamers
 
