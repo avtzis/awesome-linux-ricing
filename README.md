@@ -471,6 +471,7 @@ Some great repos with wallpaper collections by:
 - [Amberol](https://gitlab.gnome.org/World/amberol)
 - [DeaDBeeF](https://github.com/DeaDBeeF-Player/deadbeef)
 - [Sunamu](https://github.com/NyaomiDEV/Sunamu)
+- [feishin](https://github.com/jeffvli/feishin)
 
 ### Video Streamers
 
