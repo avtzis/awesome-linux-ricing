@@ -391,6 +391,7 @@ Some great repos with wallpaper collections by:
 - [nerdfetch](https://github.com/ThatOneCalculator/NerdFetch)
 - [nitch](https://github.com/ssleert/nitch)
 - [macchina](https://github.com/Macchina-CLI/macchina/)
+- [hyfetch](https://github.com/hykilpikonna/hyfetch)
 
 ### Fancies
 
