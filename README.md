@@ -132,22 +132,28 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [ragnar](https://github.com/cococry/ragnar)<sup>X11</sup> - Minimal, flexible & user-friendly X tiling window manager.
 
 
-## Themes
+## Color Schemes
 
-- [Dracula](https://github.com/dracula/dracula-theme)
-- [Catppuccin](https://github.com/catppuccin/catppuccin)
-- [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme#other-ports)
-- [Rosé Pine](https://github.com/rose-pine/rose-pine-theme)
-- [Gruvbox](https://github.com/morhetz/gruvbox)
-- [Nord](https://github.com/nordtheme/nord)
-- [Sweet](https://github.com/EliverLara/Sweet)
-- [BlackLotus](https://github.com/PoisonIsBestType/BlackLotus)
-- [Whale](https://github.com/anufrievroman/whale)
-- [Everblush](https://github.com/Everblush/everblush)
-- [Shades of purple](https://github.com/EliverLara/Shades-of-purple-gtk)
-- [Everforest](https://github.com/sainnhe/everforest)
-- [opulo](https://github.com/kewmine/opulo)
-- [Kanagawa](https://github.com/Fausto-Korpsvart/Kanagawa-GKT-Theme)
+<details>
+  <summary><b>What are color schemes</b></summary>
+  wip
+</details>
+<br/>
+
+- [Catppuccin](https://github.com/catppuccin/catppuccin) - Soothing pastel theme for the high-spirited.
+- [Gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme.
+- [Nord](https://github.com/nordtheme/nord) - Arctic, north-bluish color palette.
+- [Everforest](https://github.com/sainnhe/everforest) - Comfortable and pleasant green forest color scheme.
+- [Dracula](https://github.com/dracula/dracula-theme) - Dark spooky theme.
+- [Rosé Pine](https://github.com/rose-pine/rose-pine-theme) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+- [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme#other-ports) - Clean, dark theme that celebrates the lights of Tokyo at night.
+- [Sweet](https://github.com/EliverLara/Sweet) - Colorful candy theme.
+- [Kanagawa](https://github.com/rebelot/kanagawa.nvim) - Dark color scheme inspired by the famous painting.
+- [BlackLotus](https://github.com/PoisonIsBestType/BlackLotus) - Dark, dim, blue, purple... beautiful.
+- [Whale](https://github.com/anufrievroman/whale) - Dark theme inspired by Ark and Nord.
+- [Everblush](https://github.com/Everblush/everblush) - Dark, vibrant and beautiful Colorscheme.
+- [Shades of purple](https://github.com/EliverLara/Shades-of-purple-gtk) - Sweet purple theme.
+- [opulo](https://github.com/kewmine/opulo) - Colorscheme for absolute nerds.
 
 ### Utilities
 
