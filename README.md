@@ -571,20 +571,17 @@ Some great repos with wallpaper collections by:
 
 ## Display Managers
 
-### [sddm](https://github.com/sddm/sddm)
-
-- [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark)
-- [Tokyo Night](https://github.com/rototrash/tokyo-night-sddm)
-- [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy)
-- [LentenRose](https://github.com/theoisdumb/lentenrose)
-- [corners](https://github.com/aczw/sddm-theme-corners)
-
-### [lightdm](https://github.com/canonical/lightdm)
-
-- [Shikai](https://github.com/TheWisker/Shikai)
-- [Web Greeter](https://github.com/JezerM/web-greeter)
-
-### [gdm](https://gitlab.gnome.org/GNOME/gdm)
+- [sddm](https://github.com/sddm/sddm)
+  - [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark)
+  - [Tokyo Night](https://github.com/rototrash/tokyo-night-sddm)
+  - [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy)
+  - [LentenRose](https://github.com/theoisdumb/lentenrose)
+  - [corners](https://github.com/aczw/sddm-theme-corners)
+- [lightdm](https://github.com/canonical/lightdm)
+  - [Shikai](https://github.com/TheWisker/Shikai)
+  - [Web Greeter](https://github.com/JezerM/web-greeter)
+- [gdm](https://gitlab.gnome.org/GNOME/gdm)
+- [ly](https://github.com/fairyglade/ly)
 
 
 ## GRUB
