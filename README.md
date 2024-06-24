@@ -154,6 +154,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [Everblush](https://github.com/Everblush/everblush) - Dark, vibrant and beautiful Colorscheme.
 - [Shades of purple](https://github.com/EliverLara/Shades-of-purple-gtk) - Sweet purple theme.
 - [opulo](https://github.com/kewmine/opulo) - Colorscheme for absolute nerds.
+- [camellia](https://github.com/camellia-theme/camellia) - Dark yet vibrant color scheme.
 
 ### Utilities
 
