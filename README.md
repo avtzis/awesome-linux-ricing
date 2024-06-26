@@ -159,6 +159,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 ### Utilities
 
 - [pywall](https://github.com/dylanaraps/pywal) - Generate and change color-schemes according to your wallpaper.
+- [wpgtk](https://github.com/deviantfero/wpgtk) - A colorscheme, wallpaper and template manager.
 
 
 ## Wallpapers
