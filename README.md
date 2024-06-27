@@ -242,6 +242,7 @@ Some great repos with wallpaper collections by:
 - [BreezeX](https://github.com/ful1e5/BreezeX_Cursor)
 - [Qogir](https://github.com/vinceliuice/Qogir-icon-theme)
 - [Apple](https://github.com/ful1e5/apple_cursor)
+- [Fuchsia](https://github.com/ful1e5/fuchsia-cursor)
 
 
 ## Icons
