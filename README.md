@@ -326,6 +326,7 @@ Some great repos with wallpaper collections by:
 
 ### Multiplexer
   - [tmux](https://github.com/tmux/tmux)
+  - [zellij](https://github.com/zellij-org/zellij)
   - [byobu](https://www.byobu.org/home)
   - [screen](https://www.gnu.org/software/screen/)
 
