@@ -497,7 +497,7 @@ Some great repos with wallpaper collections by:
 - [gedit](https://gitlab.gnome.org/GNOME/gedit)
 - [geany](https://github.com/geany/geany)
 - [kate](https://github.com/KDE/kate)
-- [vscodium](https://github.com/VSCodium/vscodium) - VSCode without spying.
+- [vscodium](https://github.com/VSCodium/vscodium)
 
 ### Archive Managers
 
@@ -514,7 +514,7 @@ Some great repos with wallpaper collections by:
 
 ### Notes
 
-- [Obsidian](https://obsidian.md/) - NOT open-source
+- [Obsidian](https://obsidian.md/)
 
 
 ### Workstation - Content Creation
@@ -556,6 +556,7 @@ Some great repos with wallpaper collections by:
   - [FlyingFox](https://github.com/akshat46/FlyingFox)
   - [SimpleFox](https://github.com/migueravila/SimpleFox)
   - [ShyFox](https://github.com/Naezr/ShyFox)
+  - [AnimatedFox](https://github.com/RemyIsCool/AnimatedFox)
 - Startpage
   - [dawn](https://github.com/b-coimbra/dawn)
   - [Excalith](https://github.com/excalith/excalith-start-page)
