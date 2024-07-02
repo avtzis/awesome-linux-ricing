@@ -587,6 +587,8 @@ Some great repos with wallpaper collections by:
   - [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy)
   - [LentenRose](https://github.com/theoisdumb/lentenrose)
   - [corners](https://github.com/aczw/sddm-theme-corners)
+  - [sddm-themes](https://github.com/Rokin05/SDDM-Themes)
+  - [deepin](https://github.com/Match-Yang/sddm-deepin)
 - [lightdm](https://github.com/canonical/lightdm)
   - [Shikai](https://github.com/TheWisker/Shikai)
   - [Web Greeter](https://github.com/JezerM/web-greeter)
