@@ -523,10 +523,14 @@ Some great repos with wallpaper collections by:
   - [GIMP](https://gitlab.gnome.org/GNOME/gimp)
 - Video Editors
   - [Kdenlive](https://invent.kde.org/multimedia/kdenlive)
-  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - NOT open-source
-- Music
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- Music Production
   - [Blue](https://github.com/kunstmusik/blue)
   - [MuseScore](https://github.com/musescore/MuseScore)
+  - [Ardour](https://ardour.org/)
+  - [reaper](https://www.reaper.fm/)
+  - [lmms](https://github.com/lmms/lmms)
+  - [Bitwig](https://www.bitwig.com/)
 - 3D
   - [blender](https://github.com/blender/blender)
 - Office
