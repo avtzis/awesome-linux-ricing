@@ -614,9 +614,10 @@ Some great repos with wallpaper collections by:
 - [Dark Matter](https://github.com/VandalByte/darkmatter-grub2-theme) - Dark Matter GRUB Theme.
 - [Tartarus](https://github.com/AllJavi/tartarus-grub) - Basic grub theme with material gruvbox style.
 - [Dracula](https://github.com/dracula/grub) - Dracula GRUB theme.
-- [Tokyo Night](https://github.com/mino29/tokyo-night-grub) - A GRUB theme using Tokyo Night color scheme based on Dracula GRUB.
+- [Tokyo Night](https://github.com/mino29/tokyo-night-grub) - GRUB theme using Tokyo Night color scheme based on Dracula GRUB.
 - [Poly dark](https://github.com/shvchk/poly-dark) -  Poly dark GRUB theme.
-- [Minegrub](https://github.com/Lxtharia/minegrub-theme) -  A GRUB theme in Minecraft style.
+- [Minegrub](https://github.com/Lxtharia/minegrub-theme) -  GRUB theme in Minecraft style.
+- [steam-big-picture](https://github.com/arvigeus/steam-big-picture-grub-theme) - Steam Big Picture inspired GRUB theme.
 
 > [!TIP]
 > To install a theme, follow the instructions provided in the respective theme's  repo.
