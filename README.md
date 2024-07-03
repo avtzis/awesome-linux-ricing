@@ -572,7 +572,15 @@ Some great repos with wallpaper collections by:
 
 ### Spotify
 
-- [Spicetify](https://github.com/spicetify/spicetify-cli) - [themes](https://github.com/spicetify/spicetify-themes)
+- [Spicetify](https://github.com/spicetify/spicetify-cli) - Powerful CLI tool to take control of the Spotify client.
+  - [spicetify-themes](https://github.com/spicetify/spicetify-themes) - The official Spicetify themes repository.
+  - [comfy](https://github.com/NYRI4/Comfy-spicetify) - Stay comfy while listening to music.
+  - [fluent](https://github.com/williamckha/spicetify-fluent) - Spicetify theme inspired by Microsoft's Fluent Design.
+  - [catppuccin](https://github.com/catppuccin/spicetify) - Soothing pastel theme for Spotify.
+  - [bloom](https://github.com/nimsandu/spicetify-bloom) - Powerful theme to calm your eyes while listening to your favorite beats.
+  - [nord](https://github.com/Tetrax-10/Nord-Spotify) - Nord themed Spotify.
+  - [dribbblish-dynamic](https://github.com/JulienMaille/dribbblish-dynamic-theme) - Mod of Dribbblish theme for Spicetify.
+  - [lucid](https://github.com/sanoojes/spicetify-lucid) - Dynamic, Highly Customizable Spicetify theme inspired by Bloom and Microsoft Fluent Design.
 
 ### Discord
 
