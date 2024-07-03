@@ -24,21 +24,19 @@ This meticulously curated list is designed to assist users in personalizing thei
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [GRUB](#grub)
-- [Display Managers](#display-managers)
-  - [sddm](#sddm)
-  - [lightdm](#lightdm)
-  - [gdm](#gdm)
-- [Desktop Environments / Window Managers](#desktop-environments--window-managers)
-  - [Classic/Stacking](#classicstacking)
+- [Window Managers](#window-managers)
+  - [Stacking](#stacking)
   - [Tiling](#tiling)
-  - [Dynamic (Stacking + Tiling)](#dynamic-stacking--tiling)
-- [Themes](#themes)
+  - [Dynamic](#dynamic)
+- [Color Schemes](#color-schemes)
   - [Utilities](#utilities)
 - [Wallpapers](#wallpapers)
   - [Utilities](#utilities-1)
-- [(Nerd) Fonts](#nerd-fonts)
-- [Bar / Panel](#bar--panel)
+- [Fonts](#fonts)
+  - [Sans Fonts](#sans-fonts)
+  - [Monospace Fonts](#monospace-fonts)
+  - [Nerd Fonts](#nerd-fonts)
+- [Bar](#bar)
 - [Cursors](#cursors)
 - [Icons](#icons)
 - [App Launchers](#app-launchers)
@@ -54,6 +52,13 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [Apps and Tools](#apps-and-tools)
   - [Fetches](#fetches)
   - [Fancies](#fancies)
+    - [Terminal Visuals](#terminal-visuals)
+    - [Clocks](#clocks)
+    - [Audio Visualizers](#audio-visualizers)
+    - [Matrix](#matrix)
+    - [Character Play](#character-play)
+    - [Pokemon-Themed](#pokemon-themed)
+    - [Text and Fonts](#text-and-fonts)
 - [UI Apps/Tools](#ui-appstools)
   - [Web Browsers](#web-browsers)
   - [File Managers](#file-managers)
@@ -73,6 +78,8 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [Spotify](#spotify)
   - [Discord](#discord)
   - [VSCode](#vscode)
+- [Display Managers](#display-managers)
+- [GRUB](#grub)
 - [Installation](#installation)
 - [Contribution](#contribution)
 
@@ -240,14 +247,21 @@ Some great GitHub repos with wallpaper collections by:
 > [!TIP]
 > In order to make use of glyphs, you should at least have one nerd font installed on your system. Setting your default font as a nerd font is usually not required, as it may show glyphs smaller than they are supposed to be. However, you may need to include a nerd font family along with your default font, when configuring fonts for an application, in order to display the glyphs properly.
 
-## Bar / Panel
-- [Polybar](https://github.com/polybar/polybar)<sup>X11</sup>
-- [Waybar](https://github.com/Alexays/Waybar)<sup>Wayland</sup>
-- [Eww](https://github.com/elkowar/eww)<sup>X11 + Wayland</sup>
-- [ags](https://github.com/Aylur/ags)<sup>X11 + Wayland</sup>
-- [lemonbar](https://github.com/LemonBoy/bar)<sup>X11</sup>
-- [gBar](https://github.com/scorpion-26/gBar)<sup>Wayland</sup>
-- [fabric](https://github.com/Fabric-Development/fabric/)<sup>X11 + Wayland</sup>
+## Bar
+
+<details>
+  <summary><b>What is bar</b></summary>
+  <p>A <b>bar</b> is a graphical element usually used to display information about your system, such as the time, date, battery status, volume, etc, like the "Task Bar" in Windows and the "Menu Bar" in MacOS. It is usually placed at the top or bottom of the screen, and can be customized to show the information you want in the style you prefer.</p>
+</details>
+<br/>
+
+- [Polybar](https://github.com/polybar/polybar)<sup>X11</sup> - Fast and easy-to-use status bar.
+- [Waybar](https://github.com/Alexays/Waybar)<sup>Wayland</sup> - Highly customizable Wayland bar.
+- [Eww](https://github.com/elkowar/eww)<sup>X11 + Wayland</sup> - ElKowars wacky widgets.
+- [ags](https://github.com/Aylur/ags)<sup>X11 + Wayland</sup> - Very customizable and extensible shell.
+- [lemonbar](https://github.com/LemonBoy/bar)<sup>X11</sup> - Featherweight, lemon-scented, bar based on xcb.
+- [gBar](https://github.com/scorpion-26/gBar)<sup>Wayland</sup> - Blazingly fast status bar written with GTK.
+- [fabric](https://github.com/Fabric-Development/fabric/)<sup>X11 + Wayland</sup> - Next-gen framework for building desktop widgets using Python.
 
 
 ## Cursors
