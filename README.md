@@ -24,52 +24,53 @@ This meticulously curated list is designed to assist users in personalizing thei
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Window Managers](#window-managers)
+- [Window Manager](#window-manager)
   - [Stacking](#stacking)
   - [Tiling](#tiling)
   - [Dynamic](#dynamic)
-- [Color Schemes](#color-schemes)
+- [Color Scheme](#color-scheme)
   - [Utilities](#utilities)
 - [Wallpapers](#wallpapers)
   - [Utilities](#utilities-1)
-- [Fonts](#fonts)
+- [Font](#font)
   - [Sans Fonts](#sans-fonts)
   - [Monospace Fonts](#monospace-fonts)
   - [Nerd Fonts](#nerd-fonts)
 - [Bar](#bar)
-- [Cursors](#cursors)
+- [Cursor](#cursor)
+  - [Utilities](#utilities-2)
 - [Icons](#icons)
-- [App Launchers](#app-launchers)
-- [Notifications](#notifications)
+- [Application Launcher](#application-launcher)
+- [Notifications Daemon](#notifications-daemon)
 - [Widgets](#widgets)
 - [Logout Menu](#logout-menu)
 - [Screen Lock](#screen-lock)
 - [Terminal](#terminal)
-  - [Emulators](#emulators)
+  - [Emulator](#emulator)
   - [Shell](#shell)
   - [Prompt](#prompt)
   - [Multiplexer](#multiplexer)
   - [Apps and Tools](#apps-and-tools)
-  - [Fetches](#fetches)
+  - [Fetch](#fetch)
   - [Fancies](#fancies)
     - [Terminal Visuals](#terminal-visuals)
-    - [Clocks](#clocks)
-    - [Audio Visualizers](#audio-visualizers)
+    - [Clock](#clock)
+    - [Audio Visualizer](#audio-visualizer)
     - [Matrix](#matrix)
     - [Character Play](#character-play)
     - [Pokemon-Themed](#pokemon-themed)
     - [Text and Fonts](#text-and-fonts)
 - [UI Apps/Tools](#ui-appstools)
-  - [Web Browsers](#web-browsers)
-  - [File Managers](#file-managers)
-  - [Image Viewers](#image-viewers)
-  - [Music Players](#music-players)
-  - [Video Streamers](#video-streamers)
-  - [Document Readers](#document-readers)
-  - [Text Editors](#text-editors)
-  - [Archive Managers](#archive-managers)
+  - [Web Browser](#web-browser)
+  - [File Manager](#file-manager)
+  - [Image Viewer](#image-viewer)
+  - [Music Player](#music-player)
+  - [Video Streamer](#video-streamer)
+  - [Document Reader](#document-reader)
+  - [Text Editor](#text-editor)
+  - [Archive Manager](#archive-manager)
   - [Email](#email)
-  - [Calculators](#calculators)
+  - [Calculator](#calculator)
   - [Notes](#notes)
   - [Workstation - Content Creation](#workstation---content-creation)
   - [Gaming](#gaming)
@@ -78,7 +79,7 @@ This meticulously curated list is designed to assist users in personalizing thei
   - [Spotify](#spotify)
   - [Discord](#discord)
   - [VSCode](#vscode)
-- [Display Managers](#display-managers)
+- [Display Manager](#display-manager)
 - [GRUB](#grub)
 - [Installation](#installation)
 - [Contribution](#contribution)
@@ -87,7 +88,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ---
 
-## Window Managers
+## Window Manager
 <details>
   <summary><b>Window Manager (WM) vs Desktop Environment (DE)</b></summary>
   <p>A <b>WM</b> is a software that manages the windows on your screen. It controls the placement and appearance of windows, and provides basic functionality like window resizing and moving.</p>
@@ -139,7 +140,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 - [ragnar](https://github.com/cococry/ragnar)<sup>X11</sup> - Minimal, flexible & user-friendly X tiling window manager.
 
 
-## Color Schemes
+## Color Scheme
 
 <details>
   <summary><b>What are color schemes</b></summary>
@@ -194,7 +195,7 @@ Some great GitHub repos with wallpaper collections by:
 - [hyprpaper](https://github.com/hyprwm/hyprpaper)<sup>Wayland</sup> - A fast Wayland wallpaper utility with IPC controls.
 
 
-## Fonts
+## Font
 <details>
   <summary><b>Sans vs Serif vs Mono</b></summary>
   <ul>
@@ -266,7 +267,7 @@ Some great GitHub repos with wallpaper collections by:
 > [!INFO]
 > Some of these tools can also be used to create widgets and other UI elements, not just bars.
 
-## Cursors
+## Cursor
 
 - [Bibata](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [BreezeX](https://github.com/ful1e5/BreezeX_Cursor) - Extended KDE cursor.
@@ -288,7 +289,7 @@ Some great GitHub repos with wallpaper collections by:
 - [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) - Colorful design icon theme.
 
 
-## App Launchers
+## Application Launcher
 
 <details>
   <summary><b>What is an application launcher</b></summary>
@@ -305,16 +306,22 @@ Some great GitHub repos with wallpaper collections by:
 - [Gauntlet](https://github.com/project-gauntlet/gauntlet)<sup>X11</sup> - Raycast-inspired open-source application launcher with React-based plugins.
 
 
-## Notifications
+## Notifications Daemon
 
-- [Dunst](https://github.com/dunst-project/dunst)
-- [SwayNC](https://github.com/ErikReider/SwayNotificationCenter)
-- [mako](https://github.com/emersion/mako)
+<details>
+  <summary><b>What is a notification daemon</b></summary>
+  <p>A <b>notification daemon</b> is a software component that provides a way for applications to display notifications to the user. It manages the display of notifications on the screen, including their appearance, duration, and behavior.</p>
+</details>
+<br/>
+
+- [Dunst](https://github.com/dunst-project/dunst)<sup>X11 + Wayland</sup> - Lightweight and customizable notification daemon.
+- [SwayNC](https://github.com/ErikReider/SwayNotificationCenter)<sup>Wayland</sup> - Simple notification daemon with a GTK gui for notifications and the control center.
+- [mako](https://github.com/emersion/mako)<sup>Wayland</sup> - Lightweight Wayland notification daemon.
 
 ## Widgets
 
-- [conky](https://github.com/brndnmtthws/conky) - System monitoring.
-- [GLava](https://github.com/jarcode-foss/glava) - Audio spectrum visualizer.
+- [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor.
+- [GLava](https://github.com/jarcode-foss/glava) -OpenGL audio spectrum visualizer.
 - [Kando](https://github.com/kando-menu/kando) - The Cross-Platform Pie Menu.
 - [wallpaper-cava](https://github.com/rs-pro0/wallpaper-cava) - Display cava on top of your wallpaper.
 
@@ -332,7 +339,7 @@ Some great GitHub repos with wallpaper collections by:
 
 ## Terminal
 
-### Emulators
+### Emulator
 
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [alacritty](https://github.com/alacritty/alacritty)
@@ -424,7 +431,7 @@ Some great GitHub repos with wallpaper collections by:
   - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
   - [awesome-shell](https://github.com/alebcay/awesome-shell)
 
-### Fetches
+### Fetch
 
 - [neofetch](https://github.com/dylanaraps/neofetch)
   - [themes](https://github.com/Chick2D/neofetch-themes)
@@ -452,11 +459,11 @@ Some great GitHub repos with wallpaper collections by:
 - [arttime](https://github.com/poetaman/arttime) - text art with functionality of clock / timer / pattern-based time manager.
 - [sortty](https://github.com/dormant-chicken/sortty) - Sorting algorithms in the terminal.
 
-#### Clocks
+#### Clock
 - [tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses.
 - [Peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock for the terminal.
 
-#### Audio Visualizers
+#### Audio Visualizer
 - [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer.
 - [Musializer](https://github.com/tsoding/musializer) - Music Visualizer.
 - [ReVidia](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) - A highly customizable real time audio visualizer.
@@ -491,7 +498,7 @@ Some great GitHub repos with wallpaper collections by:
 
 ## UI Apps/Tools
 
-### Web Browsers
+### Web Browser
 
 - [Firefox](https://www.mozilla.org/firefox)
 - [chromium](https://github.com/chromium/chromium)
@@ -500,7 +507,7 @@ Some great GitHub repos with wallpaper collections by:
 - [thorium](https://github.com/Alex313031/Thorium)
 - [Floorp](https://github.com/Floorp-Projects/Floorp/)
 
-### File Managers
+### File Manager
 
 - [Nemo](https://github.com/linuxmint/nemo)
 - [Nautilus](https://gitlab.gnome.org/GNOME/nautilus)
@@ -508,13 +515,13 @@ Some great GitHub repos with wallpaper collections by:
 - [thunar](https://gitlab.xfce.org/xfce/thunar)
 - [PCmanFM](https://github.com/lxde/pcmanfm)
 
-### Image Viewers
+### Image Viewer
 
 - [imv](https://git.sr.ht/~exec64/imv)
 - [feh](https://github.com/derf/feh)
 - [Eye of GNOME](https://gitlab.gnome.org/GNOME/eog)
 
-### Music Players
+### Music Player
 
 - [Amberol](https://gitlab.gnome.org/World/amberol)
 - [DeaDBeeF](https://github.com/DeaDBeeF-Player/deadbeef)
@@ -523,24 +530,24 @@ Some great GitHub repos with wallpaper collections by:
 - [G4Music](https://github.com/neithern/g4music)
 - [lyssa](https://github.com/cococry/lyssa)
 
-### Video Streamers
+### Video Streamer
 
 - [VLC](https://github.com/videolan/vlc)
 - [mpv](https://github.com/mpv-player/mpv)
 
-### Document Readers
+### Document Reader
 
 - [zathura](https://git.pwmt.org/pwmt/zathura)
 - [Bookworm](https://github.com/babluboy/bookworm)
 
-### Text Editors
+### Text Editor
 
 - [gedit](https://gitlab.gnome.org/GNOME/gedit)
 - [geany](https://github.com/geany/geany)
 - [kate](https://github.com/KDE/kate)
 - [vscodium](https://github.com/VSCodium/vscodium)
 
-### Archive Managers
+### Archive Manager
 
 - [File Roller](https://gitlab.gnome.org/GNOME/file-roller)
 
@@ -548,7 +555,7 @@ Some great GitHub repos with wallpaper collections by:
 
 - [Thunderbird](https://github.com/mozilla/releases-comm-central)
 
-### Calculators
+### Calculator
 
 - [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator)
 
@@ -560,9 +567,9 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Workstation - Content Creation
 
-- Image Editors
+- Image Editor
   - [GIMP](https://gitlab.gnome.org/GNOME/gimp)
-- Video Editors
+- Video Editor
   - [Kdenlive](https://invent.kde.org/multimedia/kdenlive)
   - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - Music Production
@@ -633,7 +640,7 @@ Some great GitHub repos with wallpaper collections by:
 - [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme)
 
 
-## Display Managers
+## Display Manager
 
 - [sddm](https://github.com/sddm/sddm)
   - [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark)
