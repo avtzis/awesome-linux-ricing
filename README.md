@@ -266,12 +266,15 @@ Some great GitHub repos with wallpaper collections by:
 
 ## Cursors
 
-- [Bibata](https://github.com/ful1e5/Bibata_Cursor)
-- [BreezeX](https://github.com/ful1e5/BreezeX_Cursor)
-- [Qogir](https://github.com/vinceliuice/Qogir-icon-theme)
-- [Apple](https://github.com/ful1e5/apple_cursor)
-- [Fuchsia](https://github.com/ful1e5/fuchsia-cursor)
+- [Bibata](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
+- [BreezeX](https://github.com/ful1e5/BreezeX_Cursor) - Extended KDE cursor.
+- [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) - Cursor inspired by Qogir icon theme.
+- [Apple](https://github.com/ful1e5/apple_cursor) - Cursor inspired by Apple's macOS.
+- [Fuchsia](https://github.com/ful1e5/fuchsia-cursor) - Cursor inspired by Google's FuchsiaOS.
 
+### Utilities
+
+- [hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 
 ## Icons
 
