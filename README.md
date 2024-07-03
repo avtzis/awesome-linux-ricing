@@ -278,12 +278,12 @@ Some great GitHub repos with wallpaper collections by:
 
 ## Icons
 
-- [Candy](https://github.com/EliverLara/candy-icons)
-- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-- [Tela](https://github.com/vinceliuice/Tela-icon-theme)
-- [BeautyLine](https://github.com/gvolpe/BeautyLine)
-- [Flat Remix](https://github.com/daniruiz/Flat-Remix)
-- [Qogir](https://github.com/vinceliuice/Qogir-icon-theme)
+- [Candy](https://github.com/EliverLara/candy-icons) - Sweet gradient icons.
+- [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme.
+- [Tela](https://github.com/vinceliuice/Tela-icon-theme) - Flat colorful Design icon theme.
+- [BeautyLine](https://github.com/gvolpe/BeautyLine) - Outlined icons designed to have unified look and comprehensive coverage.
+- [Flat Remix](https://github.com/daniruiz/Flat-Remix) - Icon theme inspired by material design.
+- [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) - Colorful design icon theme.
 
 
 ## App Launchers
