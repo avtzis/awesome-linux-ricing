@@ -616,6 +616,7 @@ Some great GitHub repos with wallpaper collections by:
   - [corners](https://github.com/aczw/sddm-theme-corners)
   - [sddm-themes](https://github.com/Rokin05/SDDM-Themes)
   - [deepin](https://github.com/Match-Yang/sddm-deepin)
+  - [astronaut](https://github.com/Keyitdev/sddm-astronaut-theme)
 - [lightdm](https://github.com/canonical/lightdm)
   - [Shikai](https://github.com/TheWisker/Shikai)
   - [Web Greeter](https://github.com/JezerM/web-greeter)
