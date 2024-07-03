@@ -328,13 +328,16 @@ Some great GitHub repos with wallpaper collections by:
 
 ## Logout Menu
 
-- [wlogout](https://github.com/ArtsyMacaw/wlogout)
+- [wlogout](https://github.com/ArtsyMacaw/wlogout)<sup>Wayland</sup> - Wayland based logout menu
+- [rofi](https://github.com/davatorium/rofi)<sup>X11 + <a href="https://github.com/lbonn/rofi">Wayland</a></sup> - Window switcher, application launcher and dmenu replacement. Can be used to create logout menu.
 
 
 ## Screen Lock
 
-- [swaylock](https://github.com/swaywm/swaylock) - for Wayland
-- [hyprlock](https://github.com/hyprwm/hyprlock)
+- [i3lock](https://github.com/i3/i3lock)<sup>X11</sup> - Improved screen locker.
+- [swaylock](https://github.com/swaywm/swaylock)<sup>Wayland</sup> - Screen locker for Wayland.
+  - [swaylock-effects](https://github.com/mortie/swaylock-effects) - Swaylock, with fancy effects
+- [hyprlock](https://github.com/hyprwm/hyprlock)<sup>Wayland></sup> - Hyprland's GPU-accelerated screen locking utility
 
 
 ## Terminal
