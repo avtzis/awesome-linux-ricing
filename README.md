@@ -612,6 +612,7 @@ Some great GitHub repos with wallpaper collections by:
   - [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark)
   - [Tokyo Night](https://github.com/rototrash/tokyo-night-sddm)
   - [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy)
+  - [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark)
   - [LentenRose](https://github.com/theoisdumb/lentenrose)
   - [corners](https://github.com/aczw/sddm-theme-corners)
   - [sddm-themes](https://github.com/Rokin05/SDDM-Themes)
