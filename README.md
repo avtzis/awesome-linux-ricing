@@ -263,6 +263,8 @@ Some great GitHub repos with wallpaper collections by:
 - [gBar](https://github.com/scorpion-26/gBar)<sup>Wayland</sup> - Blazingly fast status bar written with GTK.
 - [fabric](https://github.com/Fabric-Development/fabric/)<sup>X11 + Wayland</sup> - Next-gen framework for building desktop widgets using Python.
 
+> [!INFO]
+> Some of these tools can also be used to create widgets and other UI elements, not just bars.
 
 ## Cursors
 
@@ -288,11 +290,19 @@ Some great GitHub repos with wallpaper collections by:
 
 ## App Launchers
 
-- [Rofi](https://github.com/davatorium/rofi)
-	- [custom configs](https://github.com/adi1090x/rofi) - by adi1090x
-- [Ulauncher](https://github.com/Ulauncher/Ulauncher/)
-- [Anyrun](https://github.com/Kirottu/anyrun)
-- [Gauntlet](https://github.com/project-gauntlet/gauntlet)
+<details>
+  <summary><b>What is an application launcher</b></summary>
+  <p>An <b>application launcher</b> is a tool that provides you a graphical interface to quickly search for and launch applications on your system. It provides a convenient way to access your favorite apps without having to navigate through menus or desktop icons. Application launchers can also be used to search for files, folders, and other resources on your system. Most of these app launchers are very customizable.</p>
+</details>
+<br/>
+
+- [Rofi](https://github.com/davatorium/rofi)<sup>X11 + <a href="https://github.com/lbonn/rofi">Wayland</a></sup> - Window switcher, application launcher and dmenu replacement.
+	- [custom confs](https://github.com/adi1090x/rofi) - Huge collection of Rofi based custom Applets, Launchers & Powermenus by adi1090x
+- [wofi](https://gitlab.com/dgirault/wofi)<sup>Wayland</sup> - Launcher/menu program for wlroots based wayland compositors.
+- [tofi](https://github.com/philj56/tofi)<sup>Wayland</sup> - Tiny dynamic menu for Wayland.
+- [Ulauncher](https://github.com/Ulauncher/Ulauncher/)<sup>X11 + Wayland</sup> - Feature rich application Launcher.
+- [Anyrun](https://github.com/Kirottu/anyrun)<sup>Wayland</sup> - Wayland native, highly customizable runner.
+- [Gauntlet](https://github.com/project-gauntlet/gauntlet)<sup>X11</sup> - Raycast-inspired open-source application launcher with React-based plugins.
 
 
 ## Notifications
