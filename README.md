@@ -136,7 +136,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 <details>
   <summary><b>What are color schemes</b></summary>
-  wip
+  Color schemes in ricing are a set of carefully selected colors used to create a theme. You can pick and use a specific theme you like to customize the colors of all your configurable apps (i.e WM, bar, terminal, browser, etc...), in order to achieve a consistent look and feel across your desktop.
 </details>
 <br/>
 
@@ -164,7 +164,7 @@ This meticulously curated list is designed to assist users in personalizing thei
 
 ## Wallpapers
 
-Some great repos with wallpaper collections by:
+Some great GitHub repos with wallpaper collections by:
 - [dharmx](https://github.com/dharmx/walls)
 - [linuxdotexe](https://github.com/linuxdotexe/nordic-wallpapers)<sup>Nord</sup>
 - [D3Ext](https://github.com/D3Ext/aesthetic-wallpapers)
