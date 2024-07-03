@@ -189,7 +189,7 @@ Some great GitHub repos with wallpaper collections by:
 
 ## Fonts
 <details>
-  <summary><b>What is the difference between Sans, Serif and Mono</b></summary>
+  <summary><b>Sans vs Serif vs Mono</b></summary>
   <ul>
     <li><b>Serif</b> fonts have decorative lines or strokes at the ends of the letters. They are often used for body text in printed materials.</li>
     <li><b>Sans-serif</b> fonts are modern and clean, without the decorative flourishes of serif fonts. They are often used for headings and titles.</li>
@@ -199,32 +199,46 @@ Some great GitHub repos with wallpaper collections by:
 </details>
 <br/>
 
+<details>
+  <summary><b>What are ligatures</b></summary>
+  <p><b>Ligatures</b> are special characters that combine two or more letters into a single glyph. They are used to improve the appearance and readability of text, especially in code and terminal applications.</p>
+  <p>Example:</p>
+  <img src="media/ligatures.svg" height=240>
+</details>
+<br/>
+
 ### Sans Fonts
-- [Google Sans](https://font.download/font/google-sans)
-- [Open Sans](https://fonts.google.com/specimen/Open+Sans)
-- [Roboto](https://fonts.google.com/specimen/Roboto)
-- [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
+- [Google Sans](https://font.download/font/google-sans)<sup>ligatures</sup> - Google's custom and versatile sans-serif font.
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans) - The peace and love issue.
+- [Roboto](https://fonts.google.com/specimen/Roboto) - The Android font.
+- [Ubuntu](https://fonts.google.com/specimen/Ubuntu) - The Ubuntu font.
+- [DejaVu](https://github.com/dejavu-fonts/dejavu-fonts) - Font family based on Bitstream Vera.
 
 ### Monospace Fonts
-- [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) - ligatures
-- [FiraCode](https://github.com/tonsky/FiraCode) - ligatures
-- [Cascadia Code](https://github.com/microsoft/cascadia-code) - ligatures
-- [Iosevka](https://github.com/be5invis/Iosevka) - ligatures
-- [Victor Mono](https://github.com/rubjo/victor-mono) - ligatures
-- [DejaVu](https://github.com/dejavu-fonts/dejavu-fonts)
-- [Gohufont](https://github.com/hchargois/gohufont)
-- [Operator-caska Cursive](https://github.com/Anant-mishra1729/Operator-caska-Font#operator-caska-cursive-font)
+- [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)<sup>ligatures</sup> - Τypeface made for developers.
+- [FiraCode](https://github.com/tonsky/FiraCode)<sup>ligatures</sup> - Monospaced font with programming ligatures.
+- [Cascadia Code](https://github.com/microsoft/cascadia-code)<sup>ligatures</sup> - Fun font designed to enchance the modern look and feel of the *** Terminal.
+- [Iosevka](https://github.com/be5invis/Iosevka)<sup>ligatures</sup> - Versatile typeface for code, from code.
+- [Victor Mono](https://github.com/rubjo/victor-mono)<sup>ligatures</sup> - Free programming font with cursive italics and ligatures.
+- [DejaVuCode](https://github.com/SSNikolaevich/DejaVuSansCode) - Monospaced font with programming ligatures based on DejaVu Sans Mono.
+- [Gohufont](https://github.com/hchargois/gohufont) - Monospace bitmap font.
+- [Operator-caska](https://github.com/Anant-mishra1729/Operator-caska-Font)<sup>ligatures</sup> - Font with ligature and cursive support, combination of both CaskaydiaCove Nerd Font and Operator Mono.
+- [monoid](https://github.com/larsenwork/monoid)<sup>ligatures</sup> - Customisable coding font with alternates, ligatures and contextual positioning.
+- [Hasklig](https://github.com/i-tu/Hasklig)<sup>ligatures</sup> - Code font with monospaced ligatures.
 
 ### Nerd Fonts
 <details>
   <summary><b>What are the Nerd Fonts</b></summary>
-    <b>Nerd Fonts</b> are patched fonts that contain additional glyphs, icons, and ligatures. These fonts are designed to be used in terminals and code editors, providing a more visually appealing and functional experience. <b>Nerd Fonts</b> are compatible with most of the font families.
+    <p><b>Nerd Fonts</b> are patched fonts that contain additional glyphs, icons, and ligatures. These fonts are designed to be used in terminals and code editors, providing a more visually appealing and functional experience. <b>Nerd Fonts</b> are compatible with most of the font families.</p>
 </details>
 <br/>
 
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of nerd fonts.
 - [font-patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher) - Patch your own fonts.
 - [getnf](https://github.com/getnf/getnf) - A helpful tool to install Nerd Fonts.
+
+> [!TIP]
+> In order to make use of glyphs, you should at least have one nerd font installed on your system. Setting your default font as a nerd font is usually not required, as it may show glyphs smaller than they are supposed to be. However, you may need to include a nerd font family along with your default font, when configuring fonts for an application, in order to display the glyphs properly.
 
 ## Bar / Panel
 - [Polybar](https://github.com/polybar/polybar)<sup>X11</sup>
