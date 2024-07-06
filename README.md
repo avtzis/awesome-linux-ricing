@@ -299,6 +299,7 @@ Some great GitHub repos with wallpaper collections by:
 
 - [Rofi](https://github.com/davatorium/rofi)<sup>X11 + <a href="https://github.com/lbonn/rofi">Wayland</a></sup> - Window switcher, application launcher and dmenu replacement.
 	- [custom confs](https://github.com/adi1090x/rofi) - Huge collection of Rofi based custom Applets, Launchers & Powermenus by adi1090x
+  - [rofi-wifi-menu](https://github.com/zbaylin/rofi-wifi-menu) - Bash script using nmcli and rofi to make a wifi menu.
 - [wofi](https://gitlab.com/dgirault/wofi)<sup>Wayland</sup> - Launcher/menu program for wlroots based wayland compositors.
 - [tofi](https://github.com/philj56/tofi)<sup>Wayland</sup> - Tiny dynamic menu for Wayland.
 - [Ulauncher](https://github.com/Ulauncher/Ulauncher/)<sup>X11 + Wayland</sup> - Feature rich application Launcher.
