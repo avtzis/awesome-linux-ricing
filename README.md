@@ -306,6 +306,7 @@ Some great GitHub repos with wallpaper collections by:
 - [Ulauncher](https://github.com/Ulauncher/Ulauncher/)<sup>X11 + Wayland</sup> - Feature rich application Launcher.
 - [Anyrun](https://github.com/Kirottu/anyrun)<sup>Wayland</sup> - Wayland native, highly customizable runner.
 - [Gauntlet](https://github.com/project-gauntlet/gauntlet)<sup>X11</sup> - Raycast-inspired open-source application launcher with React-based plugins.
+- [fuzzel](https://codeberg.org/dnkl/fuzzel)<sup>Wayland</sup> - Application launcher for wlroots based Wayland compositors, similar to rofi's drun mode.
 
 
 ## Notifications Daemon
