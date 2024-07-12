@@ -287,6 +287,7 @@ Some great GitHub repos with wallpaper collections by:
 - [BeautyLine](https://github.com/gvolpe/BeautyLine) - Outlined icons designed to have unified look and comprehensive coverage.
 - [Flat Remix](https://github.com/daniruiz/Flat-Remix) - Icon theme inspired by material design.
 - [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) - Colorful design icon theme.
+- [Colloid](https://github.com/vinceliuice/Colloid-icon-theme) - Icon theme with a colorful and playful design.
 
 
 ## Application Launcher
@@ -338,7 +339,7 @@ Some great GitHub repos with wallpaper collections by:
 - [i3lock](https://github.com/i3/i3lock)<sup>X11</sup> - Improved screen locker.
 - [swaylock](https://github.com/swaywm/swaylock)<sup>Wayland</sup> - Screen locker for Wayland.
   - [swaylock-effects](https://github.com/mortie/swaylock-effects) - Swaylock, with fancy effects
-- [hyprlock](https://github.com/hyprwm/hyprlock)<sup>Wayland></sup> - Hyprland's GPU-accelerated screen locking utility
+- [hyprlock](https://github.com/hyprwm/hyprlock)<sup>Wayland</sup> - Hyprland's GPU-accelerated screen locking utility
 
 
 ## Terminal
