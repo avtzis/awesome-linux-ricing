@@ -264,7 +264,7 @@ Some great GitHub repos with wallpaper collections by:
 - [gBar](https://github.com/scorpion-26/gBar)<sup>Wayland</sup> - Blazingly fast status bar written with GTK.
 - [fabric](https://github.com/Fabric-Development/fabric/)<sup>X11 + Wayland</sup> - Next-gen framework for building desktop widgets using Python.
 
-> [!INFO]
+> [!NOTE]
 > Some of these tools can also be used to create widgets and other UI elements, not just bars.
 
 ## Cursor
