@@ -7,10 +7,9 @@
 </div>
 <br/>
 <p align="center">
-	<a href="installation.md">Installation</a>&nbsp;&nbsp;•&nbsp;
-	<a href="contributing.md">Contribution</a>&nbsp;&nbsp;•&nbsp;
-	<a href="LICENSE">License</a>&nbsp;&nbsp;•&nbsp;
-	<a href="code_of_conduct.md">Code of Conduct</a>
+	<a href="CONTRIBUTING.md">Contribution</a>&nbsp;&nbsp;•&nbsp;
+	<a href="code_of_conduct.md">Code of Conduct</a>&nbsp;&nbsp;•&nbsp;
+	<a href="LICENSE">License</a>
 </p>
 <br/>
 
@@ -81,7 +80,7 @@ This very cool list is made to help anyone interested in extensively customizing
   - [VSCode](#vscode)
 - [Display Manager](#display-manager)
 - [GRUB](#grub)
-- [Installation](#installation)
+- [Installation and Configuration](#installation-and-configuration)
 - [Contribution](#contribution)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -251,8 +250,8 @@ Some great GitHub repos with wallpaper collections by:
 ## Bar
 
 <details>
-  <summary><b>What is bar</b></summary>
-  <p>A <b>bar</b> is a graphical element usually used to display information about your system, such as the time, date, battery status, volume, etc, like the "Task Bar" in Windows and the "Menu Bar" in MacOS. It is usually placed at the top or bottom of the screen, and can be customized to show the information you want in the style you prefer.</p>
+  <summary><b>What is a bar</b></summary>
+  <p>A <b>bar</b> is a graphical element usually used to display a variety of information, like the time, date, battery, volume, etc, like the "Task Bar" in Windows and the "Menu Bar" in MacOS. It is usually placed at the top or bottom of the screen, and can be customized in any style.</p>
 </details>
 <br/>
 
@@ -344,6 +343,12 @@ Some great GitHub repos with wallpaper collections by:
 
 
 ## Terminal
+
+<details>
+  <summary><b>Terminal Emulator vs Shell</b></summary>
+  <p>wip</p>
+</details>
+<br/>
 
 ### Emulator
 
@@ -688,11 +693,13 @@ Some great GitHub repos with wallpaper collections by:
 
 ---
 
-## Installation
-The majority of these items are linked to their corresponding repositories. Please endeavor to find installation instructions within these repositories. Additionally, it's *strongly* advisable to explore your distribution's package manager to see if a pre-packaged solution is available. **PROTIP**: It's best to refrain from using the "download" button on Linux.
+## Installation and Configuration
+Quick note for beginners:
+  - Most of these apps are linked to repositories on GitHub, where you can find installation instructions. However, typically, you can install apps using your package manager way more easily. We usually don't use a "download" button on Linux when installing an app, so it's best to avoid it if you come across one.
+  - Configuring on Linux is usually done by editing text files. These files should be in `~/.config/` and can follow a specific syntax. To be sure, check the documentation of the app.
 
 ## Contribution
-Any helpful contribution is welcome, especially for original content!
+Any helpful contribution is welcome, see [CONTRIBUTING](CONTRIBUTING.md).
 
 <!-- ### Thanks -->
 
