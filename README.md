@@ -179,6 +179,7 @@ Some great GitHub repos with wallpaper collections by:
 - [FrenzyExists](https://github.com/FrenzyExists/wallpapers)
 - [AngelJumbo](https://github.com/AngelJumbo/gruvbox-wallpapers)<sup>Gruvbox</sup>
 - [Gingeh](https://github.com/Gingeh/wallpapers)<sup>Catppuccin</sup>
+- [zhichaoh](https://github.com/zhichaoh/catppuccin-wallpapers)<sup>Catppuccin</sup>
 - [Apeiros-46B](https://github.com/Apeiros-46B/everforest-walls)<sup>Everforest</sup>
 - [gboncoffee](https://github.com/gboncoffee/wallpapers)
 - [zDyanTB](https://github.com/zDyanTB/aesthetic-wallpapers)
