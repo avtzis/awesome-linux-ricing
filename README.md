@@ -352,85 +352,96 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Emulator
 
-- [kitty](https://github.com/kovidgoyal/kitty)
-- [alacritty](https://github.com/alacritty/alacritty)
-- [st](https://github.com/siduck/st)
-- [foot](https://codeberg.org/dnkl/foot)
-- [wezterm](https://github.com/wez/wezterm)
+- [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal.
+- [alacritty](https://github.com/alacritty/alacritty) - Cross-platform, OpenGL terminal emulator.
+- [st](https://github.com/siduck/st) - Snazzy terminal (suckless + beautiful)
+- [foot](https://codeberg.org/dnkl/foot) - Fast, lightweight and minimalistic Wayland terminal emulator.
+- [wezterm](https://github.com/wez/wezterm) - GPU-accelerated cross-platform terminal emulator and multiplexer.
 
 
 ### Shell
 
-- [zsh](https://zsh.sourceforge.io/)
-  - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
-  - [prezto](https://github.com/sorin-ionescu/prezto)
-  - [Antigen](https://github.com/zsh-users/antigen)
-  - [zimfw](https://github.com/zimfw/zimfw)
-  - [zinit](https://github.com/zdharma-continuum/zinit)
-  - [zsh4humans](https://github.com/romkatv/zsh4humans)
-  - [zap](https://github.com/zap-zsh/zap)
-  - [zgen](https://github.com/tarjoilija/zgen)
-- [fish](https://github.com/fish-shell/fish-shell)
-- [nushell](https://github.com/nushell/nushell)
+- [zsh](https://zsh.sourceforge.io/) - Powerful shell with scripting capabilities.
+  - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) - Delightful, open source, community-driven framework for managing your Zsh configuration.
+  - [prezto](https://github.com/sorin-ionescu/prezto) - Popular configuration framework for Zsh.
+  - [Antigen](https://github.com/zsh-users/antigen) - Popular plugin manager for Zsh.
+  - [zimfw](https://github.com/zimfw/zimfw) - Modular, customizable, and blazing fast Zsh framework.
+  - [zinit](https://github.com/zdharma-continuum/zinit) - Flexible and fast ZSH plugin manager.
+  - [zgen](https://github.com/tarjoilija/zgen) - Lightweight and simple plugin manager for ZSH.
+  - [zap](https://github.com/zap-zsh/zap) - Minimal zsh plugin manager.
+- [fish](https://github.com/fish-shell/fish-shell) - User-friendly shell with autosuggestions and syntax highlighting.
+  - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework.
+- [nushell](https://github.com/nushell/nushell) - A new type of shell.
 
 
 ### Prompt
 
-- [Starship](https://github.com/starship/starship)
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - zsh
-- [Pure](https://github.com/sindresorhus/pure) - zsh
-- [roundy](https://github.com/nullxception/roundy) - zsh
+<details>
+  <summary><b>What is the prompt</b></summary>
+  <p>wip</p>
+</details>
+<br/>
+
+- [Starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt.
+- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer.
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k)<sup>zsh</sup> - Theme for zsh emphasizing speed, flexibility and out-of-the-box experience.
+- [Pure](https://github.com/sindresorhus/pure)<sup>zsh</sup> - Pretty, minimal and fast ZSH prompt.
+- [roundy](https://github.com/nullxception/roundy)<sup>zsh</sup> - Fast, cute, and-of-course, roundy prompt-theme for Zsh.
 
 
 ### Multiplexer
-  - [tmux](https://github.com/tmux/tmux)
-  - [zellij](https://github.com/zellij-org/zellij)
-  - [byobu](https://www.byobu.org/home)
-  - [screen](https://www.gnu.org/software/screen/)
+
+<details>
+  <summary><b>What is a multiplexer</b></summary>
+  <p>A <b>terminal multiplexer</b> enables a number of terminals to be created, accessed, and controlled from a single screen. It lets you switch between different sessions, detach and reattach them, and manage them efficiently. Multiplexers are useful for running long-running processes, managing multiple tasks, and working on remote servers.</p>
+</details>
+<br/>
+
+  - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer with a focus on simplicity and productivity.
+    - [tmux-plugins](https://github.com/orgs/tmux-plugins/repositories) - Collection of useful tmux plugins.
+  - [zellij](https://github.com/zellij-org/zellij) - Terminal workspace with batteries included.
+  - [byobu](https://www.byobu.org/home) - Text-based window manager and terminal multiplexer.
+  - [GNU Screen](https://www.gnu.org/software/screen/) - Full-screen window manager that multiplexes a physical terminal between several processes.
 
 
 ### Apps and Tools
 
 - File Managers
-  - [ranger](https://github.com/ranger/ranger)
-    - [devicons](https://github.com/alexanderjeurissen/ranger_devicons)
-  - [yazi](https://github.com/sxyazi/yazi)
-  - [superfile](https://github.com/yorukot/superfile)
+  - [ranger](https://github.com/ranger/ranger) - VIM-inspired file manager for the console.
+    - [devicons](https://github.com/alexanderjeurissen/ranger_devicons) - File glyphs / icon support to Ranger.
+  - [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust.
+  - [superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager.
 - Editors
-  - [vim](https://github.com/vim/vim)
-  - [neovim](https://github.com/neovim/neovim)
-  - [nano](https://github.com/madnight/nano)
-  - [Helix](https://github.com/helix-editor/helix)
-  - [micro](https://github.com/zyedidia/micro)
-- Image Viewers
-  - [catimg](https://github.com/posva/catimg)
-  - [timg](https://github.com/hzeller/timg)
-  - [imcat](https://github.com/stolk/imcat)
-- Music Streamers
-  - [cmus](https://github.com/cmus/cmus)
-  - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - [MPD](https://github.com/MusicPlayerDaemon/MPD)
-  - [spotify-tui](https://github.com/Rigellute/spotify-tui) - spotify
-  - [spotify_player](https://github.com/aome510/spotify-player) - spotify
+  - [vim](https://github.com/vim/vim) - Highly configurable text editor built to enable efficient text editing.
+  - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
+  - [nano](https://github.com/madnight/nano) - Simple and easy-to-use text editor.
+  - [Helix](https://github.com/helix-editor/helix) - A post-modern text editor.
+  - [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
+- Image Printing
+  - [timg](https://github.com/hzeller/timg) - User-friendly terminal image viewer that uses graphic capabilities of terminals.
+  - [catimg](https://github.com/posva/catimg) - Insanely fast image printing in your terminal.
+  - [imcat](https://github.com/stolk/imcat) - Show any image in a terminal window.
+- Music Players
+  - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
+  - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - [MPD](https://github.com/MusicPlayerDaemon/MPD) - Featureful ncurses based MPD client.
+  - [spotify-tui](https://github.com/Rigellute/spotify-tui)<sup>Spotify</sup> - Spotify for the terminal written in Rust.
+  - [spotify_player](https://github.com/aome510/spotify-player)<sup>Spotify</sup> - Spotify player in the terminal with full feature parity.
 - System Monitoring
-  - [btop](https://github.com/aristocratos/btop)
-  - [htop](https://github.com/htop-dev/htop)
-  - [Glances](https://github.com/nicolargo/glances)
-  - [s-tui](https://github.com/amanusk/s-tui)
-- IRC Clients
-  - [WeeChat](https://github.com/weechat/weechat)
-  - [irssi](https://github.com/irssi/irssi)
+  - [btop](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
+  - [htop](https://github.com/htop-dev/htop) - Interactive process viewer.
+  - [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system.
+  - [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility.
 - Mail Clients
-  - [mutt](https://gitlab.com/muttmua/mutt)
+  - [mutt](https://gitlab.com/muttmua/mutt) - Text-based mail client renowned for its powerful features.
 - Screenshot
-  - [scrot](https://github.com/resurrecting-open-source-projects/scrot)
+  - [scrot](https://github.com/resurrecting-open-source-projects/scrot) - Command line screen capture utility.
 - Recording
-  - [wf-recorder](https://github.com/ammen99/wf-recorder)
+  - [wf-recorder](https://github.com/ammen99/wf-recorder)<sup>Wayland</sup> - Utility program for screen recording.
 - Directory Listing
-  - [lsd](https://github.com/Peltoche/lsd)
-  - [exa](https://github.com/ogham/exa)
-  - [logo-ls](https://github.com/Yash-Handa/logo-ls)
-  - [Color LS](https://github.com/athityakumar/colorls)
+  - [exa](https://github.com/ogham/exa) - Modern replacement for `ls`.
+  - [lsd](https://github.com/Peltoche/lsd) - The next gen `ls` command.
+  - [Color LS](https://github.com/athityakumar/colorls) - Ruby gem that beautifies the terminal's `ls` command with color and font-awesome icons.
+  - [logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern `ls` command with vscode like file icons and `git` integrations.
 - Misc
   - [evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
   - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
@@ -444,18 +455,18 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Fetch
 
-- [neofetch](https://github.com/dylanaraps/neofetch)
-  - [themes](https://github.com/Chick2D/neofetch-themes)
-- [pfetch](https://github.com/dylanaraps/pfetch)
-- [fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- [ufetch](https://gitlab.com/jschx/ufetch)
-- [bunnyfetch](https://github.com/Rosettea/bunnyfetch)
-- [uwufetch](https://github.com/ad-oliviero/uwufetch)
-- [rxfetch](https://github.com/Mangeshrex/rxfetch)
-- [nerdfetch](https://github.com/ThatOneCalculator/NerdFetch)
-- [nitch](https://github.com/ssleert/nitch)
-- [macchina](https://github.com/Macchina-CLI/macchina/)
-- [hyfetch](https://github.com/hykilpikonna/hyfetch)
+- [neofetch](https://github.com/dylanaraps/neofetch) - Command-line system information tool written in bash.
+  - [neofetch-themes](https://github.com/Chick2D/neofetch-themes) - Collection of themes for `neofetch`.
+- [pfetch](https://github.com/dylanaraps/pfetch) - Pretty system information tool written in POSIX sh.
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch) - Feature-rich and performance oriented, `neofetch` like system information tool.
+- [ufetch](https://gitlab.com/jschx/ufetch) - Tiny system info for Unix-like operating systems.
+- [bunnyfetch](https://github.com/Rosettea/bunnyfetch) - Tiny system info fetch utility.
+- [uwufetch](https://github.com/ad-oliviero/uwufetch) - Meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
+- [rxfetch](https://github.com/Mangeshrex/rxfetch) - Custom system info fetching tool.
+- [nerdfetch](https://github.com/ThatOneCalculator/NerdFetch) - POSIX *nix fetch script using Nerdfonts.
+- [nitch](https://github.com/ssleert/nitch) - Incredibly fast system fetch written in nim.
+- [macchina](https://github.com/Macchina-CLI/macchina/) - System information frontend with an emphasis on performance.
+- [hyfetch](https://github.com/hykilpikonna/hyfetch) - `neofetch` with LGBTQ+ pride flags.
 
 ### Fancies
 
@@ -599,7 +610,7 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Gaming
 
-- [Steam](https://github.com/ValveSoftware/steam-for-linux) - [Proton](https://github.com/ValveSoftware/Proton) - [Wine](https://github.com/ValveSoftware/wine)
+- [Steam](https://store.steampowered.com/about/)
 - [Lutris](https://github.com/lutris/lutris)
 - [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
 - [Cartridges](https://github.com/kra-mo/cartridges)
