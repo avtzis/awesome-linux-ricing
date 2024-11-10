@@ -434,6 +434,7 @@ Some great GitHub repos with wallpaper collections by:
   - [nano](https://github.com/madnight/nano) - Simple and easy-to-use text editor.
   - [Helix](https://github.com/helix-editor/helix) - A post-modern text editor.
   - [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
+  - [kakoune](https://github.com/mawww/kakoune) - Modal editor with multiple selections and orthogonal design.
 #### Image Printing
   - [timg](https://github.com/hzeller/timg) - User-friendly terminal image viewer that uses graphic capabilities of terminals.
   - [catimg](https://github.com/posva/catimg) - Insanely fast image printing in your terminal.
