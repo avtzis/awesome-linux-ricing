@@ -49,9 +49,18 @@ This very cool list is made to help anyone interested in extensively customizing
   - [Shell](#shell)
   - [Prompt](#prompt)
   - [Multiplexer](#multiplexer)
-  - [Apps and Tools](#apps-and-tools)
-  - [Fetch](#fetch)
+  - [Tools](#tools)
+    - [File Manager](#file-manager)
+    - [Editor](#editor)
+    - [Image Printing](#image-printing)
+    - [System Monitoring](#system-monitoring)
+    - [Mail Client](#mail-client)
+    - [Screenshot](#screenshot)
+    - [Recording](#recording)
+    - [Directory Listing](#directory-listing)
+    - [Misc](#misc)
   - [Fancies](#fancies)
+    - [Fetch](#fetch)
     - [Terminal Visuals](#terminal-visuals)
     - [Clock](#clock)
     - [Audio Visualizer](#audio-visualizer)
@@ -61,7 +70,7 @@ This very cool list is made to help anyone interested in extensively customizing
     - [Text and Fonts](#text-and-fonts)
 - [UI Apps/Tools](#ui-appstools)
   - [Web Browser](#web-browser)
-  - [File Manager](#file-manager)
+  - [File Manager](#file-manager-1)
   - [Image Viewer](#image-viewer)
   - [Music Player](#music-player)
   - [Video Streamer](#video-streamer)
@@ -72,9 +81,17 @@ This very cool list is made to help anyone interested in extensively customizing
   - [Calculator](#calculator)
   - [Notes](#notes)
   - [Workstation - Content Creation](#workstation---content-creation)
+    - [Image Editing](#image-editing)
+    - [Video Editing](#video-editing)
+    - [Music Production](#music-production)
+    - [3D](#3d)
+    - [Office](#office)
+    - [Screen Recording / Live Streaming](#screen-recording--live-streaming)
   - [Gaming](#gaming)
 - [App Theming](#app-theming)
   - [Firefox](#firefox)
+    - [Themes](#themes)
+    - [Startpage](#startpage)
   - [Spotify](#spotify)
   - [Discord](#discord)
   - [VSCode](#vscode)
@@ -114,28 +131,28 @@ This very cool list is made to help anyone interested in extensively customizing
 
 ### Stacking
 
-- [GNOME](https://gitlab.gnome.org/GNOME)<sup>X11 + Wayland</sup> - A modern desktop environment that aims to be simple and easy to use.
-- [KDE](https://kde.org/)<sup>X11 + Wayland</sup> - A feature-rich and versatile desktop environment.
-- [XFCE](https://www.xfce.org/)<sup>X11</sup> - A lightweight desktop environment. It aims to be fast and low on system resources, while still being visually appealing and user-friendly.
-- [Openbox](http://openbox.org/)<sup>X11</sup> - A highly configurable next generation window manager with extensive standards support.
+- [GNOME](https://gitlab.gnome.org/GNOME)<sup>X11 + Wayland</sup> - Modern desktop environment that aims to be simple and easy to use.
+- [KDE](https://kde.org/)<sup>X11 + Wayland</sup> - Feature-rich and versatile desktop environment.
+- [XFCE](https://www.xfce.org/)<sup>X11</sup> - Lightweight desktop environment. It aims to be fast and low on system resources, while still being visually appealing and user-friendly.
+- [Openbox](http://openbox.org/)<sup>X11</sup> - Highly configurable next generation window manager with extensive standards support.
 
 
 ### Tiling
 
-- [bspwm](https://github.com/baskerville/bspwm)<sup>X11</sup> - A tiling window manager that represents windows as the leaves of a full binary tree.
-- [i3](https://github.com/i3/i3)<sup>X11</sup> - A tiling window manager for X11.
-- [sway](https://github.com/swaywm/sway)<sup>Wayland</sup> - Α tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
-- [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm)<sup>X11</sup> - A manual tiling window manager for X.
+- [bspwm](https://github.com/baskerville/bspwm)<sup>X11</sup> - Tiling window manager that represents windows as the leaves of a full binary tree.
+- [i3](https://github.com/i3/i3)<sup>X11</sup> - Tiling window manager for X11.
+- [sway](https://github.com/swaywm/sway)<sup>Wayland</sup> - Tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
+- [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm)<sup>X11</sup> - Manual tiling window manager for X.
 
 
 ### Dynamic
 
-- [Ηyprland](https://github.com/hyprwm/Hyprland)<sup>Wayland</sup> - Α highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-- [awesome](https://github.com/awesomeWM/awesome)<sup>X11</sup> - A highly configurable, next generation framework window manager for X.
-- [QTile](https://github.com/qtile/qtile)<sup>X11 + Wayland</sup> - A full-featured, hackable tiling window manager.
-- [XMonad](https://github.com/xmonad/xmonad)<sup>X11</sup> - Α small but functional ICCCM-compliant tiling window manager.
-- [dwm](https://dwm.suckless.org/)<sup>X11</sup> - Α dynamic window manager for X. It manages windows in tiled, monocle and floating layouts.
-- [river](https://github.com/riverwm/river)<sup>Wayland</sup> - Α dynamic tiling Wayland compositor with flexible runtime configuration.
+- [Ηyprland](https://github.com/hyprwm/Hyprland)<sup>Wayland</sup> - Highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [awesome](https://github.com/awesomeWM/awesome)<sup>X11</sup> - Highly configurable, next generation framework window manager for X.
+- [QTile](https://github.com/qtile/qtile)<sup>X11 + Wayland</sup> - Full-featured, hackable tiling window manager.
+- [XMonad](https://github.com/xmonad/xmonad)<sup>X11</sup> - Small but functional ICCCM-compliant tiling window manager.
+- [dwm](https://dwm.suckless.org/)<sup>X11</sup> - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts.
+- [river](https://github.com/riverwm/river)<sup>Wayland</sup> - Dynamic tiling Wayland compositor with flexible runtime configuration.
 - [ragnar](https://github.com/cococry/ragnar)<sup>X11</sup> - Minimal, flexible & user-friendly X tiling window manager.
 
 
@@ -166,7 +183,7 @@ This very cool list is made to help anyone interested in extensively customizing
 ### Utilities
 
 - [pywall](https://github.com/dylanaraps/pywal) - Generate and change color-schemes according to your wallpaper.
-- [wpgtk](https://github.com/deviantfero/wpgtk) - A colorscheme, wallpaper and template manager.
+- [wpgtk](https://github.com/deviantfero/wpgtk) - Colorscheme, wallpaper and template manager.
 
 
 ## Wallpapers
@@ -189,9 +206,9 @@ Some great GitHub repos with wallpaper collections by:
 ### Utilities
 
 - [swww](https://github.com/Horus645/swww)<sup>Wayland</sup> - Efficient animated wallpaper daemon for wayland, controlled at runtime.
-- [mpvpaper](https://github.com/GhostNaN/mpvpaper)<sup>Wayland</sup> - A video wallpaper program for wlroots based wayland compositors.
+- [mpvpaper](https://github.com/GhostNaN/mpvpaper)<sup>Wayland</sup> - Video wallpaper program for wlroots based wayland compositors.
 - [swaybg](https://github.com/swaywm/swaybg)<sup>Wayland</sup> - Wallpaper tool for Wayland compositors
-- [hyprpaper](https://github.com/hyprwm/hyprpaper)<sup>Wayland</sup> - A fast Wayland wallpaper utility with IPC controls.
+- [hyprpaper](https://github.com/hyprwm/hyprpaper)<sup>Wayland</sup> - Fast Wayland wallpaper utility with IPC controls.
 
 
 ## Font
@@ -227,7 +244,7 @@ Some great GitHub repos with wallpaper collections by:
 - [Cascadia Code](https://github.com/microsoft/cascadia-code)<sup>ligatures</sup> - Fun font designed to enchance the modern look and feel of the *** Terminal.
 - [Iosevka](https://github.com/be5invis/Iosevka)<sup>ligatures</sup> - Versatile typeface for code, from code.
 - [Victor Mono](https://github.com/rubjo/victor-mono)<sup>ligatures</sup> - Free programming font with cursive italics and ligatures.
-- [DejaVuCode](https://github.com/SSNikolaevich/DejaVuSansCode) - Monospaced font with programming ligatures based on DejaVu Sans Mono.
+- [DejaVuCode](https://github.com/SSNikolaevich/DejaVuSansCode)<sup>ligatures</sup> - Monospaced font with programming ligatures based on DejaVu Sans Mono.
 - [Gohufont](https://github.com/hchargois/gohufont) - Monospace bitmap font.
 - [Operator-caska](https://github.com/Anant-mishra1729/Operator-caska-Font)<sup>ligatures</sup> - Font with ligature and cursive support, combination of both CaskaydiaCove Nerd Font and Operator Mono.
 - [monoid](https://github.com/larsenwork/monoid)<sup>ligatures</sup> - Customisable coding font with alternates, ligatures and contextual positioning.
@@ -242,7 +259,7 @@ Some great GitHub repos with wallpaper collections by:
 
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) - Collection of nerd fonts.
 - [font-patcher](https://github.com/ryanoasis/nerd-fonts?tab=readme-ov-file#font-patcher) - Patch your own fonts.
-- [getnf](https://github.com/getnf/getnf) - A helpful tool to install Nerd Fonts.
+- [getnf](https://github.com/getnf/getnf) - Helpful tool to install Nerd Fonts.
 
 > [!TIP]
 > In order to make use of glyphs, you should at least have one nerd font installed on your system. Setting your default font as a nerd font is usually not required, as it may show glyphs smaller than they are supposed to be. However, you may need to include a nerd font family along with your default font, when configuring fonts for an application, in order to display the glyphs properly.
@@ -371,7 +388,7 @@ Some great GitHub repos with wallpaper collections by:
   - [zap](https://github.com/zap-zsh/zap) - Minimal zsh plugin manager.
 - [fish](https://github.com/fish-shell/fish-shell) - User-friendly shell with autosuggestions and syntax highlighting.
   - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework.
-- [nushell](https://github.com/nushell/nushell) - A new type of shell.
+- [nushell](https://github.com/nushell/nushell) - New type of shell.
 
 
 ### Prompt
@@ -404,20 +421,20 @@ Some great GitHub repos with wallpaper collections by:
   - [GNU Screen](https://www.gnu.org/software/screen/) - Full-screen window manager that multiplexes a physical terminal between several processes.
 
 
-### Apps and Tools
+### Tools
 
-- File Managers
+#### File Manager
   - [ranger](https://github.com/ranger/ranger) - VIM-inspired file manager for the console.
     - [devicons](https://github.com/alexanderjeurissen/ranger_devicons) - File glyphs / icon support to Ranger.
   - [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust.
   - [superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager.
-- Editors
+#### Editor
   - [vim](https://github.com/vim/vim) - Highly configurable text editor built to enable efficient text editing.
   - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
   - [nano](https://github.com/madnight/nano) - Simple and easy-to-use text editor.
   - [Helix](https://github.com/helix-editor/helix) - A post-modern text editor.
   - [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
-- Image Printing
+#### Image Printing
   - [timg](https://github.com/hzeller/timg) - User-friendly terminal image viewer that uses graphic capabilities of terminals.
   - [catimg](https://github.com/posva/catimg) - Insanely fast image printing in your terminal.
   - [imcat](https://github.com/stolk/imcat) - Show any image in a terminal window.
@@ -426,34 +443,36 @@ Some great GitHub repos with wallpaper collections by:
   - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - [MPD](https://github.com/MusicPlayerDaemon/MPD) - Featureful ncurses based MPD client.
   - [spotify-tui](https://github.com/Rigellute/spotify-tui)<sup>Spotify</sup> - Spotify for the terminal written in Rust.
   - [spotify_player](https://github.com/aome510/spotify-player)<sup>Spotify</sup> - Spotify player in the terminal with full feature parity.
-- System Monitoring
+#### System Monitoring
   - [btop](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
   - [htop](https://github.com/htop-dev/htop) - Interactive process viewer.
   - [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system.
   - [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility.
-- Mail Clients
+#### Mail Client
   - [mutt](https://gitlab.com/muttmua/mutt) - Text-based mail client renowned for its powerful features.
-- Screenshot
+#### Screenshot
   - [scrot](https://github.com/resurrecting-open-source-projects/scrot) - Command line screen capture utility.
-- Recording
+#### Recording
   - [wf-recorder](https://github.com/ammen99/wf-recorder)<sup>Wayland</sup> - Utility program for screen recording.
-- Directory Listing
+#### Directory Listing
   - [exa](https://github.com/ogham/exa) - Modern replacement for `ls`.
   - [lsd](https://github.com/Peltoche/lsd) - The next gen `ls` command.
   - [Color LS](https://github.com/athityakumar/colorls) - Ruby gem that beautifies the terminal's `ls` command with color and font-awesome icons.
   - [logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern `ls` command with vscode like file icons and `git` integrations.
-- Misc
+#### Misc
   - [evillimiter](https://github.com/bitbrute/evillimiter) - Tool that monitors, analyzes and limits the bandwidth of devices on the local network without administrative access.
   - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
   - [nvm](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions.
-  - [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
-  - [ncdu](https://code.blicky.net/yorhel/ncdu) - A disk usage analyzer with an ncurses interface.
+  - [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - Shell script which checks your $HOME for unwanted files and directories.
+  - [ncdu](https://code.blicky.net/yorhel/ncdu) - Disk usage analyzer with an ncurses interface.
   - [arch-update](https://github.com/Antiz96/arch-update) - An update applier for Arch Linux that assists you with important pre/post update tasks.
 - more:
   - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
   - [awesome-shell](https://github.com/alebcay/awesome-shell)
 
-### Fetch
+### Fancies
+
+#### Fetch
 
 - [neofetch](https://github.com/dylanaraps/neofetch) - Command-line system information tool written in bash.
   - [neofetch-themes](https://github.com/Chick2D/neofetch-themes) - Collection of themes for `neofetch`.
@@ -468,12 +487,10 @@ Some great GitHub repos with wallpaper collections by:
 - [macchina](https://github.com/Macchina-CLI/macchina/) - System information frontend with an emphasis on performance.
 - [hyfetch](https://github.com/hykilpikonna/hyfetch) - `neofetch` with LGBTQ+ pride flags.
 
-### Fancies
-
 #### Terminal Visuals
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai) - Grow bonsai trees in your terminal.
-- [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - A collection of terminal color scripts.
+- [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - Collection of terminal color scripts.
 - [Asciiquarium](https://github.com/cmatsuoka/asciiquarium) - Enjoy the mysteries of the sea from the safety of your own terminal!
 - [ascii-rain](https://github.com/nkleemann/ascii-rain) - Ncurses rain effect.
 - [Nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences.
@@ -483,13 +500,13 @@ Some great GitHub repos with wallpaper collections by:
 
 #### Clock
 - [tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses.
-- [Peaclock](https://github.com/octobanana/peaclock) - A responsive and customizable clock for the terminal.
+- [Peaclock](https://github.com/octobanana/peaclock) - Responsive and customizable clock for the terminal.
 
 #### Audio Visualizer
 - [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer.
 - [Musializer](https://github.com/tsoding/musializer) - Music Visualizer.
-- [ReVidia](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) - A highly customizable real time audio visualizer.
-- [ReCidia](https://github.com/GhostNaN/recidia-audio-visualizer) - A highly customizable real time audio visualizer on Linux.
+- [ReVidia](https://github.com/GhostNaN/ReVidia-Audio-Visualizer) - Highly customizable real time audio visualizer.
+- [ReCidia](https://github.com/GhostNaN/recidia-audio-visualizer) - Highly customizable real time audio visualizer on Linux.
 
 #### Matrix
 - [CMatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation.
@@ -497,7 +514,7 @@ Some great GitHub repos with wallpaper collections by:
 - [unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal.
 
 #### Character Play
-- [cowsay](https://github.com/piuccio/cowsay) - A configurable talking cow.
+- [cowsay](https://github.com/piuccio/cowsay) - Configurable talking cow.
 - [lovesay](https://github.com/dotzenith/lovesay.rs) - Cowsay, but full of love.
 - [ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay.
 - [boxes](https://github.com/ascii-boxes/boxes/) - Command line ASCII boxes unlimited!
@@ -505,8 +522,8 @@ Some great GitHub repos with wallpaper collections by:
 
 #### Pokemon-Themed
 - [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - CLI utility to print out images of pokemon to terminal.
-- [pokeget-rs](https://github.com/talwat/pokeget-rs) - A bash script you can use to display cool sprites of pokemon in your terminal.
-- [pokeshell](https://github.com/acxz/pokeshell) - A featureful shell program to show pokemon sprites in the terminal.
+- [pokeget-rs](https://github.com/talwat/pokeget-rs) - Bash script you can use to display cool sprites of pokemon in your terminal.
+- [pokeshell](https://github.com/acxz/pokeshell) - Featureful shell program to show pokemon sprites in the terminal.
 - [krabby](https://github.com/yannjor/krabby) - Print pokemon sprites in your terminal.
 - [Poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.
 
@@ -589,31 +606,36 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Workstation - Content Creation
 
-- Image Editing
+#### Image Editing
   - [GIMP](https://gitlab.gnome.org/GNOME/gimp) - GNU Image Manipulation Program.
   - [krita](https://github.com/KDE/krita) - Digital painting and illustration application.
   - [Inkscape](https://gitlab.com/inkscape/inkscape) - Professional vector graphics editor.
-- Video Editing
+
+#### Video Editing
   - [Kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks.
   - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional video editing software.
   - [Olive](https://github.com/olive-editor/olive) - Free non-linear video editor.
-- Music Production
+
+#### Music Production
   - [Blue](https://github.com/kunstmusik/blue) - Integrated Music Environment.
   - [MuseScore](https://github.com/musescore/MuseScore) - Οpen source and free music notation software.
   - [Ardour](https://ardour.org/) - Hard disk recorder and digital audio workstation application.
   - [reaper](https://www.reaper.fm/) - Digital audio workstation, MIDI sequencer and video editing software application.
   - [lmms](https://github.com/lmms/lmms) - Cross-platform music production software.
   - [Bitwig](https://www.bitwig.com/) - Digital audio workstation (DAW) and music production software.
-- 3D
+
+#### 3D
   - [blender](https://github.com/blender/blender) - Popular free and open-source 3D computer graphics software toolset.
   - [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Open-source parametric 3D CAD modeler.
   - [wings](https://github.com/dgud/wings) - Advanced sub-division 3D modeler.
   - [MeshLab](https://github.com/cnr-isti-vclab/meshlab) - Open source mesh processing system.
-- Office
+
+#### Office
   - [LibreOffice](https://www.libreoffice.org/) - Free and open-source office productivity software suite.
   - [OnlyOffice](https://www.onlyoffice.com/) - Free software office suite and ecosystem of collaborative applications.
   - [OpenOffice](https://www.openoffice.org/) - Free and open-source office suite.
-- Screen Recording / Live Streaming
+
+#### Screen Recording / Live Streaming
   - [OBS Studio](https://github.com/obsproject/obs-studio) - Open Broadcaster Software.
   - [ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, screen recorder for Linux.
   - [kazam](https://github.com/henrywoo/kazam) - Linux Screen Recorder, Broadcaster, Capture and OCR with AI in mind.
@@ -630,7 +652,7 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Firefox
 
-- Themes
+#### Themes
   - [Sweet](https://github.com/EliverLara/firefox-sweet-theme)
   - [Nord](https://github.com/EliverLara/firefox-nordic-theme)
   - [Cascade](https://github.com/andreasgrafen/cascade)
@@ -641,7 +663,8 @@ Some great GitHub repos with wallpaper collections by:
   - [SimpleFox](https://github.com/migueravila/SimpleFox)
   - [ShyFox](https://github.com/Naezr/ShyFox)
   - [AnimatedFox](https://github.com/RemyIsCool/AnimatedFox)
-- Startpage
+
+#### Startpage
   - [dawn](https://github.com/b-coimbra/dawn)
   - [Excalith](https://github.com/excalith/excalith-start-page)
   - [yags](https://github.com/PrettyCoffee/yet-another-generic-startpage)
@@ -664,7 +687,8 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Discord
 
-- [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - [themes](https://betterdiscord.app/themes)
+- [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
+  - [themes](https://betterdiscord.app/themes)
 - [Vencord](https://github.com/Vendicated/Vencord)
 
 ### VSCode
