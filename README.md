@@ -589,24 +589,34 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Workstation - Content Creation
 
-- Image Editor
-  - [GIMP](https://gitlab.gnome.org/GNOME/gimp)
-- Video Editor
-  - [Kdenlive](https://invent.kde.org/multimedia/kdenlive)
-  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- Image Editing
+  - [GIMP](https://gitlab.gnome.org/GNOME/gimp) - GNU Image Manipulation Program.
+  - [krita](https://github.com/KDE/krita) - Digital painting and illustration application.
+  - [Inkscape](https://gitlab.com/inkscape/inkscape) - Professional vector graphics editor.
+- Video Editing
+  - [Kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks.
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Professional video editing software.
+  - [Olive](https://github.com/olive-editor/olive) - Free non-linear video editor.
 - Music Production
-  - [Blue](https://github.com/kunstmusik/blue)
-  - [MuseScore](https://github.com/musescore/MuseScore)
-  - [Ardour](https://ardour.org/)
-  - [reaper](https://www.reaper.fm/)
-  - [lmms](https://github.com/lmms/lmms)
-  - [Bitwig](https://www.bitwig.com/)
+  - [Blue](https://github.com/kunstmusik/blue) - Integrated Music Environment.
+  - [MuseScore](https://github.com/musescore/MuseScore) - Οpen source and free music notation software.
+  - [Ardour](https://ardour.org/) - Hard disk recorder and digital audio workstation application.
+  - [reaper](https://www.reaper.fm/) - Digital audio workstation, MIDI sequencer and video editing software application.
+  - [lmms](https://github.com/lmms/lmms) - Cross-platform music production software.
+  - [Bitwig](https://www.bitwig.com/) - Digital audio workstation (DAW) and music production software.
 - 3D
-  - [blender](https://github.com/blender/blender)
+  - [blender](https://github.com/blender/blender) - Popular free and open-source 3D computer graphics software toolset.
+  - [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Open-source parametric 3D CAD modeler.
+  - [wings](https://github.com/dgud/wings) - Advanced sub-division 3D modeler.
+  - [MeshLab](https://github.com/cnr-isti-vclab/meshlab) - Open source mesh processing system.
 - Office
-  - [LibreOffice](https://github.com/LibreOffice/core)
+  - [LibreOffice](https://www.libreoffice.org/) - Free and open-source office productivity software suite.
+  - [OnlyOffice](https://www.onlyoffice.com/) - Free software office suite and ecosystem of collaborative applications.
+  - [OpenOffice](https://www.openoffice.org/) - Free and open-source office suite.
 - Screen Recording / Live Streaming
-  - [OBS Studio](https://github.com/obsproject/obs-studio)
+  - [OBS Studio](https://github.com/obsproject/obs-studio) - Open Broadcaster Software.
+  - [ssr](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, screen recorder for Linux.
+  - [kazam](https://github.com/henrywoo/kazam) - Linux Screen Recorder, Broadcaster, Capture and OCR with AI in mind.
 
 ### Gaming
 
