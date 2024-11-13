@@ -487,6 +487,7 @@ Some great GitHub repos with wallpaper collections by:
 - [nitch](https://github.com/ssleert/nitch) - Incredibly fast system fetch written in nim.
 - [macchina](https://github.com/Macchina-CLI/macchina/) - System information frontend with an emphasis on performance.
 - [hyfetch](https://github.com/hykilpikonna/hyfetch) - `neofetch` with LGBTQ+ pride flags.
+- [catnap](https://github.com/iinsertNameHere/catnap) - Highly customizable systemfetch written in nim.
 
 #### Terminal Visuals
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
