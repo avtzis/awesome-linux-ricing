@@ -304,6 +304,7 @@ Some great GitHub repos with wallpaper collections by:
 - [Flat Remix](https://github.com/daniruiz/Flat-Remix) - Icon theme inspired by material design.
 - [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) - Colorful design icon theme.
 - [Colloid](https://github.com/vinceliuice/Colloid-icon-theme) - Icon theme with a colorful and playful design.
+- [suru-plus](https://github.com/gusbemacbe/suru-plus) - Cyberpunk, elegant, futuristic and Papirus-like third-party icons theme.
 
 
 ## Application Launcher
