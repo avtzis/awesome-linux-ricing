@@ -15,7 +15,7 @@
 
 ## Description
 
-This very cool list is made to help anyone interested in extensively customizing their Linux desktop, or what we call 'ricing'. It's a very good place to start your adventure, helping you discover what you can use, or what **ELSE** you can use to over-customize your rice. The goal is to have some of the very popular themes and tools, as well as some lesser-known ones, to help you find that perfect fit. It's your go-to list when you need to waste your time ricing, instead of tendign to your responsibilities.
+This very **AWESOME** list is made to help anyone interested in extensively customizing their Linux desktop, or what we call 'ricing'. It's a very good place to start your adventure, helping you discover what you can use, or what **ELSE** you can use to over-customize your rice. The goal is to have some of the very popular themes and tools, as well as some lesser-known ones, to help you find that perfect fit. It's your go-to list when you need to waste your time ricing, instead of tendign to your responsibilities.
 
 
 ## Contents
@@ -436,7 +436,7 @@ Some great GitHub repos with wallpaper collections by:
   - [vim](https://github.com/vim/vim) - Highly configurable text editor built to enable efficient text editing.
   - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
   - [nano](https://github.com/madnight/nano) - Simple and easy-to-use text editor.
-  - [Helix](https://github.com/helix-editor/helix) - A post-modern text editor.
+  - [Helix](https://github.com/helix-editor/helix) - Post-modern text editor.
   - [micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
   - [kakoune](https://github.com/mawww/kakoune) - Modal editor with multiple selections and orthogonal design.
 #### Image Printing
@@ -529,7 +529,7 @@ Some great GitHub repos with wallpaper collections by:
 
 #### Pokemon-Themed
 - [pokemon-colorscripts](https://gitlab.com/phoneybadger/pokemon-colorscripts) - CLI utility to print out images of pokemon to terminal.
-- [pokeget-rs](https://github.com/talwat/pokeget-rs) - Bash script you can use to display cool sprites of pokemon in your terminal.
+- [pokeget-rs](https://github.com/talwat/pokeget-rs) - Bash script you can use to display **AWESOME** sprites of pokemon in your terminal.
 - [pokeshell](https://github.com/acxz/pokeshell) - Featureful shell program to show pokemon sprites in the terminal.
 - [krabby](https://github.com/yannjor/krabby) - Print pokemon sprites in your terminal.
 - [Poketex](https://github.com/ckaznable/poketex) - Simple Pokedex based on TUI.

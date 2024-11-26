@@ -54,7 +54,7 @@ A simple guide for pull requests:
 
 Any item related to ricing, that:
   - Works on Linux
-  - Is cool and sexy
+  - Is **AWESOME** and sexy
   - Is helpful and useful
   - You made and want to share
   - You saw on [r/unixporn](https://www.reddit.com/r/unixporn/)
