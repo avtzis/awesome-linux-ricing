@@ -650,11 +650,13 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Gaming
 
-- [Steam](https://store.steampowered.com/about/)
-- [Lutris](https://github.com/lutris/lutris)
-- [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
-- [Cartridges](https://github.com/kra-mo/cartridges)
+- [Steam](https://store.steampowered.com/about/) - Digital distribution platform and games launcher that allows games to run through Proton.
+- [Lutris](https://github.com/lutris/lutris) - Game Launcher that helps you manage, install and play games from all eras and from most gaming systems.
+- [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Games launcher for GOG, Amazon and Epic Games.
+- [Cartridges](https://github.com/kra-mo/cartridges) - Easy-to-use, elegant game launcher.
 
+> [!TIP]
+> Check out [r/linux_gaming](https://www.reddit.com/r/linux_gaming/) for guides and information.
 
 ## GUI Apps Ricing
 
@@ -704,7 +706,7 @@ Some great GitHub repos with wallpaper collections by:
 - [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) - Clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 - [Dracula](https://github.com/dracula/visual-studio-code) - Dracula for VSCode.
 - [Material Theme](https://github.com/material-theme/vsc-material-theme) - The most epic theme for VSC.
-- [Night Owl](https://github.com/sdras/night-owl-vscode-theme) - dark theme for contrast for nighttime coding.
+- [Night Owl](https://github.com/sdras/night-owl-vscode-theme) - Dark theme for contrast for nighttime coding.
 
 
 ## Display Manager
