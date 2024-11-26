@@ -701,6 +701,9 @@ Some great GitHub repos with wallpaper collections by:
 ### VSCode
 
 - [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) - Clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
+- [Dracula](https://github.com/dracula/visual-studio-code) - Dracula for VSCode.
+- [Material Theme](https://github.com/material-theme/vsc-material-theme) - The most epic theme for VSC.
+- [Night Owl](https://github.com/sdras/night-owl-vscode-theme) - dark theme for contrast for nighttime coding.
 
 
 ## Display Manager
