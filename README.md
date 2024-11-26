@@ -143,6 +143,7 @@ This very cool list is made to help anyone interested in extensively customizing
 - [i3](https://github.com/i3/i3)<sup>X11</sup> - Tiling window manager for X11.
 - [sway](https://github.com/swaywm/sway)<sup>Wayland</sup> - Tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm)<sup>X11</sup> - Manual tiling window manager for X.
+- [leftwm](https://github.com/leftwm/leftwm)<sup>X11</sup> - Tiling window manager written in Rust for advanced.
 
 
 ### Dynamic
@@ -429,6 +430,7 @@ Some great GitHub repos with wallpaper collections by:
     - [devicons](https://github.com/alexanderjeurissen/ranger_devicons) - File glyphs / icon support to Ranger.
   - [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust.
   - [superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager.
+  - [nnn](https://github.com/jarun/nnn) - Tiny, small and incredibly fast file manager for the terminal.
 #### Editor
   - [vim](https://github.com/vim/vim) - Highly configurable text editor built to enable efficient text editing.
   - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
@@ -504,6 +506,7 @@ Some great GitHub repos with wallpaper collections by:
 #### Clock
 - [tty-clock](https://github.com/xorg62/tty-clock) - Clock using lib ncurses.
 - [Peaclock](https://github.com/octobanana/peaclock) - Responsive and customizable clock for the terminal.
+- [tenki](https://github.com/ckaznable/tenki) - tty-clock with weather effect
 
 #### Audio Visualizer
 - [CAVA](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer.
@@ -604,6 +607,7 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Notes
 
+- [AppFlowy](https://appflowy.io/)
 - [Obsidian](https://obsidian.md/)
 
 
