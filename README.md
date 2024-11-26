@@ -88,9 +88,9 @@ This very cool list is made to help anyone interested in extensively customizing
     - [Office](#office)
     - [Screen Recording / Live Streaming](#screen-recording--live-streaming)
   - [Gaming](#gaming)
-- [App Theming](#app-theming)
+- [GUI Apps Ricing](#gui-apps-ricing)
   - [Firefox](#firefox)
-    - [Themes](#themes)
+    - [Theme](#theme)
     - [Startpage](#startpage)
   - [Spotify](#spotify)
   - [Discord](#discord)
@@ -655,29 +655,29 @@ Some great GitHub repos with wallpaper collections by:
 - [Cartridges](https://github.com/kra-mo/cartridges)
 
 
-## App Theming
+## GUI Apps Ricing
 
 ### Firefox
 
-#### Themes
-  - [Sweet](https://github.com/EliverLara/firefox-sweet-theme)
-  - [Nord](https://github.com/EliverLara/firefox-nordic-theme)
-  - [Cascade](https://github.com/andreasgrafen/cascade)
-  - [Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
-  - [Onebar](https://codeberg.org/Freeplay/Firefox-Onebar)
-  - [penguinFox](https://github.com/p3nguin-kun/penguinFox)
-  - [FlyingFox](https://github.com/akshat46/FlyingFox)
-  - [SimpleFox](https://github.com/migueravila/SimpleFox)
-  - [ShyFox](https://github.com/Naezr/ShyFox)
-  - [AnimatedFox](https://github.com/RemyIsCool/AnimatedFox)
+#### Theme
+  - [Sweet](https://github.com/EliverLara/firefox-sweet-theme) - Dark and modern theme for firefox with vibrant colors.
+  - [Nord](https://github.com/EliverLara/firefox-nordic-theme) - Dark theme for firefox theme created using the awesome Nord color palette.
+  - [Cascade](https://github.com/andreasgrafen/cascade) - Responsive One-Line CSS Theme for Firefox.
+  - [Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - For dark theme lovers / More compact / Modular / Blur.
+  - [Onebar](https://codeberg.org/Freeplay/Firefox-Onebar) - Single bar for Firefox's UI.
+  - [penguinFox](https://github.com/p3nguin-kun/penguinFox) - Firefox with better UI.
+  - [FlyingFox](https://github.com/akshat46/FlyingFox) - Opinionated set of configurations for firefox.
+  - [SimpleFox](https://github.com/migueravila/SimpleFox) - Userstyle theme for Firefox minimalist and Keyboard centered.
+  - [ShyFox](https://github.com/Naezr/ShyFox) - Very shy little theme that hides the entire browser interface in the window border.
+  - [AnimatedFox](https://github.com/RemyIsCool/AnimatedFox) - Minimal Firefox theme with a hidden popup URL bar and satisfying animations
 
 #### Startpage
-  - [dawn](https://github.com/b-coimbra/dawn)
-  - [Excalith](https://github.com/excalith/excalith-start-page)
-  - [yags](https://github.com/PrettyCoffee/yet-another-generic-startpage)
-  - [Bento-next](https://github.com/lewisdoesstuff/bento-next)
-  - [Starter Tab](https://github.com/allister-grange/startertab)
-  - [nightTab](https://github.com/zombieFox/nightTab)
+  - [dawn](https://github.com/b-coimbra/dawn) - Minimal modern startpage.
+  - [Excalith](https://github.com/excalith/excalith-start-page) - Terminal-inspired, clean, feature-rich and customizable browser start page.
+  - [yags](https://github.com/PrettyCoffee/yet-another-generic-startpage) - Yet Another Generic Startpage.
+  - [Bento-next](https://github.com/lewisdoesstuff/bento-next) - Fork of Bento written in Vue 3 with TailwindCSS and Typescript.
+  - [Starter Tab](https://github.com/allister-grange/startertab) - Custom new tab page, keeping all the best info handy.
+  - [nightTab](https://github.com/zombieFox/nightTab) - Neutral new tab page accented with a chosen colour.
 
 
 ### Spotify
@@ -694,13 +694,13 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Discord
 
-- [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord)
-  - [themes](https://betterdiscord.app/themes)
-- [Vencord](https://github.com/Vendicated/Vencord)
+- [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Client modification for Discord with endless flexibility and addons.
+  - [Themes](https://betterdiscord.app/themes) - Collection of themes for BetterDiscord.
+- [Vencord](https://github.com/Vendicated/Vencord) - Cutest Discord client mod.
 
 ### VSCode
 
-- [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme)
+- [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme) - Clean, dark Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.
 
 
 ## Display Manager
