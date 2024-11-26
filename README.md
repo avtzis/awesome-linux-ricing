@@ -708,21 +708,34 @@ Some great GitHub repos with wallpaper collections by:
 
 ## Display Manager
 
-- [sddm](https://github.com/sddm/sddm)
-  - [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark)
-  - [Tokyo Night](https://github.com/rototrash/tokyo-night-sddm)
-  - [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy)
-  - [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark)
-  - [LentenRose](https://github.com/theoisdumb/lentenrose)
-  - [corners](https://github.com/aczw/sddm-theme-corners)
-  - [sddm-themes](https://github.com/Rokin05/SDDM-Themes)
-  - [deepin](https://github.com/Match-Yang/sddm-deepin)
-  - [astronaut](https://github.com/Keyitdev/sddm-astronaut-theme)
-- [lightdm](https://github.com/canonical/lightdm)
-  - [Shikai](https://github.com/TheWisker/Shikai)
-  - [Web Greeter](https://github.com/JezerM/web-greeter)
-- [gdm](https://gitlab.gnome.org/GNOME/gdm)
-- [ly](https://github.com/fairyglade/ly)
+<details>
+  <summary><b>What is a Display Manager</b></summary>
+  <p>A display manager is a daemon that:</p>
+  <ul>
+    <li>Runs display servers (e.g. X) where necessary.</li>
+    <li>Runs greeters to allow users to pick which user account and session type to use.</li>
+    <li>Allows greeters to perform authentication using PAM.</li>
+    <li>Runs session processes once authentication is complete.</li>
+    <li>Provides remote graphical login options.</li>
+  </ul>
+  In short, it's your login screen.
+</details>
+<br/>
+
+- [sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager.
+  - [Sugar Dark](https://github.com/MarianArlt/sddm-sugar-dark) - The sweetest dark theme around for SDDM.
+  - [Tokyo Night](https://github.com/rototrash/tokyo-night-sddm) - Tokyo Night theme for SDDM.
+  - [Sugar Candy](https://framagit.org/MarianArlt/sddm-sugar-candy) - The sweetest login theme available for SDDM. It's so sweet it may cause you diabetes.
+  - [LentenRose](https://github.com/theoisdumb/lentenrose) - Dark theme for SDDM, made with QML.
+  - [corners](https://github.com/aczw/sddm-theme-corners) - Customizable SDDM theme that puts stuff on your screen corners.
+  - [sddm-themes](https://github.com/Rokin05/SDDM-Themes) - Dynamics and highly customizable themes build from scratch for SDDM.
+  - [deepin](https://github.com/Match-Yang/sddm-deepin) - Deepin style SDDM theme.
+  - [astronaut](https://github.com/Keyitdev/sddm-astronaut-theme) - Modern looking sddm qt6 theme.
+- [lightdm](https://github.com/canonical/lightdm) - Lightweight, cross-desktop display manager.
+  - [Shikai](https://github.com/TheWisker/Shikai) - Modern lightdm webkit2 theme.
+  - [Web Greeter](https://github.com/JezerM/web-greeter) - Modern, visually appealing greeter for LightDM.
+- [gdm](https://gitlab.gnome.org/GNOME/gdm) - GNOME Display Manager.
+- [ly](https://github.com/fairyglade/ly) - Display manager with console UI.
 
 
 ## GRUB
