@@ -53,6 +53,7 @@ This very cool list is made to help anyone interested in extensively customizing
     - [File Manager](#file-manager)
     - [Editor](#editor)
     - [Image Printing](#image-printing)
+    - [Music Players](#music-players)
     - [System Monitoring](#system-monitoring)
     - [Mail Client](#mail-client)
     - [Screenshot](#screenshot)
@@ -68,7 +69,7 @@ This very cool list is made to help anyone interested in extensively customizing
     - [Character Play](#character-play)
     - [Pokemon-Themed](#pokemon-themed)
     - [Text and Fonts](#text-and-fonts)
-- [UI Apps/Tools](#ui-appstools)
+- [GUI Apps](#gui-apps)
   - [Web Browser](#web-browser)
   - [File Manager](#file-manager-1)
   - [Image Viewer](#image-viewer)
@@ -442,7 +443,7 @@ Some great GitHub repos with wallpaper collections by:
   - [timg](https://github.com/hzeller/timg) - User-friendly terminal image viewer that uses graphic capabilities of terminals.
   - [catimg](https://github.com/posva/catimg) - Insanely fast image printing in your terminal.
   - [imcat](https://github.com/stolk/imcat) - Show any image in a terminal window.
-- Music Players
+#### Music Players
   - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player.
   - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - [MPD](https://github.com/MusicPlayerDaemon/MPD) - Featureful ncurses based MPD client.
   - [spotify-tui](https://github.com/Rigellute/spotify-tui)<sup>Spotify</sup> - Spotify for the terminal written in Rust.
@@ -469,7 +470,7 @@ Some great GitHub repos with wallpaper collections by:
   - [nvm](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions.
   - [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - Shell script which checks your $HOME for unwanted files and directories.
   - [ncdu](https://code.blicky.net/yorhel/ncdu) - Disk usage analyzer with an ncurses interface.
-  - [arch-update](https://github.com/Antiz96/arch-update) - An update applier for Arch Linux that assists you with important pre/post update tasks.
+  - [arch-update](https://github.com/Antiz96/arch-update) - Update applier for Arch Linux that assists you with important pre/post update tasks.
 - more:
   - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
   - [awesome-shell](https://github.com/alebcay/awesome-shell)
@@ -541,7 +542,7 @@ Some great GitHub repos with wallpaper collections by:
 
 
 
-## UI Apps/Tools
+## GUI Apps
 
 ### Web Browser
 
