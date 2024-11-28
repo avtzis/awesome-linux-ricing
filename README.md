@@ -546,70 +546,70 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Web Browser
 
-- [Firefox](https://www.mozilla.org/firefox)
-- [chromium](https://github.com/chromium/chromium)
-- [Brave](https://github.com/brave/brave-browser)
-- [Tor](https://www.torproject.org/)
-- [thorium](https://github.com/Alex313031/Thorium)
-- [Floorp](https://github.com/Floorp-Projects/Floorp/)
+- [Firefox](https://www.mozilla.org/firefox) - Free and Open Source web browser focused on privacy, security and customization.
+- [chromium](https://github.com/chromium/chromium) - Open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
+- [Brave](https://brave.com/)<sup>Chromium</sup> - privacy-focused browser, which automatically blocks most advertisements and website trackers in its default settings.
+- [Tor](https://www.torproject.org/)<sup>Firefox</sup> - Web browser capable of accessing the Tor network.
+- [thorium](https://github.com/Alex313031/Thorium)<sup>Chromium</sup> - Chromium fork for linux named after radioactive element No. 90.
+- [Floorp](https://github.com/Floorp-Projects/Floorp/)<sup>Firefox</sup> - Browser built for keeping the Open, Private and Sustainable Web alive.
 
 ### File Manager
 
-- [Nemo](https://github.com/linuxmint/nemo)
-- [Nautilus](https://gitlab.gnome.org/GNOME/nautilus)
-- [Dolphin](https://invent.kde.org/system/dolphin)
-- [thunar](https://gitlab.xfce.org/xfce/thunar)
-- [PCmanFM](https://github.com/lxde/pcmanfm)
+- [Nemo](https://github.com/linuxmint/nemo) - Default file browser for Cinnamon.
+- [Nautilus](https://gitlab.gnome.org/GNOME/nautilus) - Default file browser for GNOME.
+- [Dolphin](https://invent.kde.org/system/dolphin) - Default file browser for KDE.
+- [thunar](https://gitlab.xfce.org/xfce/thunar) - Default file browser for Xfce.
+- [PCmanFM](https://github.com/lxde/pcmanfm) - Extremely fast and lightweight file manager.
 
 ### Image Viewer
 
-- [imv](https://git.sr.ht/~exec64/imv)
-- [feh](https://github.com/derf/feh)
-- [Eye of GNOME](https://gitlab.gnome.org/GNOME/eog)
+- [imv](https://git.sr.ht/~exec64/imv) - Simple image viewer for tiling window managers.
+- [feh](https://github.com/derf/feh) - Fast and light image viewer.
+- [Eye of GNOME](https://gitlab.gnome.org/GNOME/eog) - Default image viewer for GNOME.
 
 ### Music Player
 
-- [Amberol](https://gitlab.gnome.org/World/amberol)
-- [DeaDBeeF](https://github.com/DeaDBeeF-Player/deadbeef)
-- [Sunamu](https://github.com/NyaomiDEV/Sunamu)
-- [feishin](https://github.com/jeffvli/feishin)
-- [G4Music](https://github.com/neithern/g4music)
-- [lyssa](https://github.com/cococry/lyssa)
+- [Amberol](https://gitlab.gnome.org/World/amberol) - Music player with no delusions of grandeur.
+- [DeaDBeeF](https://github.com/DeaDBeeF-Player/deadbeef) - Multiple-platform music player.
+- [Sunamu](https://github.com/NyaomiDEV/Sunamu) - Fancy music controller whose only purpose is to look as fancy as possible on secondary displays.
+- [feishin](https://github.com/jeffvli/feishin) - Modern self-hosted music player.
+- [G4Music](https://github.com/neithern/g4music) - Light weight music player written in GTK4, with a fluent adaptive user interface.
+- [lyssa](https://github.com/cococry/lyssa) - Aestethic, minimal, suckless music player.
 
 ### Video Streamer
 
-- [VLC](https://github.com/videolan/vlc)
-- [mpv](https://github.com/mpv-player/mpv)
+- [VLC](https://github.com/videolan/vlc) - Open source media player and multimedia engine, focused on playing everything, and running everywhere.
+- [mpv](https://github.com/mpv-player/mpv) - Command line video player.
 
 ### Document Reader
 
-- [zathura](https://git.pwmt.org/pwmt/zathura)
-- [Bookworm](https://github.com/babluboy/bookworm)
+- [zathura](https://github.com/pwmt/zathura) - Highly customizable and functional document viewer.
+- [Bookworm](https://github.com/babluboy/bookworm) - Simple ebook reader for Elementary OS.
 
 ### Text Editor
 
-- [gedit](https://gitlab.gnome.org/GNOME/gedit)
-- [geany](https://github.com/geany/geany)
-- [kate](https://github.com/KDE/kate)
-- [vscodium](https://github.com/VSCodium/vscodium)
+- [gedit](https://gitlab.gnome.org/GNOME/gedit) - Default text editor for GNOME.
+- [geany](https://github.com/geany/geany) - Lightweight and fast IDE.
+- [kate](https://github.com/KDE/kate) - Modern text editor built on the KDE Frameworks and Qt.
+- [vscodium](https://github.com/VSCodium/vscodium) - Binary releases of VS Code without MS branding/telemetry/licensing.
 
 ### Archive Manager
 
-- [File Roller](https://gitlab.gnome.org/GNOME/file-roller)
+- [File Roller](https://gitlab.gnome.org/GNOME/file-roller) - Archive manager for GNOME.
 
 ### Email
 
-- [Thunderbird](https://github.com/mozilla/releases-comm-central)
+- [Thunderbird](https://github.com/mozilla/releases-comm-central) - Powerful and customizable open source email client with lots of users.
 
 ### Calculator
 
-- [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator)
+- [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - Default calculator for GNOME.
 
 
 ### Notes
 
-- [AppFlowy](https://appflowy.io/)
-- [Obsidian](https://obsidian.md/)
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AI collaborative workspace where you achieve more without losing control of your data.
+- [Obsidian](https://obsidian.md/) - Personal knowledge base and note-taking software application that operates on Markdown files.
 
 
 ### Workstation - Content Creation
@@ -626,7 +626,7 @@ Some great GitHub repos with wallpaper collections by:
 
 #### Music Production
   - [Blue](https://github.com/kunstmusik/blue) - Integrated Music Environment.
-  - [MuseScore](https://github.com/musescore/MuseScore) - Οpen source and free music notation software.
+  - [MuseScore](https://github.com/musescore/MuseScore) - Open source and free music notation software.
   - [Ardour](https://ardour.org/) - Hard disk recorder and digital audio workstation application.
   - [reaper](https://www.reaper.fm/) - Digital audio workstation, MIDI sequencer and video editing software application.
   - [lmms](https://github.com/lmms/lmms) - Cross-platform music production software.
