@@ -156,6 +156,7 @@ This very **AWESOME** list is made to help anyone interested in extensively cust
 - [dwm](https://dwm.suckless.org/)<sup>X11</sup> - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts.
 - [river](https://github.com/riverwm/river)<sup>Wayland</sup> - Dynamic tiling Wayland compositor with flexible runtime configuration.
 - [ragnar](https://github.com/cococry/ragnar)<sup>X11</sup> - Minimal, flexible & user-friendly X tiling window manager.
+- [niri](https://github.com/YaLTeR/niri)<sup>Wayland</sup> - Scrollable-tiling Wayland compositor, heavily inspired by PaperWM.
 
 
 ## Color Scheme
