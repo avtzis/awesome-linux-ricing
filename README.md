@@ -461,7 +461,7 @@ Some great GitHub repos with wallpaper collections by:
 #### Recording
   - [wf-recorder](https://github.com/ammen99/wf-recorder)<sup>Wayland</sup> - Utility program for screen recording.
 #### Directory Listing
-  - [exa](https://github.com/ogham/exa) - Modern replacement for `ls`.
+  - [eza](https://github.com/eza-community/eza) - Modern alternative to `ls`.
   - [lsd](https://github.com/Peltoche/lsd) - The next gen `ls` command.
   - [Color LS](https://github.com/athityakumar/colorls) - Ruby gem that beautifies the terminal's `ls` command with color and font-awesome icons.
   - [logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern `ls` command with vscode like file icons and `git` integrations.
