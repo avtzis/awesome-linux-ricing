@@ -293,6 +293,7 @@ Some great GitHub repos with wallpaper collections by:
 - [Qogir](https://github.com/vinceliuice/Qogir-icon-theme) - Cursor inspired by Qogir icon theme.
 - [Apple](https://github.com/ful1e5/apple_cursor) - Cursor inspired by Apple's macOS.
 - [Fuchsia](https://github.com/ful1e5/fuchsia-cursor) - Cursor inspired by Google's FuchsiaOS.
+- [Vimix](https://github.com/vinceliuice/Vimix-cursors) - Cursor inspired by Material Design.
 
 ### Utilities
 
@@ -378,6 +379,7 @@ Some great GitHub repos with wallpaper collections by:
 - [st](https://github.com/siduck/st) - Snazzy terminal (suckless + beautiful)
 - [foot](https://codeberg.org/dnkl/foot) - Fast, lightweight and minimalistic Wayland terminal emulator.
 - [wezterm](https://github.com/wez/wezterm) - GPU-accelerated cross-platform terminal emulator and multiplexer.
+- [ghostty](https://github.com/ghostty-org/ghostty) - Fast, feature-rich, and cross-platform terminal emulator
 
 
 ### Shell
@@ -493,6 +495,7 @@ Some great GitHub repos with wallpaper collections by:
 - [macchina](https://github.com/Macchina-CLI/macchina/) - System information frontend with an emphasis on performance.
 - [hyfetch](https://github.com/hykilpikonna/hyfetch) - `neofetch` with LGBTQ+ pride flags.
 - [catnap](https://github.com/iinsertNameHere/catnap) - Highly customizable systemfetch written in nim.
+- [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch.
 
 #### Terminal Visuals
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
@@ -655,6 +658,7 @@ Some great GitHub repos with wallpaper collections by:
 - [Lutris](https://github.com/lutris/lutris) - Game Launcher that helps you manage, install and play games from all eras and from most gaming systems.
 - [Heroic](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Games launcher for GOG, Amazon and Epic Games.
 - [Cartridges](https://github.com/kra-mo/cartridges) - Easy-to-use, elegant game launcher.
+- [Rare](https://github.com/RareDevs/Rare) - Open source alternative for Epic Games Launcher.
 
 > [!TIP]
 > Check out [r/linux_gaming](https://www.reddit.com/r/linux_gaming/) for guides and information.
