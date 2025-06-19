@@ -570,6 +570,7 @@ Some great GitHub repos with wallpaper collections by:
 - [imv](https://git.sr.ht/~exec64/imv) - Simple image viewer for tiling window managers.
 - [feh](https://github.com/derf/feh) - Fast and light image viewer.
 - [Eye of GNOME](https://gitlab.gnome.org/GNOME/eog) - Default image viewer for GNOME.
+- [qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 
 ### Music Player
 
