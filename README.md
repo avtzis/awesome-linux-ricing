@@ -402,7 +402,7 @@ Some great GitHub repos with wallpaper collections by:
 
 <details>
   <summary><b>What is the prompt</b></summary>
-  <p>wip</p>
+  <p>A<b>prompt</b> is the text or symbol displayed by the shell that indicates it is ready to receive a command from the user. It usually appears before the command you type and can show information like your username, current directory, or computer name.</p>
 </details>
 <br/>
 
