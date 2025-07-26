@@ -368,7 +368,8 @@ Some great GitHub repos with wallpaper collections by:
 
 <details>
   <summary><b>Terminal Emulator vs Shell</b></summary>
-  <p>wip</p>
+  <p>A <b>Terminal Emulator</b> is software that emulates a physical terminal. It provides a graphical or text interface that allows you to interact with a shell. It provides output and input, but it doesn't interpret commands.</p>
+<p>A <b>Shell</b> is a command-line interpreter. It acts as a bridge between the user and the operating system. It reads, interprets, and executes the commands you type.</p>
 </details>
 <br/>
 
@@ -401,7 +402,7 @@ Some great GitHub repos with wallpaper collections by:
 
 <details>
   <summary><b>What is the prompt</b></summary>
-  <p>wip</p>
+  <p>A<b>prompt</b> is the text or symbol displayed by the shell that indicates it is ready to receive a command from the user. It usually appears before the command you type and can show information like your username, current directory, or computer name.</p>
 </details>
 <br/>
 
