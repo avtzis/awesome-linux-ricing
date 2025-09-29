@@ -386,6 +386,8 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Shell
 
+- [bash](https://www.gnu.org/software/bash/) - Default shell for most distros.
+  - [ble.sh](https://github.com/akinomyoga/ble.sh) - Line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash.
 - [zsh](https://zsh.sourceforge.io/) - Powerful shell with scripting capabilities.
   - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) - Delightful, open source, community-driven framework for managing your Zsh configuration.
   - [prezto](https://github.com/sorin-ionescu/prezto) - Popular configuration framework for Zsh.
@@ -412,6 +414,7 @@ Some great GitHub repos with wallpaper collections by:
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)<sup>zsh</sup> - Theme for zsh emphasizing speed, flexibility and out-of-the-box experience.
 - [Pure](https://github.com/sindresorhus/pure)<sup>zsh</sup> - Pretty, minimal and fast ZSH prompt.
 - [roundy](https://github.com/nullxception/roundy)<sup>zsh</sup> - Fast, cute, and-of-course, roundy prompt-theme for Zsh.
+- [trueline](https://github.com/petobens/trueline)<sup>bash</sup> - Fast and extensible bash powerline prompt with true color and fancy icon support.
 
 
 ### Multiplexer
