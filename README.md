@@ -679,7 +679,6 @@ Some great GitHub repos with wallpaper collections by:
   - [Cascade](https://github.com/andreasgrafen/cascade) - Responsive One-Line CSS Theme for Firefox.
   - [Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - For dark theme lovers / More compact / Modular / Blur.
   - [Onebar](https://codeberg.org/Freeplay/Firefox-Onebar) - Single bar for Firefox's UI.
-  - [penguinFox](https://github.com/p3nguin-kun/penguinFox) - Firefox with better UI.
   - [FlyingFox](https://github.com/akshat46/FlyingFox) - Opinionated set of configurations for firefox.
   - [SimpleFox](https://github.com/migueravila/SimpleFox) - Userstyle theme for Firefox minimalist and Keyboard centered.
   - [ShyFox](https://github.com/Naezr/ShyFox) - Very shy little theme that hides the entire browser interface in the window border.
