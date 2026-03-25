@@ -186,6 +186,7 @@ This very **AWESOME** list is made to help anyone interested in extensively cust
 
 ### Utilities
 
+- [Paletty](https://paletty.dev) - Create terminal color schemes that actually look good. Generate from scratch or extract from any image. Supports Ghostty, Kitty, Alacritty, WezTerm, and more.
 - [pywall](https://github.com/dylanaraps/pywal) - Generate and change color-schemes according to your wallpaper.
 - [wpgtk](https://github.com/deviantfero/wpgtk) - Colorscheme, wallpaper and template manager.
 
