@@ -210,7 +210,7 @@ Some great GitHub repos with wallpaper collections by:
 
 ### Utilities
 
-- [swww](https://github.com/Horus645/swww)<sup>Wayland</sup> - Efficient animated wallpaper daemon for wayland, controlled at runtime.
+- [awww](https://codeberg.org/LGFae/awww)<sup>Wayland</sup> - Efficient animated wallpaper daemon for wayland, controlled at runtime.
 - [mpvpaper](https://github.com/GhostNaN/mpvpaper)<sup>Wayland</sup> - Video wallpaper program for wlroots based wayland compositors.
 - [swaybg](https://github.com/swaywm/swaybg)<sup>Wayland</sup> - Wallpaper tool for Wayland compositors
 - [hyprpaper](https://github.com/hyprwm/hyprpaper)<sup>Wayland</sup> - Fast Wayland wallpaper utility with IPC controls.
