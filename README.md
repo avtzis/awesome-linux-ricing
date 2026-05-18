@@ -623,6 +623,7 @@ Some great GitHub repos with wallpaper collections by:
 
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AI collaborative workspace where you achieve more without losing control of your data.
 - [Obsidian](https://obsidian.md/) - Personal knowledge base and note-taking software application that operates on Markdown files.
+- [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad with Markdown preview, real PDF export via Typst, OCR via Tesseract, and automatic version history. Built with Tauri 2. Available on AUR.
 
 
 ### Workstation - Content Creation
