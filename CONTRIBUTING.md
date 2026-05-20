@@ -56,10 +56,14 @@ Any item related to ricing, that:
   - Works on Linux
   - Is **AWESOME** and sexy
   - Is helpful and useful
-  - You made and want to share
   - You saw on [r/unixporn](https://www.reddit.com/r/unixporn/)
+  - YOU made and want to share (project should be at least 4 month old to avoid slop)
 
 is very much welcome.
+
+Please. If you are a vibe coder, and want to share something AI generated to win points, please don't bother.
+
+---
 
 List items should be formmated like this:
 ```markdown
