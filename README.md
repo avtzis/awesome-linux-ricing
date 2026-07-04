@@ -204,7 +204,7 @@ Some great GitHub repos with wallpaper collections by:
 - [gboncoffee](https://github.com/gboncoffee/wallpapers)
 - [zDyanTB](https://github.com/zDyanTB/aesthetic-wallpapers)
 - [vctrblck](https://github.com/vctrblck/gruvbox-wallpapers)<sup>Gruvbox</sup>
-- [jorgeloopzz](https://github.com/jorgeloopzz/Wallpapers)
+- [jorgeloopzz](https://codeberg.org/jorgeloopzz/Wallpapers)
 - [Axenide](https://github.com/Axenide/Wallpapers)
 - [er2de2](https://github.com/er2de2/catppuccin_walls)<sup>Catppuccin</sup>
 
