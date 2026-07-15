@@ -505,6 +505,7 @@ Some great GitHub repos with wallpaper collections by:
 - [hyfetch](https://github.com/hykilpikonna/hyfetch) - `neofetch` with LGBTQ+ pride flags.
 - [catnap](https://github.com/iinsertNameHere/catnap) - Highly customizable systemfetch written in nim.
 - [freshfetch](https://github.com/K4rakara/freshfetch) - A fresh take on neofetch.
+- [fetch](https://github.com/areofyl/fetch) - A `neofetch` alternative with a 3D animated distro logo
 
 #### Terminal Visuals
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Animated pipes terminal screensaver.
