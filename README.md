@@ -188,6 +188,7 @@ This very **AWESOME** list is made to help anyone interested in extensively cust
 
 - [pywall](https://github.com/dylanaraps/pywal) - Generate and change color-schemes according to your wallpaper.
 - [wpgtk](https://github.com/deviantfero/wpgtk) - Colorscheme, wallpaper and template manager.
+- [Gtheme](https://github.com/daavidrgz/gtheme) - Command-line theme manager. Apply consistent themes across your terminal, editor, status bar, wallpaper, and WM with one command. 350+ themes, Rust.
 - [Paletty](https://paletty.dev) - Terminal color scheme generator and theme gallery. Generate from scratch, extract from image, or browse community themes. Exports to Ghostty, Alacritty, Kitty, WezTerm, iTerm2, and more.
 
 
