@@ -190,6 +190,7 @@ This very **AWESOME** list is made to help anyone interested in extensively cust
 - [wpgtk](https://github.com/deviantfero/wpgtk) - Colorscheme, wallpaper and template manager.
 - [Gtheme](https://github.com/daavidrgz/gtheme) - Command-line theme manager. Apply consistent themes across your terminal, editor, status bar, wallpaper, and WM with one command. 350+ themes, Rust.
 - [Paletty](https://paletty.dev) - Terminal color scheme generator and theme gallery. Generate from scratch, extract from image, or browse community themes. Exports to Ghostty, Alacritty, Kitty, WezTerm, iTerm2, and more.
+- [nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK settings editor heavily inspired in [LXAppearance](https://wiki.lxde.org/en/LXAppearance) with native support to work on Wayland environments.
 
 
 ## Wallpapers
@@ -216,6 +217,7 @@ Some great GitHub repos with wallpaper collections by:
 - [mpvpaper](https://github.com/GhostNaN/mpvpaper)<sup>Wayland</sup> - Video wallpaper program for wlroots based wayland compositors.
 - [swaybg](https://github.com/swaywm/swaybg)<sup>Wayland</sup> - Wallpaper tool for Wayland compositors
 - [hyprpaper](https://github.com/hyprwm/hyprpaper)<sup>Wayland</sup> - Fast Wayland wallpaper utility with IPC controls.
+- [Nitrogen](https://wiki.archlinux.org/title/Nitrogen) - Wallpaper setter for X window systems.
 
 
 ## Font
@@ -790,5 +792,3 @@ Quick note for beginners:
 Any helpful contribution is welcome, see [CONTRIBUTING](CONTRIBUTING.md).
 
 <!-- ### Thanks -->
-
-
