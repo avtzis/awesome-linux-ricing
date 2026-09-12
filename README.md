@@ -440,6 +440,7 @@ Some great GitHub repos with wallpaper collections by:
 ### Tools
 
 #### File Manager
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
   - [ranger](https://github.com/ranger/ranger) - VIM-inspired file manager for the console.
     - [devicons](https://github.com/alexanderjeurissen/ranger_devicons) - File glyphs / icon support to Ranger.
   - [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust.
