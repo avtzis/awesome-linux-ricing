@@ -365,6 +365,7 @@ Some great GitHub repos with wallpaper collections by:
 ## Screen Lock
 
 - [i3lock](https://github.com/i3/i3lock)<sup>X11</sup> - Improved screen locker.
+- [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)<sup>X11</sup> - Fast and sweet looking lockscreen with effects.
 - [swaylock](https://github.com/swaywm/swaylock)<sup>Wayland</sup> - Screen locker for Wayland.
   - [swaylock-effects](https://github.com/mortie/swaylock-effects) - Swaylock, with fancy effects
 - [hyprlock](https://github.com/hyprwm/hyprlock)<sup>Wayland</sup> - Hyprland's GPU-accelerated screen locking utility
@@ -602,6 +603,7 @@ Some great GitHub repos with wallpaper collections by:
 
 - [zathura](https://github.com/pwmt/zathura) - Highly customizable and functional document viewer.
 - [Bookworm](https://github.com/babluboy/bookworm) - Simple ebook reader for Elementary OS.
+- [Okular](https://github.com/KDE/okular) - Universal document viewer with advanced annotation and multi-format support.
 
 ### Text Editor
 
@@ -628,6 +630,7 @@ Some great GitHub repos with wallpaper collections by:
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AI collaborative workspace where you achieve more without losing control of your data.
 - [Obsidian](https://obsidian.md/) - Personal knowledge base and note-taking software application that operates on Markdown files.
 - [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad with Markdown preview, real PDF export via Typst, OCR via Tesseract, and automatic version history. Built with Tauri 2. Available on AUR.
+- [Xournal++](https://github.com/xournalpp/xournalpp) - Flexible, fast hand note-taking software. 
 
 
 ### Workstation - Content Creation
