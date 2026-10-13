@@ -469,6 +469,7 @@ Some great GitHub repos with wallpaper collections by:
 #### Mail Client
   - [mutt](https://gitlab.com/muttmua/mutt) - Text-based mail client renowned for its powerful features.
 #### Screenshot
+  - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful tool for capturing and annotating screenshots.
   - [scrot](https://github.com/resurrecting-open-source-projects/scrot) - Command line screen capture utility.
 #### Recording
   - [wf-recorder](https://github.com/ammen99/wf-recorder)<sup>Wayland</sup> - Utility program for screen recording.
