@@ -97,6 +97,7 @@ This very **AWESOME** list is made to help anyone interested in extensively cust
   - [Discord](#discord)
   - [VSCode](#vscode)
 - [Display Manager](#display-manager)
+- [Splash Screen](#splash-screen)
 - [GRUB](#grub)
 - [Installation and Configuration](#installation-and-configuration)
 - [Contribution](#contribution)
@@ -760,6 +761,17 @@ Some great GitHub repos with wallpaper collections by:
   - [Web Greeter](https://github.com/JezerM/web-greeter) - Modern, visually appealing greeter for LightDM.
 - [gdm](https://gitlab.gnome.org/GNOME/gdm) - GNOME Display Manager.
 - [ly](https://github.com/fairyglade/ly) - Display manager with console UI.
+
+
+## Splash Screen
+
+<details>
+  <summary><b>What is a Splash Screen</b></summary>
+    A <b>splash screen</b> is the animation your desktop shows while it loads, right after you log in. On KDE Plasma it's fully themeable.
+</details>
+<br/>
+
+- [fastfetch-kde-splash](https://github.com/DeadIndian/fastfetch-kde-splash) - Matrix-style KDE Plasma splash that renders your `fastfetch` system info with a glitch character-reveal, in full ANSI color.
 
 
 ## GRUB
