@@ -53,19 +53,21 @@ A simple guide for pull requests:
 ### What to add
 
 Any item related to ricing, that:
-  - Works on Linux
+  - Works natively on Linux
   - Is **AWESOME** and sexy
   - Is helpful and useful
   - You saw on [r/unixporn](https://www.reddit.com/r/unixporn/)
-  - YOU made and want to share (project should be at least 4 month old to avoid slop)
+  - Is at least 4 months old (to avoid slop)
 
 is very much welcome.
 
 Please. If you are a vibe coder, and want to share something AI generated to win points, please don't bother.
 
+Also, (please) don't add projects you created. If other people find it useful, it will eventually get added.
+
 ---
 
-List items should be formmated like this:
+List items should be formatted like this:
 ```markdown
 - [Item Name](link) - Description.
 ```
@@ -77,6 +79,8 @@ You can use the original repo's description. To specify display protocol (X11, W
 
 Preview:
 - [Item Name](link)<sup>display-protocol</sup> - Description.
+
+Lastly, add the item to the BOTTOM of the list.
 
 ### License
 
