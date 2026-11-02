@@ -288,6 +288,7 @@ Some great GitHub repos with wallpaper collections by:
 - [fabric](https://github.com/Fabric-Development/fabric/)<sup>X11 + Wayland</sup> - Next-gen framework for building desktop widgets using Python.
 - [Quickshell](https://quickshell.org/)<sup>X11 + Wayland</sup> - Toolkit for building status bars, widgets, lockscreens, and other desktop components using QtQuick.
 
+- [TinyDock](https://github.com/Wian1977/TinyDock)<sup>X11</sup> - Lightweight elastic dock with hover-zoom for GTK3 Linux desktops. (Rust + GTK3)
 > [!NOTE]
 > Some of these tools can also be used to create widgets and other UI elements, not just bars.
 
@@ -794,5 +795,4 @@ Quick note for beginners:
 Any helpful contribution is welcome, see [CONTRIBUTING](CONTRIBUTING.md).
 
 <!-- ### Thanks -->
-
 
