@@ -466,6 +466,7 @@ Some great GitHub repos with wallpaper collections by:
   - [btop](https://github.com/aristocratos/btop) - Resource monitor that shows usage and stats for processor, memory, disks, network and processes.
   - [htop](https://github.com/htop-dev/htop) - Interactive process viewer.
   - [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system.
+  - [orbit-tui](https://github.com/ziuus/orbit-tui) - Terminal system monitor and dashboard with interactive Matrix rain and workspace management.
   - [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility.
 #### Mail Client
   - [mutt](https://gitlab.com/muttmua/mutt) - Text-based mail client renowned for its powerful features.
