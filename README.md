@@ -334,6 +334,7 @@ Some great GitHub repos with wallpaper collections by:
 - [Gauntlet](https://github.com/project-gauntlet/gauntlet)<sup>X11</sup> - Raycast-inspired open-source application launcher with React-based plugins.
 - [fuzzel](https://codeberg.org/dnkl/fuzzel)<sup>Wayland</sup> - Application launcher for wlroots based Wayland compositors, similar to rofi's drun mode.
 - [vicinae](https://github.com/vicinaehq/vicinae) - Focused launcher for your desktop — native, fast, extensible.
+- [keybind-find](https://github.com/Benjmhart/keybind-find)<sup>X11 + Wayland</sup> - Command palette for your whole desktop: searches the keybindings of your window manager and the focused app, read from their configs, and presses the one you pick.
 
 
 ## Notifications Daemon
